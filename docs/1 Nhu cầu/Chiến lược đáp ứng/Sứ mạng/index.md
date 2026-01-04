@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-03T15:44
-updated: 2026-01-04T17:59
+updated: 2026-01-04T18:41
 title: Sứ mạng
 ---
 - \-: 
@@ -57,11 +57,11 @@ title: Sứ mạng
     - [Giảm gánh nặng nhận thức trong việc quản lý và chia sẻ dữ liệu dự án](./Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c/Gi%E1%BA%A3m%20g%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c%20trong%20vi%E1%BB%87c%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20chia%20s%E1%BA%BB%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BB%B1%20%C3%A1n.md)
 
 - Tiền bạc: 
-    - [Giúp nhau thoát nợ](./Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3.md)
     - [Giúp nhân viên đạt được chỉ tiêu](./Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%C3%A2n%20vi%C3%AAn%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%89%20ti%C3%AAu.md)
     - [Giảm áp lực kiếm tiền của mọi người](./Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%E1%BA%A3m%20%C3%A1p%20l%E1%BB%B1c%20ki%E1%BA%BFm%20ti%E1%BB%81n%20c%E1%BB%A7a%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
     - [Mọi người không còn phải lo lắng cơm áo gạo tiền nữa](./Ti%E1%BB%81n%20b%E1%BA%A1c/M%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20c%C3%B2n%20ph%E1%BA%A3i%20lo%20l%E1%BA%AFng%20c%C6%A1m%20%C3%A1o%20g%E1%BA%A1o%20ti%E1%BB%81n%20n%E1%BB%AFa.md)
     - [Chống tư bản](./Ti%E1%BB%81n%20b%E1%BA%A1c/Ch%E1%BB%91ng%20t%C6%B0%20b%E1%BA%A3n.md)
+    - [Giúp những người xung quanh thoát nợ](./Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20n%E1%BB%A3.md)
 
 - Tò mò, thong thả, khoáng đạt, biến hóa: 
     - [Giúp những người muốn tác động bạn mình có thêm thời gian rảnh rỗi](./T%C3%B2%20m%C3%B2,%20thong%20th%E1%BA%A3,%20kho%C3%A1ng%20%C4%91%E1%BA%A1t,%20bi%E1%BA%BFn%20h%C3%B3a/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20t%C3%A1c%20%C4%91%E1%BB%99ng%20b%E1%BA%A1n%20m%C3%ACnh%20c%C3%B3%20th%C3%AAm%20th%E1%BB%9Di%20gian%20r%E1%BA%A3nh%20r%E1%BB%97i.md)
@@ -86,4 +86,5 @@ title: Sứ mạng
     - [Thúc đẩy nghiên cứu liên ngành](./Tri%20th%E1%BB%A9c/Th%C3%BAc%20%C4%91%E1%BA%A9y%20nghi%C3%AAn%20c%E1%BB%A9u%20li%C3%AAn%20ng%C3%A0nh.md)
     - [Giải quyết đa khủng hoảng](./Tri%20th%E1%BB%A9c/Gi%E1%BA%A3i%20quy%E1%BA%BFt%20%C4%91a%20kh%E1%BB%A7ng%20ho%E1%BA%A3ng.md)
     - [Thúc đẩy nông nghiệp sinh thái](./Tri%20th%E1%BB%A9c/Th%C3%BAc%20%C4%91%E1%BA%A9y%20n%C3%B4ng%20nghi%E1%BB%87p%20sinh%20th%C3%A1i.md)
+
 
