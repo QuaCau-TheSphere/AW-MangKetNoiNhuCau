@@ -1,6 +1,6 @@
 ---
 created: 2023-10-28T14:39
-updated: 2026-01-04T15:03
+updated: 2026-01-04T18:41
 share: true
 ---
 Hẳn bạn đã rất nhiều lần nhìn thấy những sơ đồ tổ chức như thế này:

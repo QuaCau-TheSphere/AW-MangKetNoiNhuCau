@@ -1,6 +1,6 @@
 ---
 created: 2026-01-04T15:03
-updated: 2026-01-04T15:04
+updated: 2026-01-04T18:41
 share: true
 ---
 Khi lập bất cứ dự án nào, ta cần phải xác định rõ mục tiêu, nhu cầu, sản phẩm, điểm mạnh, điểm yếu, các bên liên quan, v.v. Những thành phần này liên kết với nhau và tạo thành một mạng lưới lớn. Giả sử như ta lập được một mạng lưới mối liên hệ giữa các nhu cầu và sản phẩm thế này:

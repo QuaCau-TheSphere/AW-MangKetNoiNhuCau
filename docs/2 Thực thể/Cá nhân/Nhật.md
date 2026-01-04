@@ -1,11 +1,11 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-01-04T12:33
+updated: 2026-01-04T18:44
 share: true
 ---
-## Nhu cầu của tôi
+## Nhu cầu hiện tại
 ### Có hạn chót, quan trọng 
-[Giúp nhau thoát nợ](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/S%E1%BB%A9%20m%E1%BA%A1ng/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3.md)
+[Giúp những người xung quanh thoát nợ](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/S%E1%BB%A9%20m%E1%BA%A1ng/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20n%E1%BB%A3.md)
 
 ### Quan trọng, không hạn chót
 [Xây dựng cộng đồng có chủ đích](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/X%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch.md)
@@ -31,7 +31,7 @@ share: true
 [Mọi người không còn phải lo lắng cơm áo gạo tiền nữa](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/S%E1%BB%A9%20m%E1%BA%A1ng/Ti%E1%BB%81n%20b%E1%BA%A1c/M%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20c%C3%B2n%20ph%E1%BA%A3i%20lo%20l%E1%BA%AFng%20c%C6%A1m%20%C3%A1o%20g%E1%BA%A1o%20ti%E1%BB%81n%20n%E1%BB%AFa.md)
 ### Không hạn chót, không quan trọng
 
-## 🎉 Đã giải quyết được những nhu cầu này
+## Những nhu cầu đã được giải quyết
 
 
 ## Cảm nghĩ nhanh

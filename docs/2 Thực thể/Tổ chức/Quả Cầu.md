@@ -1,12 +1,12 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-01-04T15:58
+updated: 2026-01-04T18:44
 share: true
 ---
-## Nhu cầu của tôi
+## Nhu cầu hiện tại
 ### Có hạn chót, quan trọng 
 [Mọi người không còn phải lo lắng cơm áo gạo tiền nữa](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/S%E1%BB%A9%20m%E1%BA%A1ng/Ti%E1%BB%81n%20b%E1%BA%A1c/M%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20c%C3%B2n%20ph%E1%BA%A3i%20lo%20l%E1%BA%AFng%20c%C6%A1m%20%C3%A1o%20g%E1%BA%A1o%20ti%E1%BB%81n%20n%E1%BB%AFa.md):
-- [Giúp nhân viên đạt được chỉ tiêu](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/S%E1%BB%A9%20m%E1%BA%A1ng/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%C3%A2n%20vi%C3%AAn%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%89%20ti%C3%AAu.md). [Giúp nhau thoát nợ](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/S%E1%BB%A9%20m%E1%BA%A1ng/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3.md)
+- [Giúp nhân viên đạt được chỉ tiêu](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/S%E1%BB%A9%20m%E1%BA%A1ng/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%C3%A2n%20vi%C3%AAn%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%89%20ti%C3%AAu.md). [Giúp những người xung quanh thoát nợ](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/S%E1%BB%A9%20m%E1%BA%A1ng/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20n%E1%BB%A3.md)
 - [Hỗ trợ xây dựng mô hình kinh doanh](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/H%E1%BB%97%20tr%E1%BB%A3%20x%C3%A2y%20d%E1%BB%B1ng%20m%C3%B4%20h%C3%ACnh%20kinh%20doanh.md)
 - [Lập quỹ tín dụng vi mô](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/L%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4.md)
 - [Xây dựng hợp tác xã nhân viên](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20nh%C3%A2n%20vi%C3%AAn.md)

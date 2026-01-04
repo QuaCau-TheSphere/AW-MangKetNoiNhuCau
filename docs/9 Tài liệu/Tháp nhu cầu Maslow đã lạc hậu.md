@@ -1,6 +1,6 @@
 ---
 created: 2024-09-08T16:19
-updated: 2026-01-03T15:34
+updated: 2026-01-04T18:41
 share: true
 ---
 Maslow đề xuất ý tưởng tháp nhu cầu năm 1943 (cách nay 80 năm). Năm 1976 đã có những nghiên cứu phản bác cái tháp này (cách nay 50 năm). Theo mình hiểu thì những người làm nghiên cứu tâm lý học cũng không còn sử dụng nó nữa. Thời Maslow thì có lẽ còn chịu ảnh hưởng của phái cấu trúc luận, cho rằng luôn có một trật tự giữa mọi thứ. Xu hướng hiện nay là chất vấn cái cấu trúc này một cách kỹ càng hơn.  
