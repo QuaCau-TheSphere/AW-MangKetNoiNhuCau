@@ -1,12 +1,13 @@
 ---
 created: 2023-10-28T14:39
-updated: 2026-01-04T12:37
+updated: 2026-01-04T18:43
 share: true
 ---
 
 ## Nhu cầu của tôi
 ### Có hạn chót, quan trọng 
-[Thoát nợ](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/C%E1%BA%A5p%20%C4%91%E1%BB%99%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Tho%C3%A1t%20n%E1%BB%A3.md)
+[Thoát khỏi vòng xoáy nợ nần](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/C%E1%BA%A5p%20%C4%91%E1%BB%99%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Tho%C3%A1t%20kh%E1%BB%8Fi%20v%C3%B2ng%20xo%C3%A1y%20n%E1%BB%A3%20n%E1%BA%A7n.md)
+[Được sống như một con người](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/C%E1%BA%A5p%20%C4%91%E1%BB%99%20c%C3%A1%20nh%C3%A2n/Tinh%20th%E1%BA%A7n/%C4%90%C6%B0%E1%BB%A3c%20s%E1%BB%91ng%20nh%C6%B0%20m%E1%BB%99t%20con%20ng%C6%B0%E1%BB%9Di.md)
 
 ### Có hạn chót, không quan trọng 
 ### Quan trọng, không hạn chót
