@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2026-01-02T16:32
-updated: 2026-01-04T13:25
+updated: 2026-01-04T18:41
 ---
-## Nhu cầu của tôi
+## Nhu cầu hiện tại
 ### Có hạn chót, quan trọng 
 ### Có hạn chót, không quan trọng 
 ### Quan trọng, không hạn chót
@@ -15,7 +15,7 @@ updated: 2026-01-04T13:25
 ### Quan trọng, không hạn chót
 ### Không hạn chót, không quan trọng
 
-## 🎉 Đã giải quyết được những nhu cầu này
+## Những nhu cầu đã được giải quyết
 
 
 ## Cảm nghĩ nhanh
