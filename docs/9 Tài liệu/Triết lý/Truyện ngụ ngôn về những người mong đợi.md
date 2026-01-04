@@ -1,6 +1,6 @@
 ---
 created: 2023-10-28T14:39
-updated: 2026-01-04T15:06
+updated: 2026-01-04T18:41
 share: true
 ---
 Ngày xửa ngày xưa, có một căn chòi nằm giữa khu rừng. Thường trực trong căn chòi đó là một vị thiền sư trẻ tuổi nhưng có tiếng trong vùng. Một số người thường tìm đến đây để xin sự chữa lành.
