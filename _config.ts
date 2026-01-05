@@ -4,6 +4,7 @@ import metas from "lume/plugins/metas.ts";
 import ogImages from "lume/plugins/og_images.ts";
 import sitemap from "lume/plugins/sitemap.ts";
 import mermaid from "jsr:@ooker777/lume-mermaid-plugin";
+import checkUrls from "lume/plugins/check_urls.ts";
 
 const markdown = {
   options: {
@@ -30,5 +31,8 @@ site.use(ogImages());
 site.use(metas());
 site.use(sitemap());
 site.use(mermaid())
+site.use(checkUrls({
+  output: "_broken_links.json",
+}));
 
 export default site;

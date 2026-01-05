@@ -1,13 +1,23 @@
 description: Làm cho chúng ta thấy nhau rõ hơn
 metas:
-  title: =title
+  title: =title 
   description: =description
-  site: Mạng kết nối nhu cầu
+  site: Mạng kết nối nhu cầu  
   icon: /favicon.ico
   lang: vi
   generator: true
 
+menu_links: 
+  - text: Thảo luận với cộng đồng
+    href: https://doi-thoai.deno.dev/discordQC.48.1
+    icon: chats-circle
+  - text: Tải dữ liệu về
+    href: https://github.com/QuaCau-TheSphere/AV-MangKetNoiNhuCau
+    icon: github-logo
+
 openGraphLayout: og_image.jsx
+repo: https://github.com/QuaCau-TheSphere/AV-MangKetNoiNhuCau/
+
 extra_head: |
   <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -24,6 +34,3 @@ extra_head: |
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });
   </script>
-
-extra_menu: |
-  test
