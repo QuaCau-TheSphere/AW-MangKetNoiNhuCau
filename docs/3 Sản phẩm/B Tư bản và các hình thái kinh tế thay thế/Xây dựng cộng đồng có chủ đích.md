@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-01-04T18:41
+updated: 2026-01-05T09:24
 share: true
 ---
 ## Những người đang có nhu cầu này
@@ -21,8 +21,8 @@ share: true
 ## Giải pháp gợi ý
 
 ## Nhu cầu liên quan
-- [Tự do tài chính](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/C%E1%BA%A5p%20%C4%91%E1%BB%99%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/T%E1%BB%B1%20do%20t%C3%A0i%20ch%C3%ADnh.md)
 - [Những người quanh mình gắn kết với nhau nhiều hơn](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/C%E1%BA%A5p%20%C4%91%E1%BB%99%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20quanh%20m%C3%ACnh%20g%E1%BA%AFn%20k%E1%BA%BFt%20v%E1%BB%9Bi%20nhau%20nhi%E1%BB%81u%20h%C6%A1n.md)
+- [Tự do tài chính](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/C%E1%BA%A5p%20%C4%91%E1%BB%99%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/T%E1%BB%B1%20do%20t%C3%A0i%20ch%C3%ADnh.md)
 - [Chỗ ở](../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/Ch%E1%BB%97%20%E1%BB%9F.md)
 
 
