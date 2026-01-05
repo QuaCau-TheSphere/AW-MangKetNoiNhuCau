@@ -1,6 +1,6 @@
 ---
 created: 2025-12-30T13:01
-updated: 2026-01-04T18:44
+updated: 2026-01-05T10:07
 share: true
 filename: index
 title: Giới thiệu
@@ -18,9 +18,8 @@ Danh sách các nhu cầu:
 ![Mạng lưới demo.png](./attachments/M%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20demo.png)
 
 Triết lý:
-- [Hải lưu và vùng đất](./9%20T%C3%A0i%20li%E1%BB%87u/Tri%E1%BA%BFt%20l%C3%BD/H%E1%BA%A3i%20l%C6%B0u%20v%C3%A0%20v%C3%B9ng%20%C4%91%E1%BA%A5t.md)
 - [Một đám mây chim sáo](./9%20T%C3%A0i%20li%E1%BB%87u/Tri%E1%BA%BFt%20l%C3%BD/M%E1%BB%99t%20%C4%91%C3%A1m%20m%C3%A2y%20chim%20s%C3%A1o.md)
+- [Hải lưu và vùng đất](./9%20T%C3%A0i%20li%E1%BB%87u/Tri%E1%BA%BFt%20l%C3%BD/H%E1%BA%A3i%20l%C6%B0u%20v%C3%A0%20v%C3%B9ng%20%C4%91%E1%BA%A5t.md)
 - [Truyện ngụ ngôn về những người mong đợi](./9%20T%C3%A0i%20li%E1%BB%87u/Tri%E1%BA%BFt%20l%C3%BD/Truy%E1%BB%87n%20ng%E1%BB%A5%20ng%C3%B4n%20v%E1%BB%81%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20mong%20%C4%91%E1%BB%A3i.md)
-
 
 Các câu hỏi xem tại [FAQ](./9%20T%C3%A0i%20li%E1%BB%87u/FAQ.md).
