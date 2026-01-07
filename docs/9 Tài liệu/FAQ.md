@@ -1,6 +1,6 @@
 ---
 created: 2023-10-28T14:39
-updated: 2026-01-04T18:41
+updated: 2026-01-05T20:51
 share: true
 ---
 ## Có những nhu cầu không muốn người khác biết mình có
@@ -77,11 +77,11 @@ Vậy thì mình chỉ giúp nhau những nhu cầu mà mình có thể giúp nh
 ## Các group FB sẽ giúp tốt hơn là vào đây
 
 ## Cần bao nhiêu người để nó có thể hoạt động hiệu quả
-
+Giá trị của một mạng lưới tùy phụ thuộc vào , tuân theo hiệu ứng mạng. Ban đầu 
 
 ## Bộ luật
 Quy định 1: Phải làm rõ nhu cầu của mình thông qua trao đổi, nội quan, v.v.
 Quy định 2: Về vấn đề thống nhất trong trao đổi
 
-Hoạt động:: [Tạo bộ quy tắc cho mạng kết nối nhu cầu](../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/S%E1%BB%A9%20m%E1%BA%A1ng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c/T%E1%BA%A1o%20b%E1%BB%99%20quy%20t%E1%BA%AFc%20cho%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u.md)
+Hoạt động:: [Tạo bộ quy tắc cho mạng kết nối nhu cầu](../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c/T%E1%BA%A1o%20b%E1%BB%99%20quy%20t%E1%BA%AFc%20cho%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u.md)
 
