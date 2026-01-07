@@ -1,18 +1,18 @@
 ---
 created: 2025-12-30T13:01
-updated: 2026-01-05T10:07
+updated: 2026-01-07T13:16
 share: true
 filename: index
 title: Giới thiệu
 ---
 # Mạng kết nối nhu cầu
-Mạng kết nối nhu cầu là một nơi **làm cho chúng ta thấy nhau rõ hơn**. Người tham gia sẽ liệt kê các nhu cầu của mình. Nhu cầu nào có nhiều người quan tâm sẽ trở thành chủ đề của một buổi thảo luận, để những ai quan tâm đến nó sẽ cùng tìm giải pháp. Những tài nguyên, giải pháp sẽ được ghi lại để những người đến sau được đáp ứng nhanh hơn.
+Mạng kết nối nhu cầu là một nơi **làm cho chúng ta thấy nhau rõ hơn**. Người tham gia sẽ liệt kê các nhu cầu của mình. Nhu cầu nào có nhiều người quan tâm sẽ trở thành chủ đề của một buổi thảo luận, để những ai quan tâm đến nó sẽ cùng tìm giải pháp. Đó sẽ là tiền đề để tạo ra các nhóm tự hỗ trợ nhau (mutual aid). Những tài nguyên, giải pháp sẽ được ghi lại để những người đến sau được đáp ứng nhanh hơn.
 
-Danh sách các nhu cầu:
+Các nhu cầu được phân loại ra thành:
 - [Nhu cầu phổ quát](./1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/index.md)
-- [Cấp độ cá nhân](./1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/C%E1%BA%A5p%20%C4%91%E1%BB%99%20c%C3%A1%20nh%C3%A2n/index.md)
-- [Cấp độ dự án](./1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/C%E1%BA%A5p%20%C4%91%E1%BB%99%20d%E1%BB%B1%20%C3%A1n/index.md)
-- [Sứ mạng](./1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/S%E1%BB%A9%20m%E1%BA%A1ng/index.md)
+- [Nhu cầu cá nhân](./1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/index.md)
+- [Nhu cầu dự án](./1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/index.md)
+- [Nhu cầu sứ mạng](./1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/index.md)
 
 Đây là hình ảnh một mạng lưới. Những chấm màu là các cá nhân, tổ chức. Những chấm xám là các nhu cầu. Nhìn vào mạng lưới ta thấy ngay được các nhu cầu chung của mạng lưới này là gì:
 ![Mạng lưới demo.png](./attachments/M%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20demo.png)
