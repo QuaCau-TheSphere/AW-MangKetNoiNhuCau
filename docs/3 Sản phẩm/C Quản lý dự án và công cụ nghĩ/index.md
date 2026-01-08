@@ -1,6 +1,6 @@
 ---
 created: 2025-05-16T19:09
-updated: 2026-01-07T18:14
+updated: 2026-01-08T16:45
 share: true
 title: C Quản lý dự án và công cụ nghĩ
 ---
@@ -36,7 +36,7 @@ Dự đoán đa phần họ sẽ ở các đô thị lớn và không quá 35 tu
 ## Các hoạt động chính
 - [Xây dựng các kho tài nguyên chung](./X%C3%A2y%20d%E1%BB%B1ng%20c%C3%A1c%20kho%20t%C3%A0i%20nguy%C3%AAn%20chung.md)
 - [Xây dựng hệ thống quản lý niềm tin giúp thúc đẩy sự đối thoại](../F%20Ni%E1%BB%81m%20tin%20v%C3%A0%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ni%E1%BB%81m%20tin%20gi%C3%BAp%20th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md)
-- [Xây dựng mạng kết nối nhu cầu](../B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u.md)
+- [Xây dựng mạng kết nối nhu cầu](../A%20M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u.md)
 - [Giúp người thụ hưởng truy vấn, liên kết thông tin từ kho khác và tự động hoá việc đóng góp dữ liệu vào chúng](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Gi%C3%BAp%20truy%20v%E1%BA%A5n,%20li%C3%AAn%20k%E1%BA%BFt%20th%C3%B4ng%20tin%20t%E1%BB%AB%20kho%20kh%C3%A1c%20v%C3%A0%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20vi%E1%BB%87c%20%C4%91%C3%B3ng%20g%C3%B3p%20d%E1%BB%AF%20li%E1%BB%87u%20v%C3%A0o%20ch%C3%BAng.md)
 - [Hỗ trợ người thụ hưởng thử nghiệm ý tưởng mới và kiểm tra giả thiết ngay khi chúng vừa được nghĩ ra](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c/H%E1%BB%97%20tr%E1%BB%A3%20th%E1%BB%AD%20nghi%E1%BB%87m%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20m%E1%BB%9Bi%20v%C3%A0%20ki%E1%BB%83m%20tra%20gi%E1%BA%A3%20thi%E1%BA%BFt%20ngay%20khi%20ch%C3%BAng%20v%E1%BB%ABa%20%C4%91%C6%B0%E1%BB%A3c%20ngh%C4%A9%20ra.md) 
 - [Tăng số lượng các lập trình viên chân đất (barefoot developer) viết được phần mềm như nấu ăn ở nhà (homecooked software)](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c/T%C4%83ng%20s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20c%C3%A1c%20l%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20ch%C3%A2n%20%C4%91%E1%BA%A5t%20(barefoot%20developer)%20vi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20ph%E1%BA%A7n%20m%E1%BB%81m%20nh%C6%B0%20n%E1%BA%A5u%20%C4%83n%20%E1%BB%9F%20nh%C3%A0%20(homecooked%20software).md)
