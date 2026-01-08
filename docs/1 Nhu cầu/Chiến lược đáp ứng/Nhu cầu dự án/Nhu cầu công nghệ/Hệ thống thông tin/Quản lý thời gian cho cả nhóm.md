@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-05T22:43
-updated: 2026-01-04T18:41
+updated: 2026-01-07T16:36
 ---
 Đáp ứng cho nhu cầu công việc: [Nắm bắt hoạt động của nhau](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/Qu%E1%BA%A3n%20tr%E1%BB%8B/N%E1%BA%AFm%20b%E1%BA%AFt%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20nhau.md)
 

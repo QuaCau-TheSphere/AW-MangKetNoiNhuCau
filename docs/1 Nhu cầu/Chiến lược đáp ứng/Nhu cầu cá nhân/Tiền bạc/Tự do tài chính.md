@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-01-04T18:42
+updated: 2026-01-08T13:09
 share: true
 aliases:
   - Không phải nghĩ đến chuyện phải kiếm tiền để sống
@@ -18,7 +18,7 @@ Có tiền sao mà ăn thoải mái ko cần phải lo nghĩ, tính toán, đư�
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
 [Thoát khỏi vòng xoáy nợ nần](./C%E1%BA%AFt%20n%E1%BB%A3/Tho%C3%A1t%20kh%E1%BB%8Fi%20v%C3%B2ng%20xo%C3%A1y%20n%E1%BB%A3%20n%E1%BA%A7n.md)
 [Có thu nhập thụ động](./Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng/index.md)
-[Có vật chất](../T%C3%A0i%20nguy%C3%AAn/V%E1%BA%ADt%20ch%E1%BA%A5t.md)
+[Có vật chất](../T%C3%A0i%20nguy%C3%AAn/C%C3%B3%20v%E1%BA%ADt%20ch%E1%BA%A5t.md)
 
 ## Giả thiết 
 - lập ra một kế hoạch để bán thân trong một khoảng thời gian nào đó, đạt được số tiền đó, tính thêm được đồng tiền mất giá
