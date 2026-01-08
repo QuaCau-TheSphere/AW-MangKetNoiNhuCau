@@ -1,12 +1,12 @@
 ---
 created: 2025-12-30T13:01
-updated: 2026-01-07T13:16
+updated: 2026-01-08T12:43
 share: true
 filename: index
 title: Giới thiệu
 ---
 # Mạng kết nối nhu cầu
-Mạng kết nối nhu cầu là một nơi **làm cho chúng ta thấy nhau rõ hơn**. Người tham gia sẽ liệt kê các nhu cầu của mình. Nhu cầu nào có nhiều người quan tâm sẽ trở thành chủ đề của một buổi thảo luận, để những ai quan tâm đến nó sẽ cùng tìm giải pháp. Đó sẽ là tiền đề để tạo ra các nhóm tự hỗ trợ nhau (mutual aid). Những tài nguyên, giải pháp sẽ được ghi lại để những người đến sau được đáp ứng nhanh hơn.
+Mạng kết nối nhu cầu là một nơi **làm cho chúng ta thấy nhau rõ hơn**. Người tham gia sẽ liệt kê các nhu cầu của mình. Với mỗi nhu cầu hoặc nhóm nhu cầu liên quan tới nhau, những ai quan tâm sẽ nó sẽ cùng tìm giải pháp với nhau, trở thành các nhóm tự hỗ trợ nhau (mutual aid). Những tài nguyên, giải pháp sẽ được ghi lại để những người đến sau được đáp ứng nhanh hơn.
 
 Các nhu cầu được phân loại ra thành:
 - [Nhu cầu phổ quát](./1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/index.md)
