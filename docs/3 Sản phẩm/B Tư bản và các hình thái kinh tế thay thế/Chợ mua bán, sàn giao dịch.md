@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-08T16:06
-updated: 2026-01-08T16:45
+updated: 2026-01-09T10:35
 ---
 ## [Nhu cầu cá nhân](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/index.md)
 - [Có người giúp việc nhà](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20gi%C3%BAp%20vi%E1%BB%87c%20nh%C3%A0.md)
@@ -23,6 +23,11 @@ Nhà 117/2 Xô Viết Nghệ Tĩnh là nhà 3 tầng, mỗi tầng cho thuê:
 
 ### Bảo hiểm
 Bảo Việt
+
+## Sữa bột
+Nguyễn Hữu Tần, HN
+Sữa bột Abbott (Ensure, Glucerna, Pediasure, Similac, Grow)
+Giá theo thời điểm
 
 ## [Nhu cầu sứ mạng](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/index.md)
 - [Kiện GM](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/Ki%E1%BB%87n%20GM.md)
