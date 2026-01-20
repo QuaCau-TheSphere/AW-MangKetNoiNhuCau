@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-01-08T16:45
+updated: 2026-01-14T14:24
 share: true
 ---
 ## Nhu cầu hiện tại
@@ -11,6 +11,7 @@ share: true
 - [Hỗ trợ xây dựng mô hình kinh doanh](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/H%E1%BB%97%20tr%E1%BB%A3%20x%C3%A2y%20d%E1%BB%B1ng%20m%C3%B4%20h%C3%ACnh%20kinh%20doanh.md)
 - [Lập quỹ tín dụng vi mô](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/L%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4.md)
 - [Xây dựng hợp tác xã nhân viên](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20nh%C3%A2n%20vi%C3%AAn.md)
+- [Xây dựng cộng đồng](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/X%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
 
 ### Quan trọng, không hạn chót
 [Có cộng đồng phát triển](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/C%C3%B3%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ph%C3%A1t%20tri%E1%BB%83n.md):
