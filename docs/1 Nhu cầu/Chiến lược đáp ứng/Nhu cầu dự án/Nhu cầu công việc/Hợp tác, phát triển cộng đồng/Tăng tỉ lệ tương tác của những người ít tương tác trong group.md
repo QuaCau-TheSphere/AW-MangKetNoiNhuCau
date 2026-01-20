@@ -16,6 +16,7 @@ share: true
 ## Giải pháp gợi ý
 
 ## Nhu cầu liên quan
+- [Xây dựng cộng đồng](./X%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
 
 
 ## Thảo luận khác
