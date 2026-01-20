@@ -7,7 +7,7 @@ share: true
 
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
-[Đi du lịch](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/C%E1%BA%A5p%20%C4%91%E1%BB%99%20c%C3%A1%20nh%C3%A2n/Tinh%20th%E1%BA%A7n/%C4%90i%20du%20l%E1%BB%8Bch.md)
+[Đi du lịch](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%BA%20vui/%C4%90i%20du%20l%E1%BB%8Bch.md)
 
 ## Giả thiết 
 
