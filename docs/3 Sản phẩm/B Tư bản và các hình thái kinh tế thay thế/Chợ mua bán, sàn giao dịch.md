@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-08T16:06
-updated: 2026-01-09T10:35
+updated: 2026-01-09T14:47
 ---
 ## [Nhu cầu cá nhân](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/index.md)
 - [Có người giúp việc nhà](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20gi%C3%BAp%20vi%E1%BB%87c%20nh%C3%A0.md)
@@ -15,11 +15,15 @@ updated: 2026-01-09T10:35
 ### Đặt hàng Shopee, Tiktok hộ
 Giá giảm 15-20% giá gốc + freeship hỏa tốc tùy nơi tùy đơn hàng. Chỉ cần gửi link qua là được, bên mình sẽ check giá, thấy ok hợp lý thì bạn chuyển khoản và hàng sẽ được đặt giao tới.
 
-### Cho thuê nhà
+### Nhà cửa
+#### Cho thuê 
 Nhà 117/2 Xô Viết Nghệ Tĩnh là nhà 3 tầng, mỗi tầng cho thuê:
 - Nhà 01 trệt và 02 lầu, 
 - Mặt tiền khoảng 7 m, sâu 6.8 m
 - Mỗi tầng đều có nhà vệ sinh
+
+#### Bán
+căn vin ở q9 chưa bàn giao giá 4 tỉ bao thuế phí. Khách trả phần tiền còn lại. Ko nhận cọc, hoặc cùng lắm thì ra công chứng nhận. 
 
 ### Bảo hiểm
 Bảo Việt
