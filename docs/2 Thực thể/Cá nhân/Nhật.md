@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-01-19T15:04
+updated: 2026-01-21T12:18
 share: true
 ---
 ## Nhu cầu hiện tại
@@ -8,7 +8,6 @@ share: true
 [Giúp những người xung quanh thoát nợ](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/C%C3%B4ng%20vi%E1%BB%87c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20n%E1%BB%A3.md)
 
 ### Quan trọng, không hạn chót
-[Xây dựng cộng đồng có chủ đích](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/X%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch.md)
 [Có thời gian tập thể dục và chế độ ăn khoẻ mạnh](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/C%C3%B3%20th%E1%BB%9Di%20gian%20t%E1%BA%ADp%20th%E1%BB%83%20d%E1%BB%A5c%20v%C3%A0%20ch%E1%BA%BF%20%C4%91%E1%BB%99%20%C4%83n%20kho%E1%BA%BB%20m%E1%BA%A1nh.md)
 
 [Muốn mọi người thấy được sự đối xứng trong việc cảm nhận thực tại khi phê phán sự cảm nhận thực tại của người khác](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/%C4%90%E1%BB%91i%20x%E1%BB%A9ng/Mu%E1%BB%91n%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20%C4%91%E1%BB%91i%20x%E1%BB%A9ng%20trong%20vi%E1%BB%87c%20c%E1%BA%A3m%20nh%E1%BA%ADn%20th%E1%BB%B1c%20t%E1%BA%A1i%20khi%20ph%C3%AA%20ph%C3%A1n%20s%E1%BB%B1%20c%E1%BA%A3m%20nh%E1%BA%ADn%20th%E1%BB%B1c%20t%E1%BA%A1i%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
@@ -28,9 +27,12 @@ share: true
 
 ## Nếu một người có những nhu cầu này, tôi sẵn sàng hỗ trợ
 ### Sẽ tìm mọi cách để xếp lịch thảo luận
-[](.md)
+[Giúp những người xung quanh thoát nợ](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/C%C3%B4ng%20vi%E1%BB%87c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20n%E1%BB%A3.md)
+[Xây dựng cộng đồng có chủ đích](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/X%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch.md)
+
 ### Tiện thì làm
 [Có người học bảo hiểm](C%C3%B3%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%8Dc%20b%E1%BA%A3o%20hi%E1%BB%83m.md)
 
 ## Sản phẩm muốn tham gia
 [Xây dựng cộng đồng có chủ đích](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/X%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch.md)
+[](.md)
