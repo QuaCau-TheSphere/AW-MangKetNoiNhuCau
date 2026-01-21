@@ -1,6 +1,6 @@
 ---
 share: true
-created: 2025-12-24T19:26
+created: 2026-01-21T12:16
 updated: 2026-01-21T12:16
 ---
 ## Những người đang có nhu cầu này
@@ -9,6 +9,8 @@ updated: 2026-01-21T12:16
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
 
 ## Giả thiết 
+
+## Ví dụ biểu hiện
 
 ## Giải pháp gợi ý
 
