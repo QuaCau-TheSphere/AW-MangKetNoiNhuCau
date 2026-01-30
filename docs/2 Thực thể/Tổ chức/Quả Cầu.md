@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-01-14T14:24
+updated: 2026-01-23T11:46
 share: true
 ---
 ## Nhu cầu hiện tại
@@ -29,7 +29,7 @@ share: true
 - [Xây dựng các kho tài nguyên chung](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/C%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%A1c%20kho%20t%C3%A0i%20nguy%C3%AAn%20chung.md)
 
 [Xây dựng hệ thống quản lý niềm tin giúp thúc đẩy sự đối thoại](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/F%20Ni%E1%BB%81m%20tin%20v%C3%A0%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ni%E1%BB%81m%20tin%20gi%C3%BAp%20th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md). [Xây dựng mạng lưới người thân, bạn bè của người có niềm tin tiêu cực](X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20th%C3%A2n,%20b%E1%BA%A1n%20b%C3%A8%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20ni%E1%BB%81m%20tin%20ti%C3%AAu%20c%E1%BB%B1c.md):
-- [Xóa bỏ sự mỉa mai, thù ghét, tấn công cá nhân](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Tr%C3%A2n%20tr%E1%BB%8Dng%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/X%C3%B3a%20b%E1%BB%8F%20s%E1%BB%B1%20m%E1%BB%89a%20mai,%20th%C3%B9%20gh%C3%A9t,%20t%E1%BA%A5n%20c%C3%B4ng%20c%C3%A1%20nh%C3%A2n.md) 
+- [Xóa bỏ sự mỉa mai, thù ghét, bắt nạt](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Tr%C3%A2n%20tr%E1%BB%8Dng%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/X%C3%B3a%20b%E1%BB%8F%20s%E1%BB%B1%20m%E1%BB%89a%20mai,%20th%C3%B9%20gh%C3%A9t,%20b%E1%BA%AFt%20n%E1%BA%A1t.md) 
 - [Tạo môi trường để những người thù ghét người khác muốn trò chuyện với người họ thù ghét](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/%C4%90%E1%BB%91i%20di%E1%BB%87n/T%E1%BA%A1o%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20%C4%91%E1%BB%83%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20th%C3%B9%20gh%C3%A9t%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20mu%E1%BB%91n%20tr%C3%B2%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%8D%20th%C3%B9%20gh%C3%A9t.md) 
 
 [Xây dựng nhóm nghiên cứu liên ngành](X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m%20nghi%C3%AAn%20c%E1%BB%A9u%20li%C3%AAn%20ng%C3%A0nh.md):

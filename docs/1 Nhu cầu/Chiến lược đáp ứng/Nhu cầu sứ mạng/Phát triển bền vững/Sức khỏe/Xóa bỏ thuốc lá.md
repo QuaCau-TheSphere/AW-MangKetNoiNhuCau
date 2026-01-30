@@ -1,7 +1,7 @@
 ---
-created: 2024-08-31T16:54
-updated: 2026-01-29T14:26
 share: true
+created: 2026-01-07T13:26
+updated: 2026-01-23T11:51
 ---
 ## Những người đang có nhu cầu này
 
@@ -9,11 +9,10 @@ share: true
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
 
 ## Giả thiết 
-
+[Những người xung quanh tác động](../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng/Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20t%C3%A1c%20%C4%91%E1%BB%99ng.md)
 ## Giải pháp gợi ý
 
 ## Nhu cầu liên quan
-- [Không unfriend, block nhau](../../Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/C%E1%BB%99ng%20%C4%91%E1%BB%93ng/Kh%C3%B4ng%20unfriend,%20block%20nhau.md)
 
 
 ## Thảo luận khác
