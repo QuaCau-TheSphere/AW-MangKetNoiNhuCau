@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-02T16:32
-updated: 2026-01-04T21:31
+updated: 2026-01-28T14:57
 ---
 ## Nhu cầu hiện tại
 ### Có hạn chót, quan trọng 
