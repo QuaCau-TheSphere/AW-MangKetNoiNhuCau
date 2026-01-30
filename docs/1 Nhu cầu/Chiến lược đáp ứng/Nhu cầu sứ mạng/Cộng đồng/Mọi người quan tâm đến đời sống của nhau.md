@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-01T12:41
-updated: 2026-01-05T09:25
+updated: 2026-01-29T12:58
 ---
 ## Những người đang có nhu cầu này
 
@@ -21,7 +21,7 @@ updated: 2026-01-05T09:25
 - [Những người quanh mình gắn kết với nhau nhiều hơn](../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20quanh%20m%C3%ACnh%20g%E1%BA%AFn%20k%E1%BA%BFt%20v%E1%BB%9Bi%20nhau%20nhi%E1%BB%81u%20h%C6%A1n.md)
 - [Xây dựng nhóm sinh thái](./X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m%20sinh%20th%C3%A1i.md)
 - [Giúp những người xung quanh thoát nợ](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/C%C3%B4ng%20vi%E1%BB%87c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20n%E1%BB%A3.md)
-- [Xóa bỏ sự mỉa mai, thù ghét, tấn công cá nhân](../Tr%C3%A2n%20tr%E1%BB%8Dng%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/X%C3%B3a%20b%E1%BB%8F%20s%E1%BB%B1%20m%E1%BB%89a%20mai,%20th%C3%B9%20gh%C3%A9t,%20t%E1%BA%A5n%20c%C3%B4ng%20c%C3%A1%20nh%C3%A2n.md)
+- [Xóa bỏ sự mỉa mai, thù ghét, bắt nạt](../Tr%C3%A2n%20tr%E1%BB%8Dng%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/X%C3%B3a%20b%E1%BB%8F%20s%E1%BB%B1%20m%E1%BB%89a%20mai,%20th%C3%B9%20gh%C3%A9t,%20b%E1%BA%AFt%20n%E1%BA%A1t.md)
 - [Mọi người đi đến tận cùng của sự đối thoại](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i/V%C3%A9t%20c%E1%BA%A1n/M%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20%C4%91i%20%C4%91%E1%BA%BFn%20t%E1%BA%ADn%20c%C3%B9ng%20c%E1%BB%A7a%20s%E1%BB%B1%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md)
 
 
