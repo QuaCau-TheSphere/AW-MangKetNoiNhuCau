@@ -1,6 +1,6 @@
 ---
 created: 2025-05-16T19:09
-updated: 2026-01-08T16:45
+updated: 2026-02-07T12:52
 share: true
 title: C Quản lý dự án và công cụ nghĩ
 ---
