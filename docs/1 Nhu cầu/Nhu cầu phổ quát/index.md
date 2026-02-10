@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-03T11:48
-updated: 2026-01-05T08:19
+updated: 2026-02-09T16:53
 title: Nhu cầu phổ quát
 ---
 Bài chi tiết: [Các nhóm nhu cầu của cá nhân](../../9%20T%C3%A0i%20li%E1%BB%87u/Ph%C3%A2n%20lo%E1%BA%A1i%20nhu%20c%E1%BA%A7u/C%C3%A1c%20nh%C3%B3m%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20c%C3%A1%20nh%C3%A2n.md)
@@ -9,22 +9,22 @@ Bài chi tiết: [Các nhóm nhu cầu của cá nhân](../../9%20T%C3%A0i%20li%
     - [Nhu cầu phổ quát](index.md)
 
 - Mối quan hệ với người khác: 
-    - [Sự hỗ trợ](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20h%E1%BB%97%20tr%E1%BB%A3.md)
     - [Sự an toàn về cảm xúc](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20an%20to%C3%A0n%20v%E1%BB%81%20c%E1%BA%A3m%20x%C3%BAc.md)
     - [Sự chấp nhận](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20ch%E1%BA%A5p%20nh%E1%BA%ADn.md)
     - [Sự ghi nhận](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20ghi%20nh%E1%BA%ADn.md)
-    - [Sự thấu cảm](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20th%E1%BA%A5u%20c%E1%BA%A3m.md)
+    - [Sự hỗ trợ](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20h%E1%BB%97%20tr%E1%BB%A3.md)
     - [Sự kết nối](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20k%E1%BA%BFt%20n%E1%BB%91i.md)
-    - [Sự thuộc về](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20thu%E1%BB%99c%20v%E1%BB%81.md)
     - [Sự quan tâm](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20quan%20t%C3%A2m.md)
-    - [Sự tôn trọng](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20t%C3%B4n%20tr%E1%BB%8Dng.md)
-    - [Sự trung thực](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20trung%20th%E1%BB%B1c.md)
-    - [Sự tin tưởng](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20tin%20t%C6%B0%E1%BB%9Fng.md)
+    - [Sự thuộc về](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20thu%E1%BB%99c%20v%E1%BB%81.md)
+    - [Sự thấu cảm](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20th%E1%BA%A5u%20c%E1%BA%A3m.md)
     - [Sự thấu hiểu](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20th%E1%BA%A5u%20hi%E1%BB%83u.md)
-    - [Sự yên tâm](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20y%C3%AAn%20t%C3%A2m.md)
-    - [Sự tử tế](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20t%E1%BB%AD%20t%E1%BA%BF.md)
-    - [Sự đóng góp](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20%C4%91%C3%B3ng%20g%C3%B3p.md)
+    - [Sự tin tưởng](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20tin%20t%C6%B0%E1%BB%9Fng.md)
+    - [Sự trung thực](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20trung%20th%E1%BB%B1c.md)
+    - [Sự tôn trọng](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20t%C3%B4n%20tr%E1%BB%8Dng.md)
     - [Sự tương trợ lẫn nhau](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20t%C6%B0%C6%A1ng%20tr%E1%BB%A3%20l%E1%BA%ABn%20nhau.md)
+    - [Sự tử tế](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20t%E1%BB%AD%20t%E1%BA%BF.md)
+    - [Sự yên tâm](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20y%C3%AAn%20t%C3%A2m.md)
+    - [Sự đóng góp](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20%C4%91%C3%B3ng%20g%C3%B3p.md)
     - [Tình yêu thương](./M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/T%C3%ACnh%20y%C3%AAu%20th%C6%B0%C6%A1ng.md)
 
 - Nuôi dưỡng thể chất: 
@@ -32,17 +32,17 @@ Bài chi tiết: [Các nhóm nhu cầu của cá nhân](../../9%20T%C3%A0i%20li%
     - [Không khí](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/Kh%C3%B4ng%20kh%C3%AD.md)
     - [Nghỉ ngơi](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/Ngh%E1%BB%89%20ng%C6%A1i.md)
     - [Nước uống](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/N%C6%B0%E1%BB%9Bc%20u%E1%BB%91ng.md)
+    - [Sự an toàn](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/S%E1%BB%B1%20an%20to%C3%A0n.md)
     - [Sự thể hiện giới tính](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/S%E1%BB%B1%20th%E1%BB%83%20hi%E1%BB%87n%20gi%E1%BB%9Bi%20t%C3%ADnh.md)
     - [Thức ăn](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/Th%E1%BB%A9c%20%C4%83n.md)
     - [Vận động, thể dục](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/V%E1%BA%ADn%20%C4%91%E1%BB%99ng,%20th%E1%BB%83%20d%E1%BB%A5c.md)
-    - [Sự an toàn](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/S%E1%BB%B1%20an%20to%C3%A0n.md)
 
 - Nuôi dưỡng tinh thần: 
     - [Cái đẹp](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/C%C3%A1i%20%C4%91%E1%BA%B9p.md)
     - [Cảm hứng](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/C%E1%BA%A3m%20h%E1%BB%A9ng.md)
+    - [Sự hài hòa](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/S%E1%BB%B1%20h%C3%A0i%20h%C3%B2a.md)
     - [Sự trật tự, ngăn nắp](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/S%E1%BB%B1%20tr%E1%BA%ADt%20t%E1%BB%B1,%20ng%C4%83n%20n%E1%BA%AFp.md)
     - [Sự yên tĩnh, bình an](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/S%E1%BB%B1%20y%C3%AAn%20t%C4%A9nh,%20b%C3%ACnh%20an.md)
-    - [Sự hài hòa](./Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/S%E1%BB%B1%20h%C3%A0i%20h%C3%B2a.md)
 
 - Sự kỷ niệm: 
     - [Kỷ niệm những cột mốc quan trọng](./S%E1%BB%B1%20k%E1%BB%B7%20ni%E1%BB%87m/K%E1%BB%B7%20ni%E1%BB%87m%20nh%E1%BB%AFng%20c%E1%BB%99t%20m%E1%BB%91c%20quan%20tr%E1%BB%8Dng.md)

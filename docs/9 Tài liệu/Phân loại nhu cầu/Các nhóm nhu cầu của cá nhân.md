@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-12-28
-updated: 2026-01-07T13:24
+updated: 2026-02-09T16:53
 description: Nhu cầu là một trong 4 thành tố của Giao tiếp trắc ẩn. Bài viết này sẽ chỉ ra đâu là thứ nằm sau mỗi cảm xúc của chúng ta.
 ---
 ![Các nhu cầu - solid.svg](../../attachments/C%C3%A1c%20nhu%20c%E1%BA%A7u%20-%20solid.svg)
