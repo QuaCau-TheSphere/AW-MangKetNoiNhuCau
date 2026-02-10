@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2026-01-10T11:08
-updated: 2026-02-02T17:54
+updated: 2026-02-10T12:22
 ---
-Mạng kết nối nhu cầu là một nơi **làm cho chúng ta thấy nhau rõ hơn**. Người tham gia sẽ liệt kê các nhu cầu của mình. Đó là cách để mình hiểu mình muốn gì, cũng như lên kế hoạch cuộc đời.
+Mạng kết nối nhu cầu là một nơi **làm cho chúng ta thấy nhau rõ hơn**. Các cá nhân, tổ chức sẽ liệt kê các nhu cầu của mình. Đó là cách để mình hiểu mình muốn gì, làm rõ các giả định, lên chiến lược, cũng như lên kế hoạch. Những sản phẩm họ tạo ra sẽ trở thành [now page](https://nownownow.com/) của họ.
 
 Với mỗi nhu cầu hoặc nhóm nhu cầu liên quan tới nhau, những ai quan tâm sẽ cùng đến với nhau để thảo luận, trở thành các nhóm tự hỗ trợ nhau (mutual aid). Các nhóm đó còn có thể gọi là working group, task force.
 
@@ -30,3 +30,8 @@ Kinh tế chia sẻ, sàn, chợ, nền tảng
 Trang giới thiệu nhà cửa toàn sale gọi
 
 Giúp khám phá các nhu cầu mà mình không nghĩ là mình có.
+
+Dịch vụ được thêm vào là để tạo động lực cho cá nhân chuyển đổi vào các nhóm hỗ trợ
+
+## Về mặt kỹ thuật
+Vault, Aggregator
