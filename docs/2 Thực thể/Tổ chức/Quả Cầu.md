@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-01-23T11:46
+updated: 2026-02-09T16:01
 share: true
 ---
 ## Nhu cầu hiện tại
@@ -33,7 +33,7 @@ share: true
 - [Tạo môi trường để những người thù ghét người khác muốn trò chuyện với người họ thù ghét](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/%C4%90%E1%BB%91i%20di%E1%BB%87n/T%E1%BA%A1o%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20%C4%91%E1%BB%83%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20th%C3%B9%20gh%C3%A9t%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20mu%E1%BB%91n%20tr%C3%B2%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%8D%20th%C3%B9%20gh%C3%A9t.md) 
 
 [Xây dựng nhóm nghiên cứu liên ngành](X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m%20nghi%C3%AAn%20c%E1%BB%A9u%20li%C3%AAn%20ng%C3%A0nh.md):
-- [Vá lại các lỗ hổng trong kiến thức của mình](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/L%E1%BA%ADp%20lu%E1%BA%ADn/V%C3%A1%20l%E1%BA%A1i%20c%C3%A1c%20l%E1%BB%97%20h%E1%BB%95ng%20trong%20ki%E1%BA%BFn%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh.md) 
+- [Vá lại các lỗ hổng trong kiến thức, niềm tin của mình](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/L%E1%BA%ADp%20lu%E1%BA%ADn/V%C3%A1%20l%E1%BA%A1i%20c%C3%A1c%20l%E1%BB%97%20h%E1%BB%95ng%20trong%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20ni%E1%BB%81m%20tin%20c%E1%BB%A7a%20m%C3%ACnh.md) 
 - [Thu hút được sự đóng góp, lan toả chủ động của người có chuyên môn](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20v%E1%BB%81%20h%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20tham%20gia/Thu%20h%C3%BAt%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20%C4%91%C3%B3ng%20g%C3%B3p,%20lan%20to%E1%BA%A3%20ch%E1%BB%A7%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20chuy%C3%AAn%20m%C3%B4n.md)
 
 ### Không hạn chót, không quan trọng
