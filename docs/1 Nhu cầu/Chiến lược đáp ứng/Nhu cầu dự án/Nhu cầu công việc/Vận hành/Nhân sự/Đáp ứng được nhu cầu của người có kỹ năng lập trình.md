@@ -13,7 +13,7 @@ share: true
 ## Giải pháp gợi ý
 
 ## Nhu cầu liên quan
-- [Có thêm TNV lập trình](./C%C3%B3%20th%C3%AAm%20TNV%20l%E1%BA%ADp%20tr%C3%ACnh.md)
+- [Có thêm TNV lập trình](./C%C3%B3%20th%C3%AAm%20TNV%20l%E1%BA%ADp%20tr%C3%ACnh.md.md)
 
 
 ## Thảo luận khác
