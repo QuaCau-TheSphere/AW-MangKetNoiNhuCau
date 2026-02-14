@@ -4,7 +4,7 @@ updated: 2026-01-06T14:16
 share: true
 ---
 ## Những người đang có nhu cầu này
-- [Thịnh](../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Th%E1%BB%8Bnh.md)
+- [Thịnh](../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Th%E1%BB%8Bnh.md.md)
 
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
