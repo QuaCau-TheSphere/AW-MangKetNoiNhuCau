@@ -11,9 +11,9 @@ share: true
 ## Giả thiết 
 
 ## Giải pháp gợi ý
-[Xây dựng mạng kết nối nhu cầu](../../../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/A%20M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u.md)
+[Xây dựng mạng kết nối nhu cầu](../../../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/A%20M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u.md.md)
 ## Nhu cầu liên quan
-- [Giảm nhu cầu mua đồ ăn](./Gi%E1%BA%A3m%20nhu%20c%E1%BA%A7u%20mua%20%C4%91%E1%BB%93%20%C4%83n.md)
+- [Giảm nhu cầu mua đồ ăn](./Gi%E1%BA%A3m%20nhu%20c%E1%BA%A7u%20mua%20%C4%91%E1%BB%93%20%C4%83n.md.md)
 
 
 ## Thảo luận khác
