@@ -4,7 +4,7 @@ updated: 2026-01-06T14:17
 share: true
 ---
 ## Những người đang có nhu cầu này
-- [Tiny](Tiny.md)
+- [Tiny](Tiny.md.md)
 
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
