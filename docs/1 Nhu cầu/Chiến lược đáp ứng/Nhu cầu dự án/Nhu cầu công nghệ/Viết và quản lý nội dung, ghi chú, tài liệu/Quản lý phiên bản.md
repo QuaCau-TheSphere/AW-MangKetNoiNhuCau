@@ -3,7 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2026-01-04T18:41
 ---
-Giải pháp kỹ thuật:: [Học Git](H%E1%BB%8Dc%20Git.md)
+Giải pháp kỹ thuật:: [Học Git](H%E1%BB%8Dc%20Git.md.md)
 [Introduction to Version Control](https://geo-python-site.readthedocs.io/en/2022.0/lessons/L2/intro-to-GitHub.html)
 
 ![xkcd DOCUMENTS comic](https://imgs.xkcd.com/comics/documents.png)

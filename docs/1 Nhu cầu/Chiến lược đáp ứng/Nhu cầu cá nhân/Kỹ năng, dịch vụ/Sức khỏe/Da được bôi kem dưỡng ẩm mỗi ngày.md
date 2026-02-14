@@ -11,8 +11,8 @@ updated: 2026-01-06T14:16
 ## Giả thiết 
 
 ## Nhu cầu liên quan
-- [Có người bôi thuốc giùm](./C%C3%B3%20ng%C6%B0%E1%BB%9Di%20b%C3%B4i%20thu%E1%BB%91c%20gi%C3%B9m.md)
-- [Da lành lặn](./Da%20l%C3%A0nh%20l%E1%BA%B7n.md)
+- [Có người bôi thuốc giùm](./C%C3%B3%20ng%C6%B0%E1%BB%9Di%20b%C3%B4i%20thu%E1%BB%91c%20gi%C3%B9m.md.md)
+- [Da lành lặn](./Da%20l%C3%A0nh%20l%E1%BA%B7n.md.md)
 
 
 ## Thảo luận khác

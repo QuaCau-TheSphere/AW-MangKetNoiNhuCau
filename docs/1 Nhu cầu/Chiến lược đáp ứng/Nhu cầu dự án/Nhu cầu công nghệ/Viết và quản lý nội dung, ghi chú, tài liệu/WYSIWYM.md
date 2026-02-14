@@ -3,14 +3,14 @@ share: true
 created: 2023-09-05T16:17
 updated: 2026-01-04T18:41
 ---
-Lĩnh vực:: [Hệ thống thông tin](H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin.md), [Sắp chữ, thiết kế, xuất bản](S%E1%BA%AFp%20ch%E1%BB%AF,%20thi%E1%BA%BFt%20k%E1%BA%BF,%20xu%E1%BA%A5t%20b%E1%BA%A3n.md)
-Đáp ứng cho nhu cầu công việc: [Chèn ảnh, bảng, sơ đồ, mục lục, ghi chú, song ngữ, trích dẫn theo đúng ý](./Ch%C3%A8n%20%E1%BA%A3nh,%20b%E1%BA%A3ng,%20s%C6%A1%20%C4%91%E1%BB%93,%20m%E1%BB%A5c%20l%E1%BB%A5c,%20ghi%20ch%C3%BA,%20song%20ng%E1%BB%AF,%20tr%C3%ADch%20d%E1%BA%ABn%20theo%20%C4%91%C3%BAng%20%C3%BD.md)
+Lĩnh vực:: [Hệ thống thông tin](H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin.md.md), [Sắp chữ, thiết kế, xuất bản](S%E1%BA%AFp%20ch%E1%BB%AF,%20thi%E1%BA%BFt%20k%E1%BA%BF,%20xu%E1%BA%A5t%20b%E1%BA%A3n.md.md)
+Đáp ứng cho nhu cầu công việc: [Chèn ảnh, bảng, sơ đồ, mục lục, ghi chú, song ngữ, trích dẫn theo đúng ý](./Ch%C3%A8n%20%E1%BA%A3nh,%20b%E1%BA%A3ng,%20s%C6%A1%20%C4%91%E1%BB%93,%20m%E1%BB%A5c%20l%E1%BB%A5c,%20ghi%20ch%C3%BA,%20song%20ng%E1%BB%AF,%20tr%C3%ADch%20d%E1%BA%ABn%20theo%20%C4%91%C3%BAng%20%C3%BD.md.md)
 
 
 ![](https://uploads-ssl.webflow.com/614e03b8b6446368c68222e3/6172eaa3c7df09246db4efa5_latex_effort_complexity.jpg) 
 [Social sciences and humanities researchers, what is the final push that you decided to use LaTeX? : r/LaTeX](https://www.reddit.com/r/LaTeX/comments/1b14zgm/social_sciences_and_humanities_researchers_what/)
 [Are there illustrations on the struggle of Word on formatting in comparing with LaTeX? : r/LaTeX](https://www.reddit.com/r/LaTeX/comments/1b2t1sw/are_there_illustrations_on_the_struggle_of_word/?utm_source=embedv2&utm_medium=post_embed&utm_content=post_title&embed_host_url=https://publish.reddit.com/embed "Are there illustrations on the struggle of Word on formatting in comparing with LaTeX? : r/LaTeX")
-[Chèn ảnh, bảng, sơ đồ, mục lục, ghi chú, song ngữ, trích dẫn theo đúng ý](./Ch%C3%A8n%20%E1%BA%A3nh,%20b%E1%BA%A3ng,%20s%C6%A1%20%C4%91%E1%BB%93,%20m%E1%BB%A5c%20l%E1%BB%A5c,%20ghi%20ch%C3%BA,%20song%20ng%E1%BB%AF,%20tr%C3%ADch%20d%E1%BA%ABn%20theo%20%C4%91%C3%BAng%20%C3%BD.md)
+[Chèn ảnh, bảng, sơ đồ, mục lục, ghi chú, song ngữ, trích dẫn theo đúng ý](./Ch%C3%A8n%20%E1%BA%A3nh,%20b%E1%BA%A3ng,%20s%C6%A1%20%C4%91%E1%BB%93,%20m%E1%BB%A5c%20l%E1%BB%A5c,%20ghi%20ch%C3%BA,%20song%20ng%E1%BB%AF,%20tr%C3%ADch%20d%E1%BA%ABn%20theo%20%C4%91%C3%BAng%20%C3%BD.md.md)
 figures, graphics, index, table of contents, table of abbreviations, footnotes, references, bibliography, etc.
 ![](https://i.imgur.com/0ApXpPU.png)
 [20220103\_Appt\_Brief.pdf](https://www.dropbox.com/scl/fi/f86hos68v828p020pzswp/20220103_Appt_Brief.pdf?rlkey=pvmu54w64yxsukp54ewd0pftj&e=1&dl=0)

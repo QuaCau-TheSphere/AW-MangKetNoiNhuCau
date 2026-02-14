@@ -8,7 +8,7 @@ share: true
 
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
-[Tự do tài chính](../T%E1%BB%B1%20do%20t%C3%A0i%20ch%C3%ADnh.md)
+[Tự do tài chính](../T%E1%BB%B1%20do%20t%C3%A0i%20ch%C3%ADnh.md.md)
 
 ## Giả thiết 
 

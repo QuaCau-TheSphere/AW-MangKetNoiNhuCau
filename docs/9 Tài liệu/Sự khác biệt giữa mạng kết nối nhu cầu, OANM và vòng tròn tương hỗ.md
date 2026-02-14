@@ -1,19 +1,21 @@
 ---
 share: true
 created: 2026-01-09T11:58
-updated: 2026-01-17T19:33
+updated: 2026-02-14T17:36
 ---
 
+Các cá nhân thì thường quan tâm đến sản phẩm.
+Tổ chứ thì thường quan tâm đến nhu cầu
 
 ## OANM
 Danh sách nhu cầu sẽ bị hủy sau một khoảng thời gian
 Không có sự kết nối giữa các phiên
-cần làm đồng thời 
+Tất cả người tham gia phải có mặt đồng thời 
 
 ## Mạng kết nối nhu cầu 
 Kho tài nguyên
 Dữ liệu
-Offer không đến từ cá nhân, mà từ việc tạo ra sản phẩm chung. Xảy ra khi offerer muốn đáp ứng, tự kiếm nhu cầu để đáp ứng. Xem việc offer là nhu cầu\ 
+Lời mời dùng không đến từ cá nhân, mà từ việc tạo ra sản phẩm chung. Xảy ra khi người đưa ra lời mời muốn đáp ứng, tự kiếm nhu cầu để đáp ứng. Xem việc người khác dùng là nhu cầu của mình
 CÓ thể ko cần đồng thời 
 
 ## Vòng tròn tương hỗ

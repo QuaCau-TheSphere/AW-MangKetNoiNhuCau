@@ -3,10 +3,10 @@ share: true
 created: 2023-05-26T14:51
 updated: 2026-01-04T18:41
 ---
-Lĩnh vực:: [Sắp chữ, thiết kế, xuất bản](S%E1%BA%AFp%20ch%E1%BB%AF,%20thi%E1%BA%BFt%20k%E1%BA%BF,%20xu%E1%BA%A5t%20b%E1%BA%A3n.md)
-Nhu cầu công nghệ:: [WYSIWYM](./WYSIWYM.md)
+Lĩnh vực:: [Sắp chữ, thiết kế, xuất bản](S%E1%BA%AFp%20ch%E1%BB%AF,%20thi%E1%BA%BFt%20k%E1%BA%BF,%20xu%E1%BA%A5t%20b%E1%BA%A3n.md.md)
+Nhu cầu công nghệ:: [WYSIWYM](./WYSIWYM.md.md)
 
-Mọi người thường dùng Word để viết, nhưng nó gây ra những vấn đề về định dạng. Cách giải quyết chuyện định dạng không được đúng ý là dùng công nghệ [WYSIWYM](./WYSIWYM.md).
+Mọi người thường dùng Word để viết, nhưng nó gây ra những vấn đề về định dạng. Cách giải quyết chuyện định dạng không được đúng ý là dùng công nghệ [WYSIWYM](./WYSIWYM.md.md).
 
 ![](https://www.explainxkcd.com/wiki/images/7/7e/invisible_formatting.png)
 
