@@ -13,7 +13,7 @@ updated: 2026-01-04T18:41
 ## Giải pháp gợi ý
 
 ## Nhu cầu liên quan
-- [Gây quỹ](./G%C3%A2y%20qu%E1%BB%B9.md)
+- [Gây quỹ](./G%C3%A2y%20qu%E1%BB%B9.md.md)
 
 
 ## Thảo luận khác
