@@ -1,16 +1,22 @@
 ---
 share: true
 created: 2026-01-08T13:24
-updated: 2026-01-21T12:16
+updated: 2026-02-15T22:46
+aliases:
+  - 
 ---
-## Những người đang có nhu cầu này
-
+## Cách diễn đạt khác
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
 
 ## Giả thiết 
 
+## Ví dụ biểu hiện
+
 ## Giải pháp gợi ý
+
+## Những người đang có nhu cầu này
+
 
 ## Nhu cầu liên quan
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-01-04T18:41
+updated: 2026-02-15T17:40
 ---
 Nhu cầu công việc:: [Nắm bắt hoạt động của nhau](../V%E1%BA%ADn%20h%C3%A0nh/Qu%E1%BA%A3n%20tr%E1%BB%8B/N%E1%BA%AFm%20b%E1%BA%AFt%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20nhau.md.md), [Thúc đẩy sự hợp tác giữa các cá nhân](./Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20gi%E1%BB%AFa%20c%C3%A1c%20c%C3%A1%20nh%C3%A2n.md.md)
 Nhu cầu công nghệ:: [Tạo đồ thị mạng lưới, hệ thống phi tuyến](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/T%E1%BA%A1o%20%C4%91%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi,%20h%E1%BB%87%20th%E1%BB%91ng%20phi%20tuy%E1%BA%BFn.md.md), [Tài liệu động](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md.md)

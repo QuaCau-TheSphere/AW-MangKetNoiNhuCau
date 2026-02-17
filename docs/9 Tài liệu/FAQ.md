@@ -1,28 +1,14 @@
 ---
 created: 2023-10-28T14:39
-updated: 2026-01-05T20:51
+updated: 2026-02-15T13:10
 share: true
 ---
 ## Có những nhu cầu không muốn người khác biết mình có
-Chú thích: Cái đầu là nhu cầu, cái sau là thông tin nhận dạng. Ví dụ, ở ô dùng tên giả đối với người chưa dám tin, thì ✔❌ nghĩa là người khác sẽ biết nhu cầu của họ, và không biết người có nhu cầu đó là ai
-
-| Đối tượng biết thông tin →<br>Giải pháp ↓    | Người chưa dám tin | Người dám tin |
-| -------------------------------------------- | ------------------ | ------------- |
-| Dùng VPN                                     |                    |               |
-| Dùng tên giả                                 | ✔️❌               | ✔️❌          |
-| Dùng vault riêng cho nhóm hoặc vault cá nhân | ❌❌               | ✔️✔️          |
-| Trao đổi trực tiếp mà không lưu lại           | ❌❌               | ✔️✔️          |
-
-| Tính năng -><br>Tên gọi      | Thành viên được truy cập |
-| ---------------------------- | ------------------------ |
-| Spherenet                    |                          |
-| Liên minh, mạng lưới đối tác |                          |
-| CRM                             |                          |
-
-Đó là do chưa tạo được môi trường an toàn để nói ra. 
-
-Sau này mình sẽ có chuyên gia về bảo mật thông tin. Obsidian cũng được dùng. OINST
+Cơ bản là do chưa tạo được môi trường an toàn để họ nói ra. 
 ![](https://hbr.org/resources/images/article_assets/2020/04/R2003H_FREI_TRIANGLE.png)
+ - Dùng tên giả
+ - Dùng kho riêng cho nhóm hoặc kho cá nhân
+ - Trao đổi trực tiếp mà không lưu lại, hoặc xóa đi sau một khoản thời gian
 
 ## Nếu ngồi với những người cùng bí với nhau thì sao có giải pháp được
 Có quan điểm cho rằng muốn có giải pháp thì phải kiếm chuyên gia, chứ nếu đơn giản chỉ kể với nhau thì sẽ mất thời gian của nhau. Chuyên gia ở đây có thể là sách, hoặc người hướng dẫn.
@@ -38,6 +24,7 @@ Nơi đây là để mọi người cùng hỗ trợ nhau trao đổi các nhu c
 Hiện tại cứ lưu giữ những vấn đề đó 
 Những nhu cầu hiện tại là tên của một nhóm nhu cầu. Trong mỗi nhóm nhu cầu, với từng cá nhân khác nhau, những nhu cầu sẽ được phân tích khác nhau
 Kể cả khi không đáp ứng nhu cầu cho nhau được (ví dụ như mua nhà) thì cũng có thể giới thiệu cho nhau thông tin của mình, và người kia cũng sẽ thấy đáng tin hơn là ở nơi khác
+
 ## Các nhu cầu thay đổi thường xuyên
 Vậy trước mắt mình sẽ tập trung vào những nhu cầu không thay đổi thường xuyên
 
@@ -49,6 +36,7 @@ Những nhu cầu lớn, dài hơi. Và đầu óc mình sẽ luôn nghĩ về n
 Miễn là còn thấy ở đây vẫn giúp giải quyết được thì không phải là vấn đề
 
 Nhưng lúc đó nhu cầu sẽ không còn nóng nữa,và sẽ thoải mái trong việc hỗ trợ người khác tìm giải pháp cho nhu cầu họ hơn
+
 ## Việc phải nói nhu cầu của mình cũng làm mình nhức đầu
 - không quen ghi chú lại nhu cầu của mình
 - Tự mình có thể quản lý được nhu cầu của mình
@@ -60,7 +48,7 @@ Khi lên kế hoạch thi sẽ không nhức đầu
 Thế nên mới cần có những người cùng hỗ trợ mình, vì khi được nói chuyện thì tự động mình sẽ có tâm trí
 
 ## Các vấn đề về tiền
-Hiện tại thì không thể làm được điều đó. Trong tương lai khi có quỹ thì sẽ cần làm đơn? 
+Với [Những thứ bắt buộc phải dùng tiền](Nh%E1%BB%AFng%20th%E1%BB%A9%20b%E1%BA%AFt%20bu%E1%BB%99c%20ph%E1%BA%A3i%20d%C3%B9ng%20ti%E1%BB%81n.md.md) thì cần xây dựng quỹ chung.
 
 ## Thấy các nhu cầu này chẳng có gì chung cả
 Chưa vét cạn nhu cầu và mạng lưới xã hội của mình
@@ -83,5 +71,5 @@ Giá trị của một mạng lưới tùy phụ thuộc vào , tuân theo hiệ
 Quy định 1: Phải làm rõ nhu cầu của mình thông qua trao đổi, nội quan, v.v.
 Quy định 2: Về vấn đề thống nhất trong trao đổi
 
-Hoạt động:: [Tạo bộ quy tắc cho mạng kết nối nhu cầu](../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c/T%E1%BA%A1o%20b%E1%BB%99%20quy%20t%E1%BA%AFc%20cho%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u.md)
+Hoạt động:: [Tạo bộ quy tắc cho mạng kết nối nhu cầu](../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c/T%E1%BA%A1o%20b%E1%BB%99%20quy%20t%E1%BA%AFc%20cho%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u.md.md)
 

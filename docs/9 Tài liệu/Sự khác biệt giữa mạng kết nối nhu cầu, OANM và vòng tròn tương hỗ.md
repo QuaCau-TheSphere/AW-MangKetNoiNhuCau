@@ -1,11 +1,13 @@
 ---
 share: true
 created: 2026-01-09T11:58
-updated: 2026-02-14T17:36
+updated: 2026-02-16T16:16
 ---
 
 Các cá nhân thì thường quan tâm đến sản phẩm.
 Tổ chứ thì thường quan tâm đến nhu cầu
+## Danh bạ đối tác, các bên liên quan. Bản đồ nguồn lực
+![ky_nang_xay_dung_mang_luoi_va_van_dong_nguon_luc.pdf](../attachments/ky_nang_xay_dung_mang_luoi_va_van_dong_nguon_luc.pdf.pdf)
 
 ## OANM
 Danh sách nhu cầu sẽ bị hủy sau một khoảng thời gian
