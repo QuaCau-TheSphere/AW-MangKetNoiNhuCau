@@ -1,13 +1,15 @@
 ---
 share: true
 created: 2026-02-12T12:21
-updated: 2026-02-18T17:05
+updated: 2026-02-19T01:25
 ---
 ## Giả định về đối tượng thu hưởng
+- Thứ cản trở việc đáp ứng nhu cầu là vì:
+	- Không có tiền
+	- Không muốn dùng tiền
+	- Có tiền cũng không đáp ứng được
 - Muốn xây dựng mạng lưới đối tác, các bên liên quan
 - Muốn biết được nhu cầu của mọi người
-- Muốn được đáp ứng các nhu cầu của mình
-	- Không có tiền hoặc có cũng không làm được
 - Có nhu cầu đáp ứng nhu cầu của người khác 
 
 ## Giả định về giải pháp hiện tại
@@ -17,13 +19,13 @@ updated: 2026-02-18T17:05
 - Sẵn sàng dành thời gian cho một nền tảng mới nếu nó đáp ứng nhu cầu của họ
 - Vấn đề spam không đáng quan trọng. Quan trọng là không kết nối được tốt
 
-## Giả định về giải pháp 
-### 1. Giả định về Sự sẵn sàng chia sẻ (Shared Resources Assumptions)
+## Giả định về sự sẵn sàng chia sẻ
 - Muốn những người quanh mình biết nhau và hợp tác với nhau
 - Muốn biết và hợp tác với những người quanh người quanh mình
-- **Giả định về Sự hào phóng:** Những người xây dựng cộng đồng sẵn sàng chia sẻ "bí kíp", mối quan hệ và nguồn lực của họ cho người khác thay vì giữ thế độc tôn để bảo vệ dự án riêng.
-- **Giả định về Sự dư thừa năng lượng:** Những người này (vốn thường xuyên quá tải) vẫn còn đủ thời gian và tâm trí để hỗ trợ mạng lưới của người khác.
-- **Giả định về Tính tương hỗ:** Người dùng tin rằng việc giúp đỡ người khác trong mạng lưới sẽ quay lại giúp ích cho cộng đồng của chính họ sau này.
+- Sẵn sàng chia sẻ kiến thức, mối quan hệ và nguồn lực của họ cho người khác thay vì giữ thế độc tôn để bảo vệ dự án riêng
+- Có đủ thời gian và tâm trí để hỗ trợ mạng lưới của người khác
+- Tin rằng việc giúp đỡ người khác trong mạng lưới sẽ quay lại giúp ích cho cộng đồng của chính họ sau này.
+- Với mỗi cá nhân, tạo thành một nhóm những người quan tâm đến cuộc sống của cá nhân đó
 
 ### 2. Giả định về Sự tin tưởng & An toàn (Trust & Safety Assumptions)
 - **Giả định về Sự lọc lựa:** Người dùng tin rằng mạng lưới có cơ chế bảo vệ họ khỏi những đối tượng "trục lợi" hoặc lợi dụng danh nghĩa phi lợi nhuận để làm kinh tế/chính trị cá nhân.
