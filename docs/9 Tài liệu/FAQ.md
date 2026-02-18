@@ -1,6 +1,6 @@
 ---
 created: 2023-10-28T14:39
-updated: 2026-02-18T17:33
+updated: 2026-02-19T01:25
 share: true
 ---
 ## Có những nhu cầu không muốn người khác biết mình có
@@ -40,7 +40,8 @@ Liệu ta có nên đáp ứng ham muốn hay không? Nếu câu trả lời là
 
 Nếu vậy thì tốt nhất ta nên đi vào chùa hết ráo, chứ không nên ở đây làm gì. Bạn còn ở đây, nghĩa là còn ham muốn? Vậy tại sao lại không đáp ứng một người có ham muốn khi bạn cũng còn ham muốn?
 
-Hay đáp ứng bản năng khám phá? Đó cũng là tự nhiên
+Lặp đi lặp lại thì nhàm chán.
+Hay đáp ứng bản năng khám phá? Đó cũng là tự nhiên, là human nature.
 
 Ham muốn mới không bao giờ mới dứt, còn nhu cầu sau khi được đáp ứng xong sẽ tan biến. Tuy nhiên, điều đó đòi hỏi ta phải chống lại sự ham muốn, vốn là một điều không dễ chịu, và phải phân biệt được nhu cầu và ham muốn, vốn là một điều không dễ dàng, nhất là trong bối cảnh tư bản.
 
