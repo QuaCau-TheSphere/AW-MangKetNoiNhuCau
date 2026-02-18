@@ -2,7 +2,6 @@
 share: true
 created: 2024-10-08T16:15
 updated: 2026-02-12T12:20
-title: Giả thiết
 ---
 
 [ABG Network Official](https://www.facebook.com/groups/abgnetworkofficial/posts/2882848618536052/):

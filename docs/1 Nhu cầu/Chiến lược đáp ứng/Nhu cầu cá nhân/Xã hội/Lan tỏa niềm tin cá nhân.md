@@ -1,10 +1,11 @@
 ---
 share: true
-created: 2026-01-23T12:00
-updated: 2026-01-29T14:26
+aliases:
+  - 
+created: 2026-02-18T12:51
+updated: 2026-02-18T12:51
 ---
-## Những người đang có nhu cầu này
-
+## Cách diễn đạt khác
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
 
@@ -14,8 +15,10 @@ updated: 2026-01-29T14:26
 
 ## Giải pháp gợi ý
 
+## Những người đang có nhu cầu này
+
+
 ## Nhu cầu liên quan
-- [Không unfriend, block nhau](../../../Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/C%E1%BB%99ng%20%C4%91%E1%BB%93ng/Kh%C3%B4ng%20unfriend,%20block%20nhau.md)
 
 
 ## Thảo luận khác

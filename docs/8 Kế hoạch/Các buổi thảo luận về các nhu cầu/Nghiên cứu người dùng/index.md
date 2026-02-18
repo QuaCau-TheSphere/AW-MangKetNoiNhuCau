@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-23T20:01
-updated: 2026-02-12T12:21
+updated: 2026-02-18T16:12
 aliases:
   - Mục tiêu và câu hỏi nghiên cứu về nhu cầu công việc
 title: Nghiên cứu người dùng
@@ -21,7 +21,7 @@ title: Nghiên cứu người dùng
 - Lúc họ thấy được mời phỏng vấn thì họ đã nghĩ những gì?
 
 ### Hiểu được vì sao đáp viên không tương tác với [bài mời thảo luận](https://www.facebook.com/groups/abgnetworkofficial/posts/2884117178409196/)
-- Họ có nhìn thấy cái [lời mời tiếp theo](Bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20vi%E1%BB%87c%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md.md) không? 
+- Họ có nhìn thấy cái [lời mời tiếp theo](../../Truy%E1%BB%81n%20th%C3%B4ng/B%C3%A0i%20%C4%91%C4%83ng/Bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20vi%E1%BB%87c%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md.md) không? 
 - Nếu có thì đã nghĩ những gì? 
 	- Vì sao không tương tác gì?
 - Nếu không thấy thì giả sử bạn đã thấy và không tương tác gì cả thì lý do có thể là gì?
