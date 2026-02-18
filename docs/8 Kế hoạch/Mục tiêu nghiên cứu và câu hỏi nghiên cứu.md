@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-17T18:21
-updated: 2026-02-18T17:04
+updated: 2026-02-19T01:14
 ---
 - Người làm công tác xã hội trực tiếp cho các đối tượng yếu thế 
 - Người làm công tác xã hội ở cấp độ vĩ mô
@@ -11,7 +11,7 @@ updated: 2026-02-18T17:04
 ## Mục tiêu nghiên cứu
 - Kiểm định các [Các giả định](./C%C3%A1c%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh.md.md) 
 - Hiểu được tiếp nhận của đáp viên khi thấy câu hỏi khảo sát và khi được mời phỏng vấn
-- Hiểu được vì sao đáp viên không tương tác với [bài mời thảo luận](https://www.facebook.com/groups/abgnetworkofficial/posts/2884117178409196/)
+- Hiểu được vì sao đáp viên không tương tác với sự kiện
 - Tìm hiểu nhu cầu kết nối nguồn lực của họ 
 - Tỉ lệ thất bại của các dự án mạng lưới
 Với mỗi cá nhân, tạo thành một nhóm những người quan tâm đến cuộc sống của cá nhân đó
@@ -51,14 +51,15 @@ Với mỗi cá nhân, tạo thành một nhóm những người quan tâm đế
 - Nếu được thay đổi các nhóm này thì họ sẽ thay đổi thế nào?
 
 ### Xây dựng giải pháp cho họ
-- Nếu xây dựng một nhóm mới thì họ sẽ làm gì khác?
-- Những người tham gia vào mạng lưới của họ là ai?
-- Nhóm của họ thiếu gì để phát triển? Ai là người sẽ cung cấp điều đó?
-- Họ nghĩ mọi người sẽ ấn tượng gì về nhóm của họ?
+- Họ có đang có ý định hoặc đang xây dựng nhóm nào không? Nó khác với các nhóm kia thế nào?
 - Họ đã bỏ bao nhiêu thời gian/tiền bạc/công sức cho nhóm này rồi?
 - Họ đã thử nói về ý tưởng này cho những ai? 
 - Ý tưởng này có gặp những phản đối nào không?
 - Nếu bây giờ có một người sẽ cung cấp điều này cho họ thì họ sẽ làm những gì để có được nó? (Sẵn sàng bỏ bao nhiêu công sức hay tiền, chừng nào xếp lịch)
+- Họ có từng nghĩ đến việc tạo một nhóm từ những người quanh mình chưa?
+
+- Những người tham gia vào mạng lưới của họ là ai?
+- Nhóm của họ thiếu gì để phát triển? Ai là người sẽ cung cấp điều đó?
+- Họ nghĩ mọi người sẽ ấn tượng gì về nhóm của họ?
 - Có những thứ gì đáng để ưu tiên hơn việc này?
 - Nếu có nhóm như vậy đã tồn tại rồi thì họ nghĩ điều gì khiến họ chưa tham gia vào nó? Nếu chỉ đơn giản là chưa biết đến thôi thì vì sao họ chưa biết đến nó?
-- Họ đã nghĩ đến việc tạo một nhóm từ những người quanh mình không?
