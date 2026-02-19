@@ -1,9 +1,8 @@
 ---
 share: true
 created: 2026-02-17T18:21
-updated: 2026-02-19T13:21
+updated: 2026-02-19T16:22
 ---
-
 ## Mục tiêu nghiên cứu
 - Kiểm định các [Các giả định](./C%C3%A1c%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh.md.md) 
 - Hiểu được tiếp nhận của đáp viên khi thấy câu hỏi khảo sát và khi được mời phỏng vấn
@@ -54,8 +53,21 @@ Với mỗi cá nhân, tạo thành một nhóm những người quan tâm đế
 - Nếu bây giờ có một người sẽ cung cấp điều này cho họ thì họ sẽ làm những gì để có được nó? (Sẵn sàng bỏ bao nhiêu công sức hay tiền, chừng nào xếp lịch)
 - Họ có từng nghĩ đến việc tạo một nhóm từ những người quanh mình chưa?
 
+---
+
 - Những người tham gia vào mạng lưới của họ là ai?
 - Nhóm của họ thiếu gì để phát triển? Ai là người sẽ cung cấp điều đó?
 - Họ nghĩ mọi người sẽ ấn tượng gì về nhóm của họ?
 - Có những thứ gì đáng để ưu tiên hơn việc này?
 - Nếu có nhóm như vậy đã tồn tại rồi thì họ nghĩ điều gì khiến họ chưa tham gia vào nó? Nếu chỉ đơn giản là chưa biết đến thôi thì vì sao họ chưa biết đến nó?
+- - "Hãy mô tả một tuần làm việc của bạn. Bạn dành bao nhiêu thời gian cho việc 'kết nối bên ngoài'?"
+- "Các cuộc gặp gỡ với đồng nghiệp trong giới thường mang lại cho bạn thêm năng lượng hay làm bạn thấy mệt mỏi hơn? Tại sao?"
+- "Bạn đang tham gia bao nhiêu hội nhóm/mạng lưới phi lợi nhuận? Nhóm nào bạn hoạt động tích cực nhất và điều gì giữ chân bạn ở đó?"
+- "Nếu phải bớt đi một hoạt động để tham gia mạng lưới mới, hoạt động đó sẽ là gì?
+### 4. Nhóm câu hỏi về Giá trị cộng hưởng (Synergy)
+
+**Mục tiêu:** Xem họ có thực sự cần "kết nối liên ngành" hay chỉ muốn ở trong "ốc đảo" của mình.
+
+- "Bạn đã bao giờ hợp tác với một dự án ở lĩnh vực hoàn toàn khác (ví dụ: bạn làm giáo dục, họ làm môi trường) chưa? Kết quả ra sao?"
+- "Khó khăn lớn nhất khi bạn cố gắng giải thích chuyên môn của mình cho một người làm cộng đồng ở lĩnh vực khác là gì?"
+- "Bạn mong đợi điều gì hơn: Một người giúp bạn làm tốt hơn việc hiện tại, hay một người giúp bạn mở rộng tầm nhìn sang lĩnh vực mới?"
