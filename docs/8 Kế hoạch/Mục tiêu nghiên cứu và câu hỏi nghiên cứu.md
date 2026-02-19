@@ -1,12 +1,8 @@
 ---
 share: true
 created: 2026-02-17T18:21
-updated: 2026-02-19T01:14
+updated: 2026-02-19T13:21
 ---
-- Người làm công tác xã hội trực tiếp cho các đối tượng yếu thế 
-- Người làm công tác xã hội ở cấp độ vĩ mô
-- Người làm kinh doanh
-- Nhà báo
 
 ## Mục tiêu nghiên cứu
 - Kiểm định các [Các giả định](./C%C3%A1c%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh.md.md) 
