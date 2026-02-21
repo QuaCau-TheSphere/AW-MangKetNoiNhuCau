@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-17T18:21
-updated: 2026-02-19T16:22
+updated: 2026-02-19T21:02
 ---
 ## Mục tiêu nghiên cứu
 - Kiểm định các [Các giả định](./C%C3%A1c%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh.md.md) 
@@ -12,14 +12,6 @@ updated: 2026-02-19T16:22
 Với mỗi cá nhân, tạo thành một nhóm những người quan tâm đến cuộc sống của cá nhân đó
 
 ## Câu hỏi nghiên cứu
-### Tiếp nhận khi thấy câu hỏi khảo sát và khi được mời phỏng vấn
-- Lúc họ nhìn thấy cái bản khảo sát đó thì họ đã nghĩ những gì?
-- Lúc họ thấy được mời phỏng vấn thì họ đã nghĩ những gì?
-- Họ có nhìn thấy cái bài về mạng kết nối nhu cầu không? 
-	- Nếu có thì đã nghĩ những gì? 
-		- Vì sao không tương tác gì?
-	- Nếu không, thì giả sử họ đã thấy nhưng không tương tác gì cả thì lý do có thể là gì?
-
 ### Nhu cầu kết nối nguồn lực
 - Họ đang muốn giải quyết những vấn đề gì? Tại sao họ lại muốn giải quyết chúng mà không phải những cái khác?
 - Chúng xảy ra lúc nào?
@@ -52,6 +44,14 @@ Với mỗi cá nhân, tạo thành một nhóm những người quan tâm đế
 - Ý tưởng này có gặp những phản đối nào không?
 - Nếu bây giờ có một người sẽ cung cấp điều này cho họ thì họ sẽ làm những gì để có được nó? (Sẵn sàng bỏ bao nhiêu công sức hay tiền, chừng nào xếp lịch)
 - Họ có từng nghĩ đến việc tạo một nhóm từ những người quanh mình chưa?
+
+### Tiếp nhận khi thấy câu hỏi khảo sát và khi được mời phỏng vấn
+- Lúc họ nhìn thấy cái bản khảo sát đó thì họ đã nghĩ những gì?
+- Lúc họ thấy được mời phỏng vấn thì họ đã nghĩ những gì?
+- Họ có nhìn thấy cái bài về mạng kết nối nhu cầu không? 
+	- Nếu có thì đã nghĩ những gì? 
+		- Vì sao không tương tác gì?
+	- Nếu không, thì giả sử họ đã thấy nhưng không tương tác gì cả thì lý do có thể là gì?
 
 ---
 
