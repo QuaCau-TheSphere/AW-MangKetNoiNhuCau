@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-17T18:21
-updated: 2026-02-19T21:02
+updated: 2026-02-23T16:08
 ---
 ## Mục tiêu nghiên cứu
 - Kiểm định các [Các giả định](./C%C3%A1c%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh.md.md) 
@@ -17,6 +17,8 @@ Với mỗi cá nhân, tạo thành một nhóm những người quan tâm đế
 - Chúng xảy ra lúc nào?
 - Họ đã giải quyết nó thế nào?
 - Có những nguồn lực nào họ có nhưng không biết ai cần, và những nguồn lực họ cần nhưng không biết ai sẵn sàng cho?
+- Đang thuê ngoài những điều gì?
+- Có những bên nào đưa ra giải pháp mà không cần dùng đến tiền hay không?
 
 ### Giải pháp họ đang sử dụng hoặc đã xây dựng
 - Họ hoặc đã xây dựng hoặc đang tham gia vào những nhóm nào? 
