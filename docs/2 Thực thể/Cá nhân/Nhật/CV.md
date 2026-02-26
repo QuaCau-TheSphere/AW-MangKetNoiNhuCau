@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-09T13:48
-updated: 2026-02-10T12:48
+updated: 2026-02-26T11:30
 title: CV của Lý Minh Nhật
 ---
 ## Kinh nghiệm làm việc trong công ty
@@ -88,22 +88,21 @@ Hệ cử nhân tài năng, Trường Đại học KHTN TP.HCM, ‘10 – ‘14
 - **Đề tài tốt nghiệp:** [Khảo sát năng lượng liên kết tĩnh điện trong protease của HIV-1](https://quảcầu.cc/nghien-cuu-khoa-hoc-phong-cach-truyen-tranh?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)&utm_medium=Tập+tin&utm_campaign=Tài+nguyên+khác%2CLàm+việc+hiệu+quả&utm_content=&utm_term=)
 
 ## Kiến thức tự học
-Đã tìm hiểu theo một *hệ thống*. Đó có thể là đọc giáo trình, tham dự một khóa học, nên ít nhiều cũng có một hệ thống lý thuyết. Dù kiến thức có thể bị quên do không sử dụng, 
-, và khi gặp một chủ đề có thể nói ngay được nên tra cứu ở đâu bằng từ khóa gì.
-Bloom
+Đây là những bộ môn, lĩnh vực mà Nhật đã tìm hiểu để có một *hệ thống lý thuyết*. Ví dụ như đọc giáo trình, tham dự một khóa học. Dù kiến thức có thể bị quên do không sử dụng, nhưng cũng còn hơn là không biết gì hoàn toàn. Một số chủ đề có thể nói ngay được từ khóa cần tìm là gì.
 
 Danh mục được lấy từ [Outline of academic disciplines - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
 
 ### Nhân văn
-- **Nghệ thuật:** Thời trang
-- **Triết học:** Triết học phương Đông, triết học Deleuze và Guattari, mỹ học, chủ nghĩa hậu hiện đại, nhận thức luận, triết học đạo đức, triết học toán học, triết học công nghệ
-- **Ngôn ngữ và văn học:** lý thuyết văn học, lý thuyết dịch thuật, tu từ và bố cục, thông diễn học
+- **Nghệ thuật:** truyện tranh, thời trang
+- **Triết học:** Phật học, Đạo học, Deleuze và Guattari, mỹ học, chủ nghĩa hậu hiện đại, nhận thức luận, đạo đức, toán học, công nghệ
+- **Ngôn ngữ và văn học:** văn học, dịch thuật, tu từ và bố cục, thông diễn học
 
 ### Khoa học xã hội
 - **Kinh doanh:** hệ thống thông tin, tài chính, tài chính thay thế, quản lý dự án, kế toán, bảo hiểm, nguồn nhân lực, sở hữu trí tuệ
-- **Kinh tế học:** lịch sử kinh tế, kinh tế không dùng tiền, sản xuất đồng đẳng dựa trên nguồn lực chung, chủ nghĩa tư bản, chủ nghĩa cộng sản
+- **Kinh tế học:** lịch sử kinh tế, kinh tế thay thế, chủ nghĩa tư bản, chủ nghĩa cộng sản
 - **Ngôn ngữ học:** ngôn ngữ học nhận thức, ngữ nghĩa học, thi pháp học, âm vị học, cú pháp học
-- **Tâm lý học:** tâm lý học nhận thức, cảm xúc, tâm lý học xã hội, tâm lý trị liệu, tâm lý học tích cực, động lực học niềm tin
+- **Tâm lý học:** tâm lý học nhận thức, cảm xúc, tâm lý học xã hội, tâm lý trị liệu, tâm lý học tích cực
+- **Xã hội học:** động lực niềm tin
 - **Nhân học:** nhân học văn hóa
 - **Tổ chức học:** hành vi tổ chức, quản lý dự án
 

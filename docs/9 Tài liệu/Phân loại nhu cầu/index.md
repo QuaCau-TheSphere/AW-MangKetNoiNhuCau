@@ -1,37 +1,28 @@
 ---
-updated: 2026-02-10T13:22
+updated: 2026-02-24T13:02
 created: 2022-10-07T01:57
 share: true
-tags:
-  - kinhtế
-  - sứckhoẻ
-  - xãhội
-  - vănhóa-giáodục-sángtạo
-  - thưgiãn-giảitrí
-  - chínhtrị
-  - phápluật
-  - môitrường
-  - tôngiáo
 title: Phân loại nhu cầu
 ---
 Nhu cầu là thứ mà mình thấy còn thiếu hụt. Nếu thiếu nó thì mình ko thấy bản thân mình đc ở trạng thái wellbeing. Có nhiều
 ## Phân loại theo lĩnh vực trong đời sống
-- #kinhtế
-- #sứckhoẻ
-- #xãhội
-- #vănhóa-giáodục-sángtạo
-- #thưgiãn-giảitrí
-- #chínhtrị
-- #phápluật
-- #môitrường
-- #tôngiáo
+- xã hội
+- kinh tế
+- chính trị
+- pháp luật
+- môi trường
+- tôn giáo
+- y tế
+- văn hóa, giáo dục
+- đời sống cá nhân
+- thư giãn, giải trí
 
 ## Phân loại theo 
 PERMA-V
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dbiNhAZlXZk?si=q1_67wFsnpvfYcmf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Phân loại theo bản chất
-Bài chi tiết: [Các nhóm nhu cầu của cá nhân](./C%C3%A1c%20nh%C3%B3m%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20c%C3%A1%20nh%C3%A2n.md)
+Bài chi tiết: [Các nhu cầu cá nhân](./C%C3%A1c%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/index.md.md)
 
 
 
@@ -59,5 +50,7 @@ https://en.wikipedia.org/wiki/Needs_assessment
 - Opportunities people are offering or seeking. From the time-specific, like a workshop on software for small businesses or being an accountability buddy for the coming month, to the extended, like a job opportunity or project collaboration.
 - Resources people are offering or needing. From the physical, like a car for sale or a place to rent, to the intangible, like a categorized list of inspirational TED Talks or funding for a community initiative.
 
-## Phân loại theo đô cấp thiết
-[Độ cấp thiết](./%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/index.md)
+## Phân loại theo độ cấp thiết
+[Độ cấp thiết](./%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/index.md.md)
+
+![Marx and the Politics of Need_26_02_19_01_12_38.pdf](../../attachments/Marx%20and%20the%20Politics%20of%20Need_26_02_19_01_12_38.pdf.pdf)
