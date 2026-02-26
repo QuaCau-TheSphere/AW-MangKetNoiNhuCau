@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-10T11:08
-updated: 2026-02-16T16:41
+updated: 2026-02-26T12:57
 ---
 Mạng kết nối nhu cầu là một nơi **làm cho chúng ta thấy nhau rõ hơn**. Các cá nhân, tổ chức sẽ liệt kê các nhu cầu của mình. Đó là cách để mình hiểu mình muốn gì, làm rõ các giả định, lên chiến lược, cũng như lên kế hoạch. Những sản phẩm họ tạo ra sẽ trở thành [now page](https://nownownow.com/) của họ.
 
@@ -20,6 +20,8 @@ hợp tác xã
 Kinh tế trao đổi trực tiếp
 Kinh tế chia sẻ, sàn, chợ, nền tảng
 
+Chỉ mục cho các dự án kết nối
+Mọi hoạt động của con người, xét cho cùng, đều là để sử dụng nguồn lực hiệu quả
 
 | Nhu cầu cụ thể | Tên chương trình                                                                 |
 | -------------- | -------------------------------------------------------------------------------- |
@@ -37,3 +39,14 @@ Dịch vụ được thêm vào là để tạo động lực cho cá nhân chuy
 
 ## Về mặt kỹ thuật
 Vault, Aggregator
+
+
+
+prof ko tận dụng hết các insight . Tìm nơi expand các sự nghiệp của mình. Xác định được cái industry và đặt tâm. Người xây dựng mastery. Ghi chú rất là nhiều, có nhiều ý tưởng. 
+
+Nuôi em tương đương với một siêu thỉ (đầu vào lẻ, đầu ra lẻ)
+TNV làm chỉ vì vui, ko nghĩ về hệ thống
+
+Để hiểu nhu cầu có thể đọc các nghiên cứu nhân học
+
+[\[OANM\] Danh sách offers and needs - Google Trang tính](https://docs.google.com/spreadsheets/d/1RMK3E6AJgbAthB2U9qIkDICumw0NNMdovhVAeiehHxw/edit?usp=sharing)
