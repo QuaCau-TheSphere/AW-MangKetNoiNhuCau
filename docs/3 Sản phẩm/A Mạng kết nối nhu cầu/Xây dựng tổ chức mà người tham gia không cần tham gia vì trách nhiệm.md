@@ -1,10 +1,10 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-01-05T09:24
+updated: 2026-02-28T11:37
 share: true
 ---
 ## Những người đang có nhu cầu này
-- [Quả Cầu](../../2%20Th%E1%BB%B1c%20th%E1%BB%83/T%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3%20C%E1%BA%A7u.md)
+- [Quả Cầu](../../2%20Th%E1%BB%B1c%20th%E1%BB%83/T%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3%20C%E1%BA%A7u.md.md)
 
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
