@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2022-10-07T01:57
-updated: 2026-03-14T11:49
+updated: 2026-03-14T12:16
 aliases:
   - Bản kế hoạch chiến lược
   - Các mục tiêu hiện tại

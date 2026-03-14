@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2026-03-14T11:38
-updated: 2026-03-14T11:38
+created: 2023-10-28T14:39
+updated: 2026-03-14T16:10
 ---
 ## Nhu cầu hiện tại
 ### [🔥🔥Cần có ngay](../../../9%20T%C3%A0i%20li%E1%BB%87u/Ph%C3%A2n%20lo%E1%BA%A1i%20nhu%20c%E1%BA%A7u/%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/%F0%9F%94%A5%F0%9F%94%A5C%E1%BA%A7n%20c%C3%B3%20ngay.md)
@@ -20,3 +20,22 @@ updated: 2026-03-14T11:38
 ### Cho người khác
 
 ## Sản phẩm muốn tham gia
+
+## Những người đang có nhu cầu này
+- [VCIL](../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/T%E1%BB%95%20ch%E1%BB%A9c/VCIL/index.md)
+
+
+## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
+[Đi du lịch](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%BA%20vui/%C4%90i%20du%20l%E1%BB%8Bch.md)
+
+## Giả thiết 
+
+## Giải pháp gợi ý
+
+## Nhu cầu liên quan
+
+
+## Thảo luận khác
+Người từng có nhu cầu này:: 
+Đã được giải quyết bởi:: 
+Thuộc nhu cầu phổ quát::
