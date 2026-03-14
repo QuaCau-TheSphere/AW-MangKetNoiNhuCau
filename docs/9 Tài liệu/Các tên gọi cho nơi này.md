@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-10T11:08
-updated: 2026-02-28T11:36
+updated: 2026-03-14T16:08
 ---
 Mạng kết nối nhu cầu là một nơi **làm cho chúng ta thấy nhau rõ hơn**. Các cá nhân, tổ chức sẽ liệt kê các nhu cầu của mình. Đó là cách để mình hiểu mình muốn gì, làm rõ các giả định, lên chiến lược, cũng như lên kế hoạch. Những sản phẩm họ tạo ra sẽ trở thành [now page](https://nownownow.com/) của họ.
 
@@ -53,4 +53,10 @@ TNV làm chỉ vì vui, ko nghĩ về hệ thống
 
 1 là hệ thống các nhu cầu 
 2 là hệ thống các cá nhân, tổ chức
+
 3 là hệ thống các sản phẩm
+
+Nếu xét là mạng lưới các cá nhân thì là nhu cầu 
+Nếu xét là mạng lưới các tổ chức thì là sứ mạng
+
+Những nhóm nhu  cầu gần  gần nhau có thể là những cách nói gần với nhau
