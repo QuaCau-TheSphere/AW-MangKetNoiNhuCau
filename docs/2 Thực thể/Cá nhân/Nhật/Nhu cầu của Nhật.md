@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-03-16T14:30
+updated: 2026-03-16T14:53
 share: true
 title: Các nhu cầu và lời mời sử dụng của Nhật
 ---
@@ -50,11 +50,25 @@ Về cơ bản là [Trò chuyện vui vẻ và sâu sắc với những người
 
 Xem thêm nhu cầu của [Quả Cầu](../../T%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3%20C%E1%BA%A7u.md)
 ## Lời mời sử dụng
-- Kiến thức: Xem chi tiết trong [CV](./CV.md) và [Những chủ đề Nhật nói được](./Ch%E1%BB%A7%20%C4%91%E1%BB%81%20n%C3%B3i%20chuy%E1%BB%87n.md)
-- Tài chính: 
-	- Nơi đáo thẻ tín dụng với phí 1.4%
-	- Đứng tên các loại tài khoản
-	- Giúp nhau thoát nợ
+### Kiến thức
+Kinh nghiệm làm việc trong các công ty tài chính: bảo hiểm, cho vay, trung gian tài chính
+
+Kiến thức học thuật: nhân văn, khoa học xã hội, khoa học tự nhiên, khoa học ứng dụng, khoa học hình thức
+
+Các chủ đề được chia thành 4 nhóm:
+- Xây dựng mạng lưới, hệ sinh thái
+- Kiếm tiền
+- Xây dựng các hệ thống thông tin, tri thức
+- Kiến thức liên ngành
+
+Xem chi tiết trong [CV](./CV.md) và [Những chủ đề Nhật nói được](./Ch%E1%BB%A7%20%C4%91%E1%BB%81%20n%C3%B3i%20chuy%E1%BB%87n.md)
+
+### Tài chính 
+- Nơi đáo thẻ tín dụng với phí 1.4%
+- Đứng tên các loại tài khoản
+- Giúp nhau thoát nợ
+
+### Khác
 - Địa điểm gặp mặt tại GoldView
 
 ## Lịch
