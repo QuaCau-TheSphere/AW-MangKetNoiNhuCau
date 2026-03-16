@@ -1,6 +1,6 @@
 ---
 created: 2025-12-24T19:26
-updated: 2026-02-14T17:22
+updated: 2026-03-15T10:50
 share: true
 aliases:
   - 
@@ -11,7 +11,8 @@ aliases:
 
 ## Giả thiết 
 ## Ví dụ biểu hiện
-[Suy nghĩ về việc chứng minh mình sai](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i/V%C3%A9t%20c%E1%BA%A1n/Suy%20ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ch%E1%BB%A9ng%20minh%20m%C3%ACnh%20sai.md.md)
+[Suy nghĩ về việc chứng minh mình sai](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i/V%C3%A9t%20c%E1%BA%A1n/Suy%20ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ch%E1%BB%A9ng%20minh%20m%C3%ACnh%20sai.md)
+[Suy nghĩ về diễn ngôn](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i/Suy%20ngh%C4%A9%20v%E1%BB%81%20di%E1%BB%85n%20ng%C3%B4n.md)
 
 ## Giải pháp gợi ý
 
@@ -19,7 +20,7 @@ aliases:
 
 
 ## Nhu cầu liên quan
-- [Suy nghĩ về việc chứng minh mình sai](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i/V%C3%A9t%20c%E1%BA%A1n/Suy%20ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ch%E1%BB%A9ng%20minh%20m%C3%ACnh%20sai.md.md)
+- [Suy nghĩ về việc chứng minh mình sai](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i/V%C3%A9t%20c%E1%BA%A1n/Suy%20ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ch%E1%BB%A9ng%20minh%20m%C3%ACnh%20sai.md)
 
 
 ## Thảo luận khác

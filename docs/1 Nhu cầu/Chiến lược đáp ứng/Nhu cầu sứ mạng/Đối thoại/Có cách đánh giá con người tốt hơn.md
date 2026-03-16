@@ -1,20 +1,24 @@
 ---
 share: true
-created: 2026-01-19T15:00
-updated: 2026-03-14T11:45
+created: 2026-03-14T09:56
+updated: 2026-03-15T10:23
+aliases:
+  - 
 ---
-## Những người đang có nhu cầu này
-- [Quả Cầu](../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/T%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3%20C%E1%BA%A7u.md)
-
+## Cách diễn đạt khác
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
-[Copyleft](../Copyleft.md)
+
 ## Giả thiết 
+
+## Ví dụ biểu hiện
 
 ## Giải pháp gợi ý
 
+## Những người đang có nhu cầu này
+
+
 ## Nhu cầu liên quan
-- [Copyleft](../Copyleft.md)
 
 
 ## Thảo luận khác

@@ -1,9 +1,9 @@
 ---
 share: true
-created: 2026-03-14T11:24
-updated: 2026-03-14T11:24
 aliases:
   - 
+created: 2026-03-15T09:42
+updated: 2026-03-15T09:42
 ---
 ## Cách diễn đạt khác
 
@@ -16,10 +16,10 @@ aliases:
 ## Giải pháp gợi ý
 
 ## Những người đang có nhu cầu này
-- [VCIL](../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/T%E1%BB%95%20ch%E1%BB%A9c/VCIL/index.md)
 
 
 ## Nhu cầu liên quan
+- [Xây dựng hợp tác xã](./index.md)
 
 
 ## Thảo luận khác
