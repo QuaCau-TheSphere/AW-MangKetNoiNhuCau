@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-09T13:48
-updated: 2026-02-26T11:30
+updated: 2026-03-16T14:30
 title: CV của Lý Minh Nhật
 ---
 ## Kinh nghiệm làm việc trong công ty
@@ -88,7 +88,7 @@ Hệ cử nhân tài năng, Trường Đại học KHTN TP.HCM, ‘10 – ‘14
 - **Đề tài tốt nghiệp:** [Khảo sát năng lượng liên kết tĩnh điện trong protease của HIV-1](https://quảcầu.cc/nghien-cuu-khoa-hoc-phong-cach-truyen-tranh?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)&utm_medium=Tập+tin&utm_campaign=Tài+nguyên+khác%2CLàm+việc+hiệu+quả&utm_content=&utm_term=)
 
 ## Kiến thức tự học
-Đây là những bộ môn, lĩnh vực mà Nhật đã tìm hiểu để có một *hệ thống lý thuyết*. Ví dụ như đọc giáo trình, tham dự một khóa học. Dù kiến thức có thể bị quên do không sử dụng, nhưng cũng còn hơn là không biết gì hoàn toàn. Một số chủ đề có thể nói ngay được từ khóa cần tìm là gì.
+Đây là những bộ môn, lĩnh vực mà Nhật đã tìm hiểu để có một *hệ thống lý thuyết*. Ví dụ như đọc giáo trình, tham dự một khóa học. Dù kiến thức có thể bị quên, thiếu cập nhật hoặc không đủ sâu, nhưng cũng còn hơn là không biết gì hoàn toàn. Một số chủ đề có thể nói ngay được từ khóa cần tìm là gì.
 
 Danh mục được lấy từ [Outline of academic disciplines - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
 
