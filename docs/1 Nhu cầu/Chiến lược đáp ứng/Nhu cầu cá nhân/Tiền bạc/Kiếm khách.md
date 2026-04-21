@@ -13,7 +13,7 @@ updated: 2026-01-05T09:52
 ## Giải pháp gợi ý
 
 ## Nhu cầu liên quan
-- [Tiền bạc](./index.md.md)
+- [Tiền bạc](./index.md)
 
 
 ## Thảo luận khác
