@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-10T11:08
-updated: 2026-03-14T16:08
+updated: 2026-04-02T13:37
 ---
 Mạng kết nối nhu cầu là một nơi **làm cho chúng ta thấy nhau rõ hơn**. Các cá nhân, tổ chức sẽ liệt kê các nhu cầu của mình. Đó là cách để mình hiểu mình muốn gì, làm rõ các giả định, lên chiến lược, cũng như lên kế hoạch. Những sản phẩm họ tạo ra sẽ trở thành [now page](https://nownownow.com/) của họ.
 
@@ -13,7 +13,8 @@ mạng kết nối nhu cầu, OANM và vòng tròn tương hỗ
 ABCD
 
 Những thông tin có được trong quá trình thảo luận sẽ được ghi lại và hệ thống hóa để những người đến sau được có thể tìm đến tài nguyên tốt nhất cho nhu cầu của mình một cách nhanh nhất. Do các cá nhân có thể tham gia vào nhiều nhóm khác nhau, nên mạng kết nối nhu cầu cũng sẽ trở thành mạng lưới kết nối các nhóm.
-
+Chiêm nghiệm, phản tư bản thân
+Mở ra các kết nối
 Khảo sát nhu cầu 
 hợp tác xã
 
