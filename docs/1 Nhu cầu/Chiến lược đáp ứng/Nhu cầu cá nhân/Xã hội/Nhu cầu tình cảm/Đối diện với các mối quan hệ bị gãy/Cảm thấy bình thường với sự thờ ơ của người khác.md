@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-29T14:26
-updated: 2026-02-18T12:52
+updated: 2026-04-21T20:20
 ---
 ## Những người đang có nhu cầu này
 
@@ -15,7 +15,7 @@ updated: 2026-02-18T12:52
 ## Giải pháp gợi ý
 
 ## Nhu cầu liên quan
-- [Không thấy đau khổ khi bị unfriend, block](./Kh%C3%B4ng%20th%E1%BA%A5y%20%C4%91au%20kh%E1%BB%95%20khi%20b%E1%BB%8B%20unfriend,%20block.md.md)
+- [Không thấy đau khổ khi bị unfriend, block](./Kh%C3%B4ng%20th%E1%BA%A5y%20%C4%91au%20kh%E1%BB%95%20khi%20b%E1%BB%8B%20unfriend,%20block.md)
 
 
 ## Thảo luận khác
