@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-23T12:00
-updated: 2026-02-18T12:52
+updated: 2026-04-21T20:20
 ---
 ## Những người đang có nhu cầu này
 
@@ -15,7 +15,7 @@ updated: 2026-02-18T12:52
 ## Giải pháp gợi ý
 
 ## Nhu cầu liên quan
-- [Không unfriend, block nhau](../Quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20%C4%91%E1%BB%9Di%20s%E1%BB%91ng%20c%E1%BB%A7a%20nhau/Kh%C3%B4ng%20unfriend,%20block%20nhau.md.md)
+- [Không unfriend, block nhau](../Quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20%C4%91%E1%BB%9Di%20s%E1%BB%91ng%20c%E1%BB%A7a%20nhau/Kh%C3%B4ng%20unfriend,%20block%20nhau.md)
 
 
 ## Thảo luận khác
