@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-03-15T10:34
+updated: 2026-04-21T20:20
 ---
 Bài chi tiết:: [Từ việc phá vỡ silo thông tin và sử dụng hiệu quả các nguồn lực cộng đồng, đến hệ thống quản lý niềm tin và nền kinh tế không dùng tiền: vai trò của các phần mềm ghi chú động lưu dữ liệu tại máy người dùng và ở định dạng đơn giản](M%C3%B4%20t%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n.md)
 [CTA Ecosystem Map • Kumu](https://kumu.io/collaborativetech/cta-ecosystem-map)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-12-28T21:43
-updated: 2026-01-08T13:09
+updated: 2026-04-21T20:20
 ---
 ## Những người đang có nhu cầu này
 
@@ -11,7 +11,7 @@ updated: 2026-01-08T13:09
 ## Giả thiết 
 
 ## Nhu cầu liên quan
-- [Tự do tài chính](../Ti%E1%BB%81n%20b%E1%BA%A1c/T%E1%BB%B1%20do%20t%C3%A0i%20ch%C3%ADnh.md.md)
+- [Tự do tài chính](../Ti%E1%BB%81n%20b%E1%BA%A1c/T%E1%BB%B1%20do%20t%C3%A0i%20ch%C3%ADnh.md)
 
 
 ## Thảo luận khác

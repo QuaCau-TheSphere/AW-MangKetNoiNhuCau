@@ -1,10 +1,10 @@
 ---
-created: 2023-10-28T14:39
-updated: 2026-02-10T14:13
 share: true
+created: 2026-01-04T18:43
+updated: 2026-04-21T20:43
 ---
 ## Những người đang có nhu cầu này
-- [Thịnh](../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Th%E1%BB%8Bnh.md.md)
+- [Thịnh](../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Th%E1%BB%8Bnh.md)
 
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau

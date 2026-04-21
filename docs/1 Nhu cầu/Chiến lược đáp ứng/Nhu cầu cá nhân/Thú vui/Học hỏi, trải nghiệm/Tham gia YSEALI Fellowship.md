@@ -1,10 +1,10 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-01-06T14:17
+updated: 2026-04-21T20:20
 share: true
 ---
 ## Những người đang có nhu cầu này
-- [Tiny](Tiny.md.md)
+- [Tiny](Tiny.md)
 
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau

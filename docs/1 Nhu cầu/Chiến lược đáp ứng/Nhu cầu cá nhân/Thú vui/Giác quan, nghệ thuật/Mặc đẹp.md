@@ -1,11 +1,11 @@
 ---
 created: 2023-10-28T14:39
-updated: 2026-01-06T14:16
+updated: 2026-04-21T20:20
 share: true
 ---
 ## Những người đang có nhu cầu này
-- [Kiên](Ki%C3%AAn.md.md)
-- [Mỹ](M%E1%BB%B9.md.md)
+- [Kiên](Ki%C3%AAn.md)
+- [Mỹ](M%E1%BB%B9.md)
 
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
