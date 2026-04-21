@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-23T11:52
-updated: 2026-02-18T12:52
+updated: 2026-04-21T20:20
 ---
 ## Những người đang có nhu cầu này
 
@@ -15,7 +15,7 @@ updated: 2026-02-18T12:52
 ## Giải pháp gợi ý
 
 ## Nhu cầu liên quan
-- [Minh bạch](../../../../Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/C%E1%BB%99ng%20%C4%91%E1%BB%93ng/Minh%20b%E1%BA%A1ch.md.md)
+- [Minh bạch](../../../../Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/C%E1%BB%99ng%20%C4%91%E1%BB%93ng/Minh%20b%E1%BA%A1ch.md)
 
 
 ## Thảo luận khác
