@@ -4,7 +4,7 @@ created: 2026-01-08T16:00
 updated: 2026-01-08T16:00
 ---
 ## Những người đang có nhu cầu này
-- [Kiên](Ki%C3%AAn.md.md)
+- [Kiên](Ki%C3%AAn.md)
 
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
