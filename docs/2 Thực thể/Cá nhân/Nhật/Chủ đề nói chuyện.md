@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-03T16:30
-updated: 2026-03-16T14:25
+updated: 2026-04-21T19:50
 title: Những chủ đề Nhật chia sẻ được
 ---
 Dưới đây là các chủ đề Nhật cảm thấy có thể mở một buổi nói chuyện. Nhật cảm thấy như vậy là vì các chủ đề này Nhật muốn chia sẻ cho mọi người và đã có một thời gian nhất định để khảo sát một cách có hệ thống, nên có thể trình bày một cách tương đối mạch lạc và lường trước được đa số các câu hỏi từ người nghe.
@@ -24,8 +24,18 @@ Nơi thảo luận:
 ![](https://i.vgy.me/H5WdPn.png)
 
 ## A. Xây dựng mạng lưới, hệ sinh thái
-### Mạng kết nối nhu cầu 
-**Mạng kết nối nhu cầu là một nơi làm cho chúng ta thấy nhau rõ hơn.** Người tham gia sẽ liệt kê các nhu cầu của mình. Với mỗi nhu cầu hoặc nhóm nhu cầu liên quan tới nhau, những ai quan tâm sẽ cùng đến với nhau để thảo luận, trở thành các nhóm tự hỗ trợ nhau (mutual aid). Những thông tin có được trong quá trình thảo luận sẽ được ghi lại và hệ thống hóa để những người đến sau được có thể tìm đến tài nguyên tốt nhất cho nhu cầu của mình một cách nhanh nhất. Do các cá nhân có thể tham gia vào nhiều nhóm khác nhau, nên mạng kết nối nhu cầu cũng sẽ trở thành mạng lưới kết nối các nhóm.
+### Cùng nhau kết nối các nhu cầu và nguồn lực của chúng ta
+Bạn đang có những dự định, dự án, và thấy xung quanh mình rất nhiều nguồn lực tiềm tàng chưa được khai phá tối ưu. Bạn cố gắng tham gia nhiều buổi trò chuyện, tụ tập, giao lưu, và thấy rằng tuy chúng vẫn đem lại giá trị, nhưng các nguồn lực tiềm tàng kia vẫn chưa được đả động đến, vì chúng không phải là chỗ để bạn quảng cáo bản thân. Các buổi để ai cũng được quảng cáo bản thân (các buổi networking) thì có khá hơn, nhưng khi có nhiều người tham gia thì mỗi người cũng chỉ có một chút thời gian để tự giới thiệu. Kể cả khi bạn tìm được một vài người chung mối quan tâm với mình để trò chuyện sâu hơn, thì thông tin cũng chỉ dừng lại ở trong cuộc trò chuyện đó. Các nguồn lực của những người khác cũng không được biết đến. Giá như có cách để ta hiểu nhau được sâu hơn trước khi gặp nhau thì hay biết mấy.
+
+Thật ra cũng đã có vô số ý tưởng như vậy rồi, dưới những cái tên và hình thức khác nhau, như danh bạ thành viên, chợ nhu cầu – mời nhận, mạng xã hội, trang tuyển dụng/hỏi đáp/trao đổi/v.v. Điểm chung của những nơi đó là bạn phải chủ động cung cấp dữ liệu cho nền tảng. Ý tưởng thì hay, nhưng tới khi bắt tay vào nhập liệu rồi thì mới phát hiện ra cách phân loại dữ liệu của chúng đơn giản và cứng nhắc. Mỗi một nhu cầu phải được nhập đơn lẻ, không thể làm với số lượng lớn. Các hệ thống ấy cô lập với nhau và với hệ thống quản lý của bạn. Mặc dù chúng đều có chức năng chỉnh sửa cơ bản, chúng không được thiết kế với tư duy sẵn sàng cho sự đa dạng và thay đổi vượt ra khỏi mọi sự phân loại. Những điều như vậy nhanh chóng làm cạn năng lượng nhập liệu của bạn, và sau một thời gian các thông tin không được cập nhật và phân mảnh tràn ngập trong đó.
+
+Hãy kết nối các nhu cầu và nguồn lực của nhau bằng các công cụ nghĩ được thiết kế để bảo vệ sự tự trị dữ liệu của bạn. Trước khi gặp nhau, bạn hãy viết ra các nhu cầu và nguồn lực của bạn. Đây cũng là cách để bạn hiểu thêm về bản thân. Từ các nhu cầu và nguồn lực chung, chúng ta sẽ động não để cùng đáp ứng chúng. Trong quá trình đó các nhu cầu và nguồn lực mà ta cũng không nghĩ ra rằng là ta có sẽ được khám phá ra. Cuối buổi thảo luận bạn sẽ có cho mình một kho dữ liệu sẵn sàng để bạn tự phát triển tiếp cho cá nhân và những người xung quanh bạn.
+
+Lưu ý:
+- Thời điểm tổ chức buổi thảo luận sẽ tùy vào lịch rảnh của người tham gia. Ưu tiên chọn những người có các mối quan tâm liên quan tới nhau
+- Đem theo laptop để dễ thực hành tại chỗ luôn
+- Thông tin bạn cung cấp sẽ được lưu trữ và sử dụng bởi những người tham gia buổi thảo luận với bạn. Cuối buổi các thành viên sẽ lựa chọn có tích hợp kết quả buổi thảo luận vào [hệ thống công khai](../../../index.md) hay không, giúp những người đến sau có thể tìm đến tài nguyên tốt nhất cho nhu cầu của mình một cách nhanh nhất
+- Không gian không có nước uống. Nhớ chuẩn bị nước trước khi đến
 
 ### Kho địa điểm để chọn nơi gặp mặt
 Một sản phẩm nảy sinh từ mạng kết nối nhu cầu là kho địa điểm để chọn nơi gặp mặt. Đã có nhiều dự án tổng hợp địa điểm như Foody, Google Maps, D.Map, tại sao lại cần thêm một nơi như vậy làm gì? Lý do là vì chúng chưa đủ để đáp ứng các nhu cầu đặc thù rất đa dạng của mỗi người. Người dùng khi vào các dịch vụ đó phải chấp nhận sự phân loại mà các dịch vụ đó tạo ra, và phải chấp nhận dữ liệu bị các dịch vụ đó kiểm soát. Trong khi một nơi xem người dùng là trung tâm thì phải trao sự phân loại và kiểm soát dữ liệu về tay họ.
@@ -48,6 +58,12 @@ Nếu sử dụng ChatGPT thì còn có thêm những nhược điểm khác:
 - Chạy số lượng lớn thì phải tốn tiền
 
 ## B. Kiếm tiền
+### Giải thích về ngành bảo hiểm, trung gian tài chính, ngân hàng
+Tôi từng làm:
+- Nhân viên kinh doanh VNPAY 
+- Trưởng nhóm đại lý Bảo Việt
+- Nhân viên xử lý thực địa FE Credit
+
 ### Giúp nhau thoát nợ 
 Khi một người cần vay nhiều thì sẽ có 2 nguồn để vay:
 - Từ bạn bè, người thân
@@ -62,7 +78,7 @@ Ai cũng biết giải pháp cho chuyện này là góp gió thành bão, nhiề
 Song song với việc xây dựng các hình thức kinh tế thay thế phi tư bản, một giải pháp cho tình trạng này là thành lập một quỹ vi mô với mục đích giúp đỡ nhau hơn là kiếm tiền, nhưng vẫn đem lại lợi ích hợp lý cho người cho vay. Nếu bạn đã từng cho bạn bè mình mượn tiền và muốn chuyện này được giải quyết triệt để hơn, bạn có thể cân nhắc tham gia quỹ.
 
 ### Tôi đi làm nhân viên đòi nợ
-3 tháng đầu năm 2025 tôi làm nhân viên đòi nợ FE ở Bình Dương. Tôi đã có những trải nghiệm gì?
+3 tháng đầu năm 2025 tôi làm nhân viên xử lý thực địa cho FE Credit ở Bình Dương. Nói thẳng ra là tôi được trả tiền để đi đòi nợ. Nhưng tôi làm không vì tiền, mà là vì bạn bè và trải nghiệm. Bạn của tôi cần gì mà lại cần tôi làm công việc này? Và tôi đã có những trải nghiệm gì?
 
 ### Các hình thức tài chính thay thế, kinh tế thay thế
 Khi nói đến tài chính và kinh tế, chúng ta thường mặc định đó là những gì thuộc về ngân hàng, thị trường vốn, tín dụng và đầu tư. Trên thực tế, hệ thống tài chính chủ lưu mà chúng ta đang sống cùng được thiết kế chủ yếu để phục vụ cho tư bản, với mục tiêu trung tâm là tối đa hoá lợi nhuận.
