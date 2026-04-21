@@ -13,7 +13,7 @@ updated: 2026-01-05T09:33
 ## Giải pháp gợi ý
 
 ## Nhu cầu liên quan
-- [Đi nước ngoài](./%C4%90i%20n%C6%B0%E1%BB%9Bc%20ngo%C3%A0i.md.md)
+- [Đi nước ngoài](./%C4%90i%20n%C6%B0%E1%BB%9Bc%20ngo%C3%A0i.md)
 
 
 ## Thảo luận khác
