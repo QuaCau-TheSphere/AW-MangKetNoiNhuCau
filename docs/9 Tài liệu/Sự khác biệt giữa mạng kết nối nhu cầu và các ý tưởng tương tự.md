@@ -1,24 +1,42 @@
 ---
 share: true
 created: 2026-01-09T11:58
-updated: 2026-02-23T13:37
+updated: 2026-04-02T13:30
 ---
+Kho tài nguyên
+Dữ liệu
+Lời mời dùng không đến từ cá nhân, mà từ việc tạo ra sản phẩm chung. Xảy ra khi người đưa ra lời mời muốn đáp ứng, tự kiếm nhu cầu để đáp ứng. Xem việc người khác dùng là nhu cầu của mình
+Có thể ko cần đồng thời 
 
 Các cá nhân thì thường quan tâm đến sản phẩm
 Tổ chức thì thường quan tâm đến nhu cầu
+Đã có hằng hà sa số các nỗ lực kết nối
+tư duy khan hiếm
+
+Cạnh tranh dịch vụ
+
+Tỉ lệ thất bại của các dự án mạng lưới
+
+Với mỗi cá nhân, tạo thành một nhóm những người quan tâm đến cuộc sống của cá nhân đó
+  
+
+Đầu tư mạo hiểm
 ## Danh bạ đối tác, các bên liên quan. Bản đồ nguồn lực
-![ky_nang_xay_dung_mang_luoi_va_van_dong_nguon_luc.pdf](../attachments/ky_nang_xay_dung_mang_luoi_va_van_dong_nguon_luc.pdf.pdf)
+![ky_nang_xay_dung_mang_luoi_va_van_dong_nguon_luc.pdf](../attachments/ky_nang_xay_dung_mang_luoi_va_van_dong_nguon_luc.pdf)
 
 ## OANM
 Danh sách nhu cầu sẽ bị hủy sau một khoảng thời gian
 Không có sự kết nối giữa các phiên
 Tất cả người tham gia phải có mặt đồng thời 
 
+LIN
+Đóng tiền để là thành viên
+[ABG Alumni Connect](https://www.abgalumni.vn/)
+[Members only padlet](https://padlet.com/vietnamcirclewaypractitioner/mong-mu-n-trao-g-i-pvxygsfy8603plq1)
+[NeedsList](https://needslist.co/)
+[Armillaria Acquires NeedsList in a Strategic Move to Enhance Crisis Resilience](https://armillaria.substack.com/p/armillaria-acquires-needslist-in)
+[Armillaria \| Home of the Innovation Exchange & NeedsList](https://armillaria.io/)
 ## Mạng kết nối nhu cầu 
-Kho tài nguyên
-Dữ liệu
-Lời mời dùng không đến từ cá nhân, mà từ việc tạo ra sản phẩm chung. Xảy ra khi người đưa ra lời mời muốn đáp ứng, tự kiếm nhu cầu để đáp ứng. Xem việc người khác dùng là nhu cầu của mình
-Có thể ko cần đồng thời 
 
 
 ## Vòng tròn tương hỗ
@@ -37,6 +55,7 @@ Có app [Givitas](https://marketplace.microsoft.com/en-us/product/office/wa10438
 ![Snapshot 3 of Givitas](https://store-images.s-microsoft.com/image/apps.37954.e097e865-2b78-4912-8082-582ba798bd48.79d3cbe2-fcdb-444f-a1c4-b0f98f86f1eb.e0483f58-2d6f-4d11-8232-52c59a7463ac.png)
 
 ## Hợp tác xã
+## Khác gì với thu thập dữ liệu người dùng?
 ## [ServiceSpace](https://www.servicespace.org/)
 
 ## [Reinventing Organizations Wiki](https://reinventingorganizationswiki.com/)
