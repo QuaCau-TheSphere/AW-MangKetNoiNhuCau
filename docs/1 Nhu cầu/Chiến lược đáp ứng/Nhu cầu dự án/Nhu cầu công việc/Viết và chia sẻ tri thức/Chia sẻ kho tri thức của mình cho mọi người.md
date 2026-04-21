@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-03-17T21:05
-updated: 2026-03-15T10:38
+updated: 2026-04-21T20:20
 aliases:
   - Xây dựng hệ thống tri thức cộng đồng: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?
   - Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?
