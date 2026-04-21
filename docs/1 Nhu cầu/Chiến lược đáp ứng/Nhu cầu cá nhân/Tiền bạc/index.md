@@ -15,7 +15,7 @@ title: Tiền bạc
 ## Giả thiết 
 
 ## Giải pháp gợi ý
-[Kiếm khách](./Ki%E1%BA%BFm%20kh%C3%A1ch.md.md)
+[Kiếm khách](./Ki%E1%BA%BFm%20kh%C3%A1ch.md)
 ## Nhu cầu liên quan
 
 
