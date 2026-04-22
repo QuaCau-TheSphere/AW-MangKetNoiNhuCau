@@ -1,9 +1,10 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-04-21T15:19
+updated: 2026-04-22T21:15
 share: true
 aliases:
   - Không phải nghĩ đến chuyện phải kiếm tiền để sống
+  - Thoát khỏi căng thẳng tiền bạc
 ---
 Có tiền sao mà ăn thoải mái ko cần phải lo nghĩ, tính toán, được mua đồ thỏa thích ko cần nhìn giá tiền, được tự do muốn đi lúc nào đi muốn về lúc nào về, muốn đi đâu thì đi, để kết bạn, bao bạn ăn, dẫn những người mình có hứng thú đi ăn, đi chơi há há
 
