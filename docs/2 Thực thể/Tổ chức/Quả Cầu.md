@@ -1,27 +1,13 @@
 ---
 share: true
 created: 2022-10-07T01:57
-updated: 2026-04-21T20:40
+updated: 2026-04-21T21:11
 aliases:
   - Bản kế hoạch chiến lược
   - Các mục tiêu hiện tại
   - Danh sách nhu cầu và nguồn lực
   - Những gì Quả Cầu đang làm
 ---
-## Phân loại theo mảng
-### [Xây dựng tổ chức mà người tham gia không cần tham gia vì trách nhiệm](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/A%20M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/X%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c%20m%C3%A0%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20kh%C3%B4ng%20c%E1%BA%A7n%20tham%20gia%20v%C3%AC%20tr%C3%A1ch%20nhi%E1%BB%87m.md)
-Làm cách nào để thấy rõ các kết nối đã có sẵn trong cộng đồng Quả Cầu, dẫn đến nhu cầu lập pháp nhân cho Quả Cầu:
-- Đón các dòng tiền bền vững, chính danh
-- Hỗ trợ pháp lí cho các giao dịch của thành viên Quả Cầu với cộng đồng
-- Có nguồn lực bền vững để xây dựng hệ thống quản trị thành công và trao truyền lại cho cộng đồng, giảm phụ thuộc vào founder trong việc vận hành và phát triển Quả Cầu
- 
-Thảo luận về mong muốn phát triển Quả Cầu của các thành viên hiện tại:
-- Quả Cầu là hợp lực của tất cả thành viên trong cộng đồng. Mong muốn và đóng góp của mỗi thành viên là lực đẩy giúp Quả Cầu đến nơi Quả Cầu cần đến.
-- Khởi động thảo luận chung để nhìn thấy những thành viên còn muốn chung tay thúc đẩy Quả Cầu phát triển.
-
-i see u:
-- Lập thư viện nguồn lực và nhu cầu hiện có của cộng đồng Quả Cầu.
-- aai tham gia cũng nhìn thấy nhau, từ đó tạo ra hiện tượng trồi sinh (emergence), thúc đẩy Quả Cầu một cách tự nhiên
 
 ### Có hạn chót, quan trọng 
 [Mọi người không còn phải lo lắng cơm áo gạo tiền nữa](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/C%C3%B4ng%20vi%E1%BB%87c/M%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20c%C3%B2n%20ph%E1%BA%A3i%20lo%20l%E1%BA%AFng%20c%C6%A1m%20%C3%A1o%20g%E1%BA%A1o%20ti%E1%BB%81n%20n%E1%BB%AFa.md):
@@ -35,6 +21,20 @@ i see u:
 - [Xóa bỏ tư duy khan hiếm](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/T%C3%B2%20m%C3%B2,%20thong%20th%E1%BA%A3,%20kho%C3%A1ng%20%C4%91%E1%BA%A1t,%20bi%E1%BA%BFn%20h%C3%B3a/X%C3%B3a%20b%E1%BB%8F%20t%C6%B0%20duy%20khan%20hi%E1%BA%BFm.md)
 
 ### Quan trọng, không hạn chót
+Làm cách nào để thấy rõ các kết nối đã có sẵn trong cộng đồng Quả Cầu, dẫn đến nhu cầu lập pháp nhân cho Quả Cầu:
+- Đón các dòng tiền bền vững, chính danh
+- Hỗ trợ pháp lí cho các giao dịch của thành viên Quả Cầu với cộng đồng
+- Có nguồn lực bền vững để xây dựng hệ thống quản trị thành công và trao truyền lại cho cộng đồng, giảm phụ thuộc vào founder trong việc vận hành và phát triển Quả Cầu
+ 
+Thảo luận về mong muốn phát triển Quả Cầu của các thành viên hiện tại:
+- Quả Cầu là hợp lực của tất cả thành viên trong cộng đồng. Mong muốn và đóng góp của mỗi thành viên là lực đẩy giúp Quả Cầu đến nơi Quả Cầu cần đến.
+- Khởi động thảo luận chung để nhìn thấy những thành viên còn muốn chung tay thúc đẩy Quả Cầu phát triển.
+- [Xây dựng tổ chức mà người tham gia không cần tham gia vì trách nhiệm](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/A%20M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/X%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c%20m%C3%A0%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20kh%C3%B4ng%20c%E1%BA%A7n%20tham%20gia%20v%C3%AC%20tr%C3%A1ch%20nhi%E1%BB%87m.md)
+
+i see u:
+- Lập thư viện nguồn lực và nhu cầu hiện có của cộng đồng Quả Cầu.
+- aai tham gia cũng nhìn thấy nhau, từ đó tạo ra hiện tượng trồi sinh (emergence), thúc đẩy Quả Cầu một cách tự nhiên
+
 [Có tình nguyện viên lập trình](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/C%C3%B3%20t%C3%ACnh%20nguy%E1%BB%87n%20vi%C3%AAn%20l%E1%BA%ADp%20tr%C3%ACnh.md). [Có người kế tục](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20v%E1%BB%81%20h%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20k%E1%BA%BF%20t%E1%BB%A5c.md)
 [Quản trị ngang hàng](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/Qu%E1%BA%A3n%20tr%E1%BB%8B/Qu%E1%BA%A3n%20tr%E1%BB%8B%20ngang%20h%C3%A0ng.md)
 [Nắm bắt hoạt động của nhau](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/Qu%E1%BA%A3n%20tr%E1%BB%8B/N%E1%BA%AFm%20b%E1%BA%AFt%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20nhau.md)
