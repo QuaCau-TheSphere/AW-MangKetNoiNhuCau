@@ -2,8 +2,8 @@
 share: true
 aliases:
   - 
-created: 2026-04-11T23:51
-updated: 2026-04-23T13:10
+created: 2026-04-23T13:13
+updated: 2026-04-23T13:13
 ---
 ## Cách diễn đạt khác
 

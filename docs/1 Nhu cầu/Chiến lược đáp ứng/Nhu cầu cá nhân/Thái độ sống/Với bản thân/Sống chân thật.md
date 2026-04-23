@@ -1,9 +1,9 @@
 ---
 share: true
+created: 2026-04-11T23:48
+updated: 2026-04-23T13:25
 aliases:
-  - 
-created: 2026-04-11T23:51
-updated: 2026-04-23T13:10
+  - liêm chính
 ---
 ## Cách diễn đạt khác
 
