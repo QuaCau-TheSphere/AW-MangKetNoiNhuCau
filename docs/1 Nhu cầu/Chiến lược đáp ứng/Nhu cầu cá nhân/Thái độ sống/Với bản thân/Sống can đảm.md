@@ -3,7 +3,7 @@ share: true
 aliases:
   - 
 created: 2026-04-11T23:51
-updated: 2026-04-21T20:20
+updated: 2026-04-23T13:10
 ---
 ## Cách diễn đạt khác
 
@@ -16,6 +16,7 @@ updated: 2026-04-21T20:20
 ## Giải pháp gợi ý
 
 ## Những người đang có nhu cầu này
+- [Nhu cầu của Nhật](../../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/Nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20Nh%E1%BA%ADt.md)
 
 
 ## Nhu cầu liên quan
