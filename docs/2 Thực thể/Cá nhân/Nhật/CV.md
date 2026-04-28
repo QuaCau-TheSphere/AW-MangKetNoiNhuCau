@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-09T13:48
-updated: 2026-04-11T18:14
+updated: 2026-04-28T12:57
 title: CV của Lý Minh Nhật
 ---
 ## Kinh nghiệm làm việc trong công ty
@@ -88,13 +88,13 @@ Hệ cử nhân tài năng, Trường Đại học KHTN TP.HCM, ‘10 – ‘14
 - **Đề tài tốt nghiệp:** [Khảo sát năng lượng liên kết tĩnh điện trong protease của HIV-1](https://quảcầu.cc/nghien-cuu-khoa-hoc-phong-cach-truyen-tranh?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)&utm_medium=Tập+tin&utm_campaign=Tài+nguyên+khác%2CLàm+việc+hiệu+quả&utm_content=&utm_term=)
 
 ## Kiến thức tự học
-Đây là những bộ môn, lĩnh vực mà Nhật đã tìm hiểu để có một *hệ thống lý thuyết*. Ví dụ như đọc giáo trình, tham dự một khóa học, nghe thảo luận trên YouTube, v.v. Trung bình mỗi chủ đề phải mất ít nhất hai tuần tìm hiểu toàn thời gian. Dù kiến thức có thể bị quên, thiếu cập nhật hoặc không đủ sâu, nhưng cũng còn hơn là không biết gì hoàn toàn. Một số chủ đề có thể nói ngay được từ khóa cần tìm là gì. Những kiến thức này đủ để trao đổi và đặt câu hỏi về chuyên môn cho người từ cấp độ cử nhân trở lên.
+Đây là những bộ môn, lĩnh vực mà Nhật đã tìm hiểu để có một *hệ thống lý thuyết*. Ví dụ như đọc giáo trình, tham dự một khóa học, nghe thảo luận, bài giảng trên YouTube, v.v. Trung bình mỗi chủ đề phải mất ít nhất hai tuần tìm hiểu toàn thời gian. Dù kiến thức về các chủ đề này có thể bị quên, thiếu cập nhật hoặc không đủ sâu, nhưng có lẽ là đủ để khi bắt gặp chủ đề có liên quan cũng có thể nói ngay một vài từ khóa hữu ích, hoặc trao đổi và đặt câu hỏi chuyên môn.
 
 Danh mục được lấy từ [Outline of academic disciplines - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
 
 ### Nhân văn
 - **Nghệ thuật:** truyện tranh, thời trang
-- **Triết học:** Phật học, Đạo học, Deleuze và Guattari, mỹ học, hậu hiện đại, bản thể hướng vật thể, nhận thức luận, đạo đức, toán học, công nghệ
+- **Triết học:** Phật học, Đạo học, Deleuze và Guattari, mỹ học, hậu hiện đại, bản thể học hướng vật thể, nhận thức luận, đạo đức, toán học, công nghệ
 - **Ngôn ngữ và văn học:** văn học, dịch thuật, tu từ và bố cục, thông diễn học
 - **Lịch sử:** Lịch sử cộng sản
 
@@ -108,7 +108,7 @@ Danh mục được lấy từ [Outline of academic disciplines - Wikipedia](htt
 - **Tổ chức học:** hành vi tổ chức, quản lý dự án
 
 ### Khoa học tự nhiên và khoa học hình thức
-- **Toán:** hình học xạ ảnh, nhóm và biểu diễn, hệ phức tạp và động, giải tích hàm điều hòa, giải tích phức, lý thuyết đồ thị, lịch sử toán, lý thuyết thông tin, đại số kế toán
+- **Toán:** hình học xạ ảnh, nhóm và biểu diễn, hệ phức tạp và động, giải tích hàm điều hòa, giải tích phức, lý thuyết đồ thị, lịch sử toán, lý thuyết thông tin, đại số kế toán, lý thuyết đo
 - **Khoa học máy tính:** kỹ thuật phần mềm, lập trình hướng đối tượng, xử lý ngôn ngữ tự nhiên, nhân văn số, khoa học dữ liệu, mạng, mật mã học, xử lý hình ảnh, trực quan hóa thông tin, cơ sở dữ liệu, khoa học tính toán, giải tích số, tin sinh học, điện toán lượng tử
 
 ### Khoa học ứng dụng
