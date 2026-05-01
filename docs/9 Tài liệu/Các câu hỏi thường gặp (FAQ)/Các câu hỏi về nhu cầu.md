@@ -1,14 +1,16 @@
 ---
 share: true
 created: 2026-03-07T13:04
-updated: 2026-04-23T13:35
+updated: 2026-05-01T19:33
 ---
+## Nhu cầu với ham muốn khác gì nhau
+Nhiều nơi định nghĩa cần (need) và muốn (want) là khác nhau:
+- Đối với những người theo giao tiếp phi bạo lực, chỉ những khái niệm được liệt kê trong [Nhu cầu phổ quát](../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/index.md) mới là nhu cầu thực sự, còn những thứ khác chỉ cách thức để ta đáp ứng nhu cầu của mình. Những cách thức ấy gọi là ham muốn
+- Cần là thứ sẽ giúp mình tốt hơn, muốn là thứ ta có ý thức tìm kiếm nó
+- 
+
 ## Nhu cầu không bao giờ chấm dứt
-Nhiều nơi định nghĩa nhu cầu (need) và ham muốn (want) là khác nhau. Ví dụ như đối với những người theo giao tiếp phi bạo lực, chỉ những khái niệm được liệt kê trong [Nhu cầu phổ quát](../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/index.md) mới là nhu cầu thực sự, còn những thứ khác chỉ cách thức để ta đáp ứng nhu cầu của mình. Những cách thức ấy gọi là ham muốn.
-
-Thế nào là đủ? 
-
-Liệu ta có nên đáp ứng ham muốn hay không? Nếu câu trả lời là không, vậy thì ta nên đi tu hết? Việc đáp ứng những [Nhu cầu phổ quát](../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/index.md) vẫn chỉ là xác phàm, thứ mình cần là giác ngộ, niết bàn. Hoặc về làm nông nghiệp sinh thái. Những thứ đó con người đã tự làm được từ bao đời nay, không cần phải trao đổi làm gì.
+Thế nào là đủ? Liệu ta có nên đáp ứng ham muốn hay không? Nếu câu trả lời là không, vậy thì ta nên đi tu hết? Việc đáp ứng những [Nhu cầu phổ quát](../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/index.md) vẫn chỉ là xác phàm, thứ mình cần là giác ngộ, niết bàn. Hoặc về làm nông nghiệp sinh thái. Những thứ đó con người đã tự làm được từ bao đời nay, không cần phải trao đổi làm gì.
 
 Ở đây có lẽ cần phải dùng cách định nghĩa 
 
