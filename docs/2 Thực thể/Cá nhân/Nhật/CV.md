@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2026-02-09T13:48
-updated: 2026-04-28T12:57
+updated: 2026-04-30T18:29
 title: CV của Lý Minh Nhật
+description: Kinh nghiệm làm việc trong công ty. Kỹ năng. Dự án, sản phẩm. Buổi nói chuyện. Cộng tác. Giáo dục chính quy. Kiến thức tự học. Các khoá học, tập huấn đã tham gia.
 ---
 ## Kinh nghiệm làm việc trong công ty
 ```mermaid
@@ -118,7 +119,7 @@ Danh mục được lấy từ [Outline of academic disciplines - Wikipedia](htt
 - **Y học và sức khỏe:** viêm da dị ứng, giải phẫu người, đánh giá xét nghiệm
 - **Công tác xã hội**: phúc lợi trẻ em, tổ chức cộng đồng, sức khỏe tâm thần, tài chính vi mô
 
-## Các khoá học, tập huấn
+## Các khoá học, tập huấn đã tham gia
 | Năm  | Tên chương trình                                                              | Đơn vị tổ chức                                                               |
 | ---- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | 2025 | Ngữ dụng học                                                                  | Kulavietnam                                                                  |
