@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-03-07T13:04
-updated: 2026-05-01T19:33
+updated: 2026-05-02T21:26
 ---
 ## Nhu cầu với ham muốn khác gì nhau
 Nhiều nơi định nghĩa cần (need) và muốn (want) là khác nhau:
@@ -27,6 +27,7 @@ Miễn là còn thấy ở đây vẫn giúp giải quyết được thì không
 
 Nhưng lúc đó nhu cầu sẽ không còn nóng nữa,và sẽ thoải mái trong việc hỗ trợ người khác tìm giải pháp cho nhu cầu họ hơn
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9nVL9nSix1A?si=pzeRCuzpLOlajYiu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Các nhu cầu dùng năng lượng tiêu cực
 em nghĩ là khái niệm nào mình quan sát thấy là miêu tả đúng trạng thái nhu cầu của mình thì cứ dùng. Nếu nó tối thì cũng cần nhìn nhận là nó tối, chứ ko phải vì muốn sáng mà thay đổi nó đi. Chứ ai mà chả muốn sáng. Hơn nữa nhu cầu gốc rễ thì cũng là sáng rồi? 
 > Trò chuyện vui vẻ và sâu sắc với những người mình quan tâm
