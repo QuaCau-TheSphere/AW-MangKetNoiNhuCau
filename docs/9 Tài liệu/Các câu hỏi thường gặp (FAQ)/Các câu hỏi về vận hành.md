@@ -1,6 +1,6 @@
 ---
 created: 2023-10-28T14:39
-updated: 2026-03-07T13:04
+updated: 2026-05-12T01:34
 share: true
 ---
 ## Có những nhu cầu không muốn người khác biết mình có
@@ -41,10 +41,11 @@ Khi lên kế hoạch thi sẽ không nhức đầu
 Thế nên mới cần có những người cùng hỗ trợ mình, vì khi được nói chuyện thì tự động mình sẽ có tâm trí
 
 ## Các vấn đề về tiền
-Với [Những thứ bắt buộc phải dùng tiền](Nh%E1%BB%AFng%20th%E1%BB%A9%20b%E1%BA%AFt%20bu%E1%BB%99c%20ph%E1%BA%A3i%20d%C3%B9ng%20ti%E1%BB%81n.md.md) thì cần xây dựng quỹ chung.
+Với [Những thứ bắt buộc phải dùng tiền](Nh%E1%BB%AFng%20th%E1%BB%A9%20b%E1%BA%AFt%20bu%E1%BB%99c%20ph%E1%BA%A3i%20d%C3%B9ng%20ti%E1%BB%81n.md) thì cần xây dựng quỹ chung.
 
 ## Thấy các nhu cầu này chẳng có gì chung cả
 Chưa vét cạn nhu cầu và mạng lưới xã hội của mình
+Không thấy đáng để làm rõ nhu cầu của mình. Sự viết sẽ làm rõ?
 
 ## Có những cái mình chỉ có thể tự xử lý
 Vậy thì mình chỉ giúp nhau những nhu cầu mà mình có thể giúp nhau, để có thời gian xử lý nhu cầu chỉ mình mình xử lý được. Hơn nữa được lắng nghe và cho ý kiến cũng sẽ giúp ích
@@ -56,8 +57,15 @@ Vậy thì mình chỉ giúp nhau những nhu cầu mà mình có thể giúp nh
 ## Cảm giác ngại ngùng khi nhờ vả và mệt mỏi nhưng không nỡ từ chối khi bị nhờ
 
 ## Các group FB sẽ giúp tốt hơn là vào đây
+Ở SG có gì bỏ tiền ra mà ko có được mà mạng lưới kết nối nhu cầu có thể mang đến
+em giải quyết được vấn đề của ai rồi, bằng mạng kết nối nhu cầu em đang lập?
+khi ng ta cần xin đồ lên freecycle, 
+khi cần mua đồ cũ lên chợ tốt. 
+Khi cần học lên domestika, onair, YouTube podcast, fonos...
+Khi cần hỏi quan điểm của các nguồn dữ liệu cũ, người ta dùng AI...
+Khi cần networking, người ta dùng linkedin, fb group, thread
 
 ## Cần bao nhiêu người để nó có thể hoạt động hiệu quả
 Giá trị của một mạng lưới tùy phụ thuộc vào , tuân theo hiệu ứng mạng. Ban đầu 
 
-[Bộ quy tắc hoạt động](../B%E1%BB%99%20quy%20t%E1%BA%AFc%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng.md.md)
+[Bộ quy tắc hoạt động](../B%E1%BB%99%20quy%20t%E1%BA%AFc%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng.md)
