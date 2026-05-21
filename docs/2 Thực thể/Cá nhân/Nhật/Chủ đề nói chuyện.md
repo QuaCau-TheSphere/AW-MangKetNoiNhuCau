@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-03T16:30
-updated: 2026-05-11T22:03
+updated: 2026-05-13T21:42
 title: Những chủ đề Nhật chia sẻ được
 ---
 Dưới đây là các chủ đề Nhật cảm thấy có thể mở một buổi nói chuyện. Nhật cảm thấy như vậy là vì các chủ đề này Nhật muốn chia sẻ cho mọi người và đã có một thời gian nhất định để khảo sát một cách có hệ thống, nên có thể trình bày một cách tương đối mạch lạc và lường trước được đa số các câu hỏi từ người nghe.
@@ -16,7 +16,7 @@ Các chủ đề trong 3 nhóm đầu có thể nói độc thoại trong khoả
 - Do các chủ đề cũng liên kết nhiều với nhau nên một buổi thảo luận có thể nói nhiều chủ đề khác nhau. Điểm chuyển chủ đề tốt nhất là các câu hỏi.
 - Tăng sự cá nhân hóa cho người tham gia, vừa giúp Nhật xem lại kiến thức
 
-Các chủ đề trong nhóm "Kiến thức liên ngành" thì thường độc lập với nhau và có lẽ cần nhiều thời gian trình bày độc thoại hơn. Nhật sẵn sàng chia sẻ, nhưng do chúng cần thêm sự chuẩn bị, nghiên cứu thêm, và sự chuẩn bị này có ít liên hệ tới [những điều Nhật đang tập trung làm](./Nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20Nh%E1%BA%ADt.md), nên Nhật muốn có được sự thong thả để hoàn thiện nội dung. 
+Các chủ đề trong nhóm "Kiến thức liên ngành" thì thường độc lập với nhau và có lẽ cần nhiều thời gian trình bày độc thoại hơn. Nhật sẵn sàng chia sẻ, nhưng do chúng cần thêm sự chuẩn bị, nghiên cứu thêm, và sự chuẩn bị này có ít liên hệ tới [những điều Nhật đang tập trung làm](./Nhu%20c%E1%BA%A7u.md), nên Nhật muốn có được sự thong thả để hoàn thiện nội dung. 
 
 Bạn có thể xem [các bản ghi hình các buổi nói chuyện trước đây](https://www.youtube.com/playlist?list=PLJHpgh0M58TkKw-kM8bgvUjRP_Xnkw_PO) để hiểu hơn cách các buổi như này diễn ra. Ngoài ra, trong [CV của Nhật](./CV.md) có liệt kê đầy đủ hơn về những gì Nhật biết. Các chủ đề đó nếu được hỏi thì vẫn trả lời được, nhưng sẽ bị tủn mủn do chưa mường tượng được về một chủ đề rõ ràng để có thể trình bày một cách có hệ thống. 
 
