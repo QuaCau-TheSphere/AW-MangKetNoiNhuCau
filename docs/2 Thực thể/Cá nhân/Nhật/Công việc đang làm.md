@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-13T21:53
-updated: 2026-05-21T23:40
+updated: 2026-05-22T01:01
 ---
 ![](https://images.prismic.io/sketchplanations/Z2QwVpbqstJ98rsf_SP904-The3BricklayersParable.png?auto=format%2Ccompress&fit=max&w=1920)
 
@@ -48,7 +48,7 @@ hiện tại em đang nghiên cứu chủ đề "người làm dữ liệu nói 
 - Hussurl trước đây cũng là nhà toán học. Vậy hiện tượng học có mối liên hệ thế nào với toán học?
 - Hiện tượng học với nhận thức luận (epistemology) có mối liên hệ thế nào
 ## Giúp bạn bè [Thoát khỏi vòng xoáy nợ nần](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/C%E1%BA%AFt%20n%E1%BB%A3/Tho%C3%A1t%20kh%E1%BB%8Fi%20v%C3%B2ng%20xo%C3%A1y%20n%E1%BB%A3%20n%E1%BA%A7n.md)
-Vốn dĩ nhu cầu này đến từ nhu cầu [Giúp những người xung quanh thoát khỏi căng thẳng](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20kh%E1%BB%8Fi%20c%C4%83ng%20th%E1%BA%B3ng.md), để họ [được sống cuộc sống thú vị và ý nghĩa](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%A1i%20%C4%91%E1%BB%99%20s%E1%BB%91ng/%C4%90%C6%B0%E1%BB%A3c%20s%E1%BB%91ng%20cu%E1%BB%99c%20s%E1%BB%91ng%20th%C3%BA%20v%E1%BB%8B%20v%C3%A0%20%C3%BD%20ngh%C4%A9a.md). Giải pháp gốc rễ, lâu dài thì cần: 
+Vốn dĩ nhu cầu này đến từ nhu cầu [Giúp những người xung quanh mình thoát khỏi căng thẳng](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20m%C3%ACnh%20tho%C3%A1t%20kh%E1%BB%8Fi%20c%C4%83ng%20th%E1%BA%B3ng.md), để họ [được sống cuộc sống thú vị và ý nghĩa](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%A1i%20%C4%91%E1%BB%99%20s%E1%BB%91ng/%C4%90%C6%B0%E1%BB%A3c%20s%E1%BB%91ng%20cu%E1%BB%99c%20s%E1%BB%91ng%20th%C3%BA%20v%E1%BB%8B%20v%C3%A0%20%C3%BD%20ngh%C4%A9a.md). Giải pháp gốc rễ, lâu dài thì cần: 
 - [Lập quỹ tín dụng vi mô](../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/L%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4.md)
 - [Xây dựng hợp tác xã nhân viên](../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20nh%C3%A2n%20vi%C3%AAn.md), [Xây dựng công đoàn thực chất](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%B4ng%20%C4%91o%C3%A0n%20th%E1%BB%B1c%20ch%E1%BA%A5t.md)
 - [Xây dựng cộng đồng có chủ đích](../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/X%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch.md)
