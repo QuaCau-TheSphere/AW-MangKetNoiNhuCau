@@ -1,6 +1,6 @@
 ---
 created: 2024-09-08T16:19
-updated: 2026-02-24T13:01
+updated: 2026-05-13T14:04
 share: true
 ---
 Maslow đề xuất ý tưởng tháp nhu cầu năm 1943 (cách nay 80 năm). Năm 1976 đã có những nghiên cứu phản bác cái tháp này (cách nay 50 năm). Theo mình hiểu thì những người làm nghiên cứu tâm lý học cũng không còn sử dụng nó nữa. Thời Maslow thì có lẽ còn chịu ảnh hưởng của phái cấu trúc luận, cho rằng luôn có một trật tự giữa mọi thứ. Xu hướng hiện nay là chất vấn cái cấu trúc này một cách kỹ càng hơn.  
@@ -15,7 +15,9 @@ nói chung thì tầng ở trên có cường độ cao hơn
 ```
 thì sẽ ổn hơn.  
   
-• https://hbr.org/2016/09/the-elements-of-value  
+• [The 30 Elements of Consumer Value: A Hierarchy](https://hbr.org/2016/09/the-elements-of-value)
 • [Does evidence support Maslow's Hierarchy of Needs?](https://psychology.stackexchange.com/q/169/12937)
 
 ![Alternative illustration as a dynamic hierarchy of needs with overlaps of different needs at the same time](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dynamic_hierarchy_of_needs_-_Maslow.svg/1280px-Dynamic_hierarchy_of_needs_-_Maslow.svg.png)
+
+Nói nấu bếp củi là lạc hậu, nhưng người ở vườn, ở rừng thì vẫn nấu củi vì nó rẻ, tự kiếm được, phù hợp với điều kiện kinh tế của họ. Nên khi nói lạc hậu cần đưa ra bối cảnh cụ thể mới xét được.
