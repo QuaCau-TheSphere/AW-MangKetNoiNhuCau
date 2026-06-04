@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-09T13:48
-updated: 2026-04-30T18:29
+updated: 2026-05-29T21:58
 title: CV của Lý Minh Nhật
 description: Kinh nghiệm làm việc trong công ty. Kỹ năng. Dự án, sản phẩm. Buổi nói chuyện. Cộng tác. Giáo dục chính quy. Kiến thức tự học. Các khoá học, tập huấn đã tham gia.
 ---
@@ -32,7 +32,7 @@ Nhân viên kinh doanh GM Mall: active, 2/2025, 6/2025
 - **Shell script:** AutoHotKey, Regex, PowerShell, sed/grep/awk, bash
 - **Đồ thị:** Graphviz, Obsidian Dataview & Breadcrumbs, Neo4j, Cypher, vis.js
 - **Android:** Tasker
-- **CI/CD:** Docker
+- **CI/CD:** Docker, GitHub Actions
 
 ### Khác
 - **Quản lý kiến thức và dự án:** OneNote, Google Keep (quản trị viên subreddit [r/GoogleKeep](https://www.reddit.com/r/GoogleKeep/)), Obsidian, Notion, Confluence, Trello
@@ -42,10 +42,8 @@ Nhân viên kinh doanh GM Mall: active, 2/2025, 6/2025
 - **Xuất bản:** Typst, LaTeX, Zotero, Libre Office, jPdfBookmarks
 - **Sản xuất video:** Movavi, Audacity, VLC
 - **Productivity:** Anki, ManicTime, RescueTime
-- **Ngôn ngữ:** Tiếng Việt, Tiếng Anh (TOELF: 90, GRE: 306), Tiếng Trung (sơ cấp)
-- **Thể thao:** StarCraft: Broodwar, cờ vây, võ thuật, trượt ván, thể thao mạo hiểm
-
-👉 Xem thêm: [How I use Google Keep](http://lyminhnhat.com/how-i-use-google-keep/?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)&utm_medium=Tập+tin&utm_campaign=B2&utm_content=&utm_term=)
+- **Ngôn ngữ:** Tiếng Việt, tiếng Anh (TOELF: 90, GRE: 306), tiếng Trung, tiếng Nhật (sơ cấp)
+- **Thể thao:** StarCraft: Broodwar, cờ vây, võ thuật (Vovinam), trượt ván, thể thao mạo hiểm
 
 ## Dự án, sản phẩm
 | Năm  | Sản phẩm                                                                                                                                                                                                                                                                                                                                                         |
@@ -100,7 +98,7 @@ Danh mục được lấy từ [Outline of academic disciplines - Wikipedia](htt
 - **Lịch sử:** Lịch sử cộng sản
 
 ### Khoa học xã hội
-- **Kinh doanh:** hệ thống thông tin, tài chính, tài chính thay thế, quản lý dự án, kế toán, bảo hiểm, nguồn nhân lực, sở hữu trí tuệ
+- **Kinh doanh:** hệ thống thông tin, tài chính, tài chính thay thế, quản lý dự án, kế toán, bảo hiểm, nhân lực, sở hữu trí tuệ, quản lý rủi ro
 - **Kinh tế học:** lịch sử kinh tế, kinh tế thay thế, chủ nghĩa tư bản, chủ nghĩa cộng sản
 - **Ngôn ngữ học:** ngôn ngữ học nhận thức, ngữ nghĩa học, thi pháp học, âm vị học, cú pháp học
 - **Tâm lý học:** tâm lý học nhận thức, cảm xúc, tâm lý học xã hội, tâm lý trị liệu, tâm lý học tích cực
@@ -110,7 +108,7 @@ Danh mục được lấy từ [Outline of academic disciplines - Wikipedia](htt
 
 ### Khoa học tự nhiên và khoa học hình thức
 - **Toán:** hình học xạ ảnh, nhóm và biểu diễn, hệ phức tạp và động, giải tích hàm điều hòa, giải tích phức, lý thuyết đồ thị, lịch sử toán, lý thuyết thông tin, đại số kế toán, lý thuyết đo
-- **Khoa học máy tính:** kỹ thuật phần mềm, lập trình hướng đối tượng, xử lý ngôn ngữ tự nhiên, nhân văn số, khoa học dữ liệu, mạng, mật mã học, xử lý hình ảnh, trực quan hóa thông tin, cơ sở dữ liệu, khoa học tính toán, giải tích số, tin sinh học, điện toán lượng tử
+- **Khoa học máy tính:** kỹ thuật phần mềm, lập trình hướng đối tượng, xử lý ngôn ngữ tự nhiên, nhân văn số, khoa học dữ liệu, mạng, mật mã học, xử lý hình ảnh, trực quan hóa thông tin, cơ sở dữ liệu, khoa học tính toán, giải tích số, tin sinh học, điện toán lượng tử, bảo mật thông tin
 
 ### Khoa học ứng dụng
 - **Kiến trúc và thiết kế:** nhận thức tăng cường, thiết kế đồ họa, công thái học, trải nghiệm người dùng
