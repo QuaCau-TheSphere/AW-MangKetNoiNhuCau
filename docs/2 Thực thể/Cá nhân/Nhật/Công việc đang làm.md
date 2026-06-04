@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-13T21:53
-updated: 2026-05-22T01:01
+updated: 2026-06-02T22:30
 ---
 ![](https://images.prismic.io/sketchplanations/Z2QwVpbqstJ98rsf_SP904-The3BricklayersParable.png?auto=format%2Ccompress&fit=max&w=1920)
 
@@ -9,44 +9,12 @@ updated: 2026-05-22T01:01
 
 ## Hoàn thiện nghiên cứu: "Người làm dữ liệu nói gì về sự thiếu sót của dữ liệu?"
 
-Nghiên cứu này có gấp không? Chắc chắn là không, nhưng nó đã lỡ chiếm tâm trí của Nhật rồi. Giờ nếu bỏ xuống thì gặp mấy nhược điểm này:
-- Mất cái đà suy nghĩ đang có,
-- Làm mình có thêm một thứ dở dang
+[Lý do làm nghiên cứu](./L%C3%BD%20do%20l%C3%A0m%20nghi%C3%AAn%20c%E1%BB%A9u.md)
 
-Nghiên cứu này có quan trọng không? Nó sẽ tùy vào cách ta xét thế nào là quan trọng. Với nhu cầu [Trò chuyện vui vẻ và sâu sắc với những người mình quan tâm](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Nhu%20c%E1%BA%A7u%20t%C3%ACnh%20c%E1%BA%A3m/Quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20%C4%91%E1%BB%9Di%20s%E1%BB%91ng%20c%E1%BB%A7a%20nhau/Tr%C3%B2%20chuy%E1%BB%87n%20vui%20v%E1%BA%BB%20v%C3%A0%20s%C3%A2u%20s%E1%BA%AFc%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20m%C3%ACnh%20quan%20t%C3%A2m.md) thì chắc là nó không giúp ích gì, nhưng khi đi sâu vào việc giải quyết nhu cầu đó thì sẽ thấy một nhu cầu khác len lỏi nhiều là [Thu hút được sự đóng góp, lan toả chủ động của người có chuyên môn](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20v%E1%BB%81%20h%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20tham%20gia/Thu%20h%C3%BAt%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20%C4%91%C3%B3ng%20g%C3%B3p,%20lan%20to%E1%BA%A3%20ch%E1%BB%A7%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20chuy%C3%AAn%20m%C3%B4n.md) (cũng như của mọi người nói chung). Nhật đánh cược là nghiên cứu này sẽ đáp ứng nhu cầu đó khá tốt. Cơ sở cho nhận định này là vì chính Nhật cũng bị nó xui khiến khiến cho phải nghĩ đi nghĩ lại về nó, dù đã thấy nó không đáng để trở thành thứ được xếp thứ hạng ưu tiên cao nhất. Nên những người cũng ưa làm nghiên cứu như Nhật chắc cũng sẽ thấy chủ đề này hấp dẫn.
-
-> [!Info] Bạn có biết?
-> Năm 1969, khi điều trần trước Ủy ban liên hợp của Thượng viện Mỹ về năng lượng hạt nhân, trả lời câu hỏi liệu vật lý năng lượng cao có giá trị gì đối với việc bảo vệ quốc gia hay không, Robert Wilson, giám đốc FermiLab – viện máy gia tốc hạt năng lượng cao nhất thế giới lúc bấy giờ, đã nói: "Nó chẳng dính dáng gì trực tiếp đến bảo vệ quốc gia, ngoài việc làm cho quốc gia đáng được bảo vệ."
-
-Nên Nhật thấy tuy nghiên cứu này có thể chưa tới mức là thứ xứng đáng có được sự ưu tiên cao nhất, nhưng việc chuyển sang làm cái khác sẽ không có lợi bằng tiếp tục làm nó.
-
-> Khi một người dành thời gian để làm một điều đúng ở hiện tại, họ là một người cầu toàn không có khả năng ưu tiên. Còn khi một người dành thời gian làm một điều đúng trong quá khứ, họ là nghệ nhân bậc thầy với tầm nhìn xa trông rộng.
-> — xkcd
-```mermaid
-xychart
-    title "Sales Revenue"
-    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
-    y-axis "Revenue (in $)" 4000 --> 11000
-    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
-    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
-
-```
-
-### Lý do không chia sẻ
-Tìm người chung mục tiêu sẽ có tác động lớn hơn
-Khi nào thì có thể hô lên để giúp?
-Cũng có nhiều người nổi tiếng sẵn rồi. Tự họ đã là chuyên gia. Nhưng cũng không thấy họ hô hào để giúp cho việc khác
-Người giúp đỡ sẽ khó có động lực giúp nếu không thấy ý tưởng mình rõ ràng
-[Chưa thấy có dự án nào nói về việc làm giảm tải gánh nặng công việc cho người bên cạnh mình](Ch%C6%B0a%20th%E1%BA%A5y%20c%C3%B3%20d%E1%BB%B1%20%C3%A1n%20n%C3%A0o%20n%C3%B3i%20v%E1%BB%81%20vi%E1%BB%87c%20l%C3%A0m%20gi%E1%BA%A3m%20t%E1%BA%A3i%20g%C3%A1nh%20n%E1%BA%B7ng%20c%C3%B4ng%20vi%E1%BB%87c%20cho%20ng%C6%B0%E1%BB%9Di%20b%C3%AAn%20c%E1%BA%A1nh%20m%C3%ACnh.md)
-
-Vậy nó có xứng đáng để xem đây là ưu tiên cao nhất không, khi mà việc làm nó là chi phí cơ hội cho những việc khác? Giám đốc FermiLab nói thì nói vậy, nhưng vẫn phải ra quyết định xem dự án nào là dự án nên tập trung nguồn lực.
-Những thứ khác có thể chuyển giao cho người khác
-Phải dành thời gian để hoàn thiện câu hỏi, và nó bắt nguồn từ vision. Trong khi đầu mình đang xử lý task. Nên bản thân việc đặt câu hỏi cũng là một sự phân tâm
-
-
-hiện tại em đang nghiên cứu chủ đề "người làm dữ liệu nói gì về thiếu sót của dữ liệu". Dữ liệu ở đây là dữ liệu định lượng. Em đã tìm hiểu sơ bộ để hiểu được các phê bình về dữ liệu thường gặp (https://issues.org/limits-of-data-nguyen/), cũng như hiểu cách mà các ngành như toán học, vật lý, y học, khoa học dữ liệu sử dụng dữ liệu thế nào, từ đó có thể đoán được những người làm trong ngành này sẽ phản hồi thế nào về các phê bình này. Tuy nhiên em cảm thấy nếu không có góc nhìn hiện tượng học thì sẽ còn thiếu sót, dù chưa thể đưa ra được một lý do rõ ràng do chưa có dịp tìm hiểu. Có lẽ chủ đề nào của khóa học em cũng đều hứng thú cả, nhưng có 2 chủ đề em thấy có liên hệ với nghiên cứu của mình rõ ràng nên nêu ra ở đây:
-- Hussurl trước đây cũng là nhà toán học. Vậy hiện tượng học có mối liên hệ thế nào với toán học?
+Mình đã tìm hiểu sơ bộ để hiểu được các phê bình về dữ liệu thường gặp (https://issues.org/limits-of-data-nguyen/), cũng như hiểu cách mà các ngành như toán học, vật lý, y học, khoa học dữ liệu sử dụng dữ liệu thế nào, từ đó có thể đoán được những người làm trong ngành này sẽ phản hồi thế nào về các phê bình này. Tuy nhiên mình cảm thấy nếu không có góc nhìn hiện tượng học thì sẽ còn thiếu sót, dù chưa thể đưa ra được một lý do rõ ràng do chưa có dịp tìm hiểu. Có lẽ chủ đề nào của khóa học mình cũng đều hứng thú cả, nhưng có 2 chủ đề mình thấy có liên hệ với nghiên cứu của mình rõ ràng nên nêu ra ở đây:
+- Husserl trước đây cũng là nhà toán học. Vậy hiện tượng học có mối liên hệ thế nào với toán học?
 - Hiện tượng học với nhận thức luận (epistemology) có mối liên hệ thế nào
+
 ## Giúp bạn bè [Thoát khỏi vòng xoáy nợ nần](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/C%E1%BA%AFt%20n%E1%BB%A3/Tho%C3%A1t%20kh%E1%BB%8Fi%20v%C3%B2ng%20xo%C3%A1y%20n%E1%BB%A3%20n%E1%BA%A7n.md)
 Vốn dĩ nhu cầu này đến từ nhu cầu [Giúp những người xung quanh mình thoát khỏi căng thẳng](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20m%C3%ACnh%20tho%C3%A1t%20kh%E1%BB%8Fi%20c%C4%83ng%20th%E1%BA%B3ng.md), để họ [được sống cuộc sống thú vị và ý nghĩa](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%A1i%20%C4%91%E1%BB%99%20s%E1%BB%91ng/%C4%90%C6%B0%E1%BB%A3c%20s%E1%BB%91ng%20cu%E1%BB%99c%20s%E1%BB%91ng%20th%C3%BA%20v%E1%BB%8B%20v%C3%A0%20%C3%BD%20ngh%C4%A9a.md). Giải pháp gốc rễ, lâu dài thì cần: 
 - [Lập quỹ tín dụng vi mô](../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/L%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4.md)
@@ -65,3 +33,33 @@ Trong quá trình hoạt động đôi khi phải làm những việc được x
 Phải chuyển tin nhắn trong khi họ chỉ lo sợ một thứ mơ hồ. 
 Không đặt câu hỏi để hiểu, mà chỉ yêu cầu mình hiểu họ
 Lo sợ những thứ mơ hồ, không có cơ sở
+
+## Nhóm [Kiếm được tiền từ kiến thức và mối quan hệ của mình](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Ki%E1%BA%BFm%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BB%81n%20t%E1%BB%AB%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20m%E1%BB%91i%20quan%20h%E1%BB%87%20c%E1%BB%A7a%20m%C3%ACnh.md)
+### 1. Xác định mục tiêu nhóm
+1. Xác định lại bài toán cốt lõi mà dự án đang giải quyết
+2. Sắp xếp, hệ thống hóa và làm rõ các ý tưởng đang có
+3. Làm rõ đối tượng phục vụ của dự án (Who)
+4. Cùng động não tìm ý tưởng cho các thuộc tính của sản phẩm chính
+5. Làm rõ mô hình tạo doanh thu và giá trị kinh tế của dự án (Monetization)
+
+### 2. Xác định cách làm việc nhóm
+1. Xác định mô hình hoạt động của nhóm
+- Xác định rõ vai trò của từng thành viên và cấu trúc ra quyết định liên quan đến nhân lực, vật lực, tài lực và trí lực của nhóm
+	- Làm rõ việc Phát có mong muốn phát triển, đóng gói và kinh doanh sản phẩm cá nhân nào hay không
+	- Nhật cần làm rõ tuyên bố giá trị cá nhân và năng lực cốt lõi có thể đóng góp cho một ngách cụ thể của dự án
+	- Làm rõ lý do và kỳ vọng khi Phát lựa chọn hợp tác với Nhật trong dự án, đặc biệt trong bối cảnh có nhận định Nhật lười giao tiếp
+- Thiết lập quy tắc giao tiếp, kỳ vọng và thói quen làm việc chung của nhóm
+	- Thống nhất lịch họp định kỳ vào Chủ nhật để đồng bộ thông tin và ra quyết định
+	- Thống nhất quy tắc về thời điểm trong ngày phù hợp nhắn tin và phản hồi trong nhóm
+- Thiết lập cơ chế xác nhận đồng thuận của các thành viên đối với từng vấn đề và phương án giải quyết
+
+2. Xây dựng hệ thống quản lý dữ liệu và trao đổi thông tin hiệu quả
+- Lựa chọn nền tảng quản lý thông tin dự án để dễ lưu trữ, truy xuất và sử dụng mà không cần học quá nhiều công cụ mới
+
+### 3. Tạo sản phẩm 
+1. Xây dựng mô hình kinh doanh cho dự án
+2. Cùng động não tìm ý tưởng cho các thuộc tính của sản phẩm chính
+3. Làm rõ mô hình tạo doanh thu và giá trị kinh tế của dự án (Monetization)
+4. Kiểm chứng (Testing) và đánh giá (Justifying) các giả định về sản phẩm và mô hình kinh doanh
+
+[Dự án Need - Google Trang tính](https://docs.google.com/spreadsheets/d/16dAKeagbQkUfgbt21f99xTDQ4JblIctTYuuhkAcJzSc/edit?usp=sharing)

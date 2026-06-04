@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2026-05-25T14:14
-updated: 2026-05-27T13:36
+updated: 2026-06-04T22:16
 ---
 ## Việc gặp mặt trực tiếp có những cái lợi nào?
-- Không phải xử lý hoặc chịu đựng các vấn đề máy móc (mạng chậm, mic vọng, cam hư, loa nhỏ, máy đơ, tài khoản miễn phí bị giới hạn thời gian sử dụng, v.v.)
+- Không phải lo xử lý hoặc chịu đựng các vấn đề máy móc (mạng chậm, mic vọng, cam hư, loa nhỏ, máy đơ, thiếu tai nghe hoặc tai nghe làm đau tai, tài khoản miễn phí bị giới hạn thời gian sử dụng, v.v.)
 - Được thay đổi không khí khi đã ngồi trong nhà cả ngày không vận động gì cả rồi
 - Có được những điều thú vị, bất ngờ của việc gần gũi với con người và ở trong môi trường khác
 

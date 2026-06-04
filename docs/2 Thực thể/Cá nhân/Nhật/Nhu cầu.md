@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-05-26T14:03
+updated: 2026-06-03T17:20
 share: true
 title: Nhu cầu của Nhật
 ---
@@ -20,12 +20,11 @@ Xem [Công việc đang làm](./C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.
 ## [🔥 Muốn có ngay nhưng đã phải dành sự tập trung cao nhất cho việc khác](../../../9%20T%C3%A0i%20li%E1%BB%87u/Ph%C3%A2n%20lo%E1%BA%A1i%20nhu%20c%E1%BA%A7u/%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/%F0%9F%94%A5%20Mu%E1%BB%91n%20c%C3%B3%20ngay%20nh%C6%B0ng%20%C4%91%C3%A3%20ph%E1%BA%A3i%20d%C3%A0nh%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20cao%20nh%E1%BA%A5t%20cho%20vi%E1%BB%87c%20kh%C3%A1c.md)
 Nhật luôn sẵn sàng để thảo luận về những chủ đề này, vì việc đó không cần suy nghĩ nhiều. 
 
-### [Hết đau tay mà vẫn có thể tiếp tục đánh máy](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/H%E1%BA%BFt%20%C4%91au%20tay%20m%C3%A0%20v%E1%BA%ABn%20c%C3%B3%20th%E1%BB%83%20ti%E1%BA%BFp%20t%E1%BB%A5c%20%C4%91%C3%A1nh%20m%C3%A1y.md)
-Có lẽ nếu đổi sang cái điện thoại khác nhẹ hơn thì sẽ hết. Vì trước giờ không vấn đề gì, chỉ tới khi dùng điện thoại này thì mới bắt đầu đau
+### [Có trợ lý, cộng sự, người làm cùng, nhóm hỗ trợ, ê kíp, bầu sô, người quản lý](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20tr%E1%BB%A3%20l%C3%BD,%20c%E1%BB%99ng%20s%E1%BB%B1,%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B9ng,%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3,%20%C3%AA%20k%C3%ADp,%20b%E1%BA%A7u%20s%C3%B4,%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD.md) 
+Mục tiêu của việc này là:
+- [Đem kiến thức và kỹ năng của mình đến với những người cần nó](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/%C4%90em%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20k%E1%BB%B9%20n%C4%83ng%20c%E1%BB%A7a%20m%C3%ACnh%20%C4%91%E1%BA%BFn%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20n%C3%B3.md)
+- [Kiếm được tiền từ kiến thức và mối quan hệ của mình](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Ki%E1%BA%BFm%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BB%81n%20t%E1%BB%AB%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20m%E1%BB%91i%20quan%20h%E1%BB%87%20c%E1%BB%A7a%20m%C3%ACnh.md)
 
-Có lẽ tốt nhất là đi thiền nội trú
-
-### [Có trợ lý, cộng sự, người làm cùng, nhóm hỗ trợ, ê kíp, bầu sô, người quản lý](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20tr%E1%BB%A3%20l%C3%BD,%20c%E1%BB%99ng%20s%E1%BB%B1,%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B9ng,%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3,%20%C3%AA%20k%C3%ADp,%20b%E1%BA%A7u%20s%C3%B4,%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD.md) để [Đem kiến thức và kỹ năng của mình đến với những người cần nó](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/%C4%90em%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20k%E1%BB%B9%20n%C4%83ng%20c%E1%BB%A7a%20m%C3%ACnh%20%C4%91%E1%BA%BFn%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20n%C3%B3.md)
 Có lẽ đây là các yếu tố chính khiến cho những bài truyền thông về các sản phẩm Nhật làm không được lan rộng, dù Nhật tin là nó có giá trị:
 - Đáp ứng các nhu cầu mà họ không nghĩ là mình cần
 - Nhật nghĩ là nếu có thể thì nên tránh việc có những nếp nghĩ của một người cần tiền, dù thừa nhận là nếu muốn tiếp tục có thời gian tập trung vào những gì mình đang làm thì không thể không dùng đến tiền. Một trong những hệ quả của việc này là 
@@ -56,8 +55,16 @@ Thành quả mong muốn:
 - [Động vật không bị xích hoặc nhốt](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%99ng%20v%E1%BA%ADt%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%ADch%20ho%E1%BA%B7c%20nh%E1%BB%91t.md)
 
 ## [❄️ Thỉnh thoảng sẽ khó chịu vì không được đáp ứng](../../../9%20T%C3%A0i%20li%E1%BB%87u/Ph%C3%A2n%20lo%E1%BA%A1i%20nhu%20c%E1%BA%A7u/%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/%E2%9D%84%EF%B8%8F%20Th%E1%BB%89nh%20tho%E1%BA%A3ng%20s%E1%BA%BD%20kh%C3%B3%20ch%E1%BB%8Bu%20v%C3%AC%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng.md)
-[Những người xung quanh không còn lo lắng về mình nữa](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20kh%C3%B4ng%20c%C3%B2n%20lo%20l%E1%BA%AFng%20v%E1%BB%81%20m%C3%ACnh%20n%E1%BB%AFa.md):
+### [Đi thiền](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/%C4%90i%20thi%E1%BB%81n.md)
+Lợi ích khác:
+- [hết đau tay](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/H%E1%BA%BFt%20%C4%91au%20tay%20m%C3%A0%20v%E1%BA%ABn%20c%C3%B3%20th%E1%BB%83%20ti%E1%BA%BFp%20t%E1%BB%A5c%20%C4%91%C3%A1nh%20m%C3%A1y.md)
+- Sửa laptop
+
+Có lẽ nếu đổi sang cái điện thoại khác nhẹ hơn thì sẽ hết. Vì trước giờ không vấn đề gì, chỉ tới khi dùng điện thoại này thì mới bắt đầu đau
+
+### [Những người xung quanh không còn lo lắng về mình nữa](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20kh%C3%B4ng%20c%C3%B2n%20lo%20l%E1%BA%AFng%20v%E1%BB%81%20m%C3%ACnh%20n%E1%BB%AFa.md)
 - [Gia đình, bạn bè tìm hiểu về những gì mình làm](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Gia%20%C4%91%C3%ACnh,%20b%E1%BA%A1n%20b%C3%A8%20t%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20nh%E1%BB%AFng%20g%C3%AC%20m%C3%ACnh%20l%C3%A0m.md)
+- Mẹ không còn lo phản động
 
 [Thử nghiệm những điều không ai tin là có thể làm được](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%BA%20vui/H%E1%BB%8Dc%20h%E1%BB%8Fi,%20tr%E1%BA%A3i%20nghi%E1%BB%87m/Th%E1%BB%AD%20nghi%E1%BB%87m%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20kh%C3%B4ng%20ai%20tin%20l%C3%A0%20c%C3%B3%20th%E1%BB%83%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c.md): [Xóa bỏ sự mỉa mai, thù ghét, bắt nạt](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Tr%C3%A2n%20tr%E1%BB%8Dng%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/X%C3%B3a%20b%E1%BB%8F%20s%E1%BB%B1%20m%E1%BB%89a%20mai,%20th%C3%B9%20gh%C3%A9t,%20b%E1%BA%AFt%20n%E1%BA%A1t.md), [Công bố lý thuyết mới](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/C%C3%B4ng%20b%E1%BB%91%20l%C3%BD%20thuy%E1%BA%BFt%20m%E1%BB%9Bi.md)
 
@@ -73,7 +80,7 @@ Thành quả mong muốn:
 [Sức khỏe](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/index.md):
 - [Có thời gian tập thể dục và chế độ ăn khoẻ mạnh](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/C%C3%B3%20th%E1%BB%9Di%20gian%20t%E1%BA%ADp%20th%E1%BB%83%20d%E1%BB%A5c%20v%C3%A0%20ch%E1%BA%BF%20%C4%91%E1%BB%99%20%C4%83n%20kho%E1%BA%BB%20m%E1%BA%A1nh.md)
 - [Có người dạy về công thái học](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20d%E1%BA%A1y%20v%E1%BB%81%20c%C3%B4ng%20th%C3%A1i%20h%E1%BB%8Dc.md)
-- [Hết đau tay mà vẫn có thể tiếp tục đánh máy](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/H%E1%BA%BFt%20%C4%91au%20tay%20m%C3%A0%20v%E1%BA%ABn%20c%C3%B3%20th%E1%BB%83%20ti%E1%BA%BFp%20t%E1%BB%A5c%20%C4%91%C3%A1nh%20m%C3%A1y.md)
+- [hết đau tay](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/H%E1%BA%BFt%20%C4%91au%20tay%20m%C3%A0%20v%E1%BA%ABn%20c%C3%B3%20th%E1%BB%83%20ti%E1%BA%BFp%20t%E1%BB%A5c%20%C4%91%C3%A1nh%20m%C3%A1y.md)
 - [Có người bôi thuốc hoặc đưa thuốc cho mình uống giùm](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20b%C3%B4i%20thu%E1%BB%91c%20ho%E1%BA%B7c%20%C4%91%C6%B0a%20thu%E1%BB%91c%20cho%20m%C3%ACnh%20u%E1%BB%91ng%20gi%C3%B9m.md)
 - [Hết loét dạ dày](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/H%E1%BA%BFt%20lo%C3%A9t%20d%E1%BA%A1%20d%C3%A0y.md)
 
