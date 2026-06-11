@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2026-05-21T23:40
-updated: 2026-06-04T22:21
+updated: 2026-06-08T23:08
 title: Tiêu chí nhận công việc của Nhật
 ---
 Đây là các tiêu chí để Nhật nhận làm một việc gì đó:
 - Không phải dùng điện thoại, trừ việc gọi điện hoặc nhắn ngắn gọn
 - Không cản trở mạch suy nghĩ về chủ đề Nhật đang nghiên cứu
-- Có sự hợp lý, minh bạch, hiểu cho nhau. Hướng tới sự khỏe mạnh và hạnh phúc toàn diện của những người tham gia
+- Có sự hợp lý, minh bạch, hiểu cho nhau. Hướng tới sự bền vững lâu dài, sự khỏe mạnh và hạnh phúc toàn diện của những người tham gia
 
 Xem thêm:: [Lời mời sử dụng nguồn lực của Nhật](../Ngu%E1%BB%93n%20l%E1%BB%B1c/index.md)
 
@@ -24,10 +24,14 @@ Việc thảo luận trực tiếp thỏa cả 2 yêu cầu nên Nhật ưu tiê
 
 Nếu công việc có liên hệ với chủ đề đó hoặc [giúp những người xung quanh mình thoát khỏi căng thẳng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20m%C3%ACnh%20tho%C3%A1t%20kh%E1%BB%8Fi%20c%C4%83ng%20th%E1%BA%B3ng.md) thì có thể chấp nhận bị cản trở nhiều hơn
 
+Không đòi hỏi hạn chót.
+
 ## Có sự hợp lý, minh bạch, hiểu cho nhau
 Nếu có ai chưa đồng ý thì không bỏ qua. Có thể tạm gác lại để ưu tiên những việc khác nhưng cần biết rõ khi nào sẽ quay lại bàn tiếp. Không gây ảnh hưởng
 
 Với những việc đòi hỏi sự nghiên cứu thì không yêu cầu hạn chót
+
+Ai có thắc mắc gì đều được hỏi và trả lời đến khi không còn thắc mắc. Trong những lúc gấp gáp thì có thể tạm gác qua, nhưng cần tin được rằng thắc mắc rồi sẽ được giải đáp.
 
 - Nếu là vì tiền thì cần cho thấy nó sẽ giúp đạt được mục tiêu đó thế nào
 - Lúc ngủ và làm việc sẽ để điện thoại ngoài phòng
