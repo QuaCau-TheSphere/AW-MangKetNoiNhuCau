@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-10T11:08
-updated: 2026-04-02T13:37
+updated: 2026-06-07T13:48
 ---
 Mạng kết nối nhu cầu là một nơi **làm cho chúng ta thấy nhau rõ hơn**. Các cá nhân, tổ chức sẽ liệt kê các nhu cầu của mình. Đó là cách để mình hiểu mình muốn gì, làm rõ các giả định, lên chiến lược, cũng như lên kế hoạch. Những sản phẩm họ tạo ra sẽ trở thành [now page](https://nownownow.com/) của họ.
 
@@ -33,7 +33,7 @@ Mọi hoạt động của con người, xét cho cùng, đều là để sử d
 |                |                                                                                  |
 [Wishare](https://wishare.com)
 Trang giới thiệu nhà cửa toàn sale gọi
-
+[Good Market](https://www.goodmarket.global/csip)
 Giúp khám phá các nhu cầu mà mình không nghĩ là mình có.
 
 Dịch vụ được thêm vào là để tạo động lực cho cá nhân chuyển đổi vào các nhóm hỗ trợ

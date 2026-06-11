@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-06-03T17:20
+updated: 2026-06-06T13:22
 share: true
 title: Nhu cầu của Nhật
 ---
@@ -18,7 +18,7 @@ Nhật vẽ ra [Quả Cầu](../../T%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3%20C%E1%
 Xem [Công việc đang làm](./C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md)
 
 ## [🔥 Muốn có ngay nhưng đã phải dành sự tập trung cao nhất cho việc khác](../../../9%20T%C3%A0i%20li%E1%BB%87u/Ph%C3%A2n%20lo%E1%BA%A1i%20nhu%20c%E1%BA%A7u/%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/%F0%9F%94%A5%20Mu%E1%BB%91n%20c%C3%B3%20ngay%20nh%C6%B0ng%20%C4%91%C3%A3%20ph%E1%BA%A3i%20d%C3%A0nh%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20cao%20nh%E1%BA%A5t%20cho%20vi%E1%BB%87c%20kh%C3%A1c.md)
-Nhật luôn sẵn sàng để thảo luận về những chủ đề này, vì việc đó không cần suy nghĩ nhiều. 
+Nhật luôn sẵn sàng để thảo luận về những chủ đề này, vì việc đó không cần suy nghĩ nhiều.
 
 ### [Có trợ lý, cộng sự, người làm cùng, nhóm hỗ trợ, ê kíp, bầu sô, người quản lý](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20tr%E1%BB%A3%20l%C3%BD,%20c%E1%BB%99ng%20s%E1%BB%B1,%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B9ng,%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3,%20%C3%AA%20k%C3%ADp,%20b%E1%BA%A7u%20s%C3%B4,%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD.md) 
 Mục tiêu của việc này là:
@@ -38,6 +38,7 @@ không được viết theo cách một người cần tiền sẽ thấy cần 
 
 ### [Các xung đột về niềm tin được giải quyết triệt để](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/C%C3%A1c%20xung%20%C4%91%E1%BB%99t%20v%E1%BB%81%20ni%E1%BB%81m%20tin%20%C4%91%C6%B0%E1%BB%A3c%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20tri%E1%BB%87t%20%C4%91%E1%BB%83.md)
 - Mọi người [Luôn tìm cách đặt câu hỏi trước khi đưa ra nhận xét](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/V%C3%A9t%20c%E1%BA%A1n/Lu%C3%B4n%20t%C3%ACm%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi%20tr%C6%B0%E1%BB%9Bc%20khi%20%C4%91%C6%B0a%20ra%20nh%E1%BA%ADn%20x%C3%A9t.md), [Đi đến tận cùng của sự đối thoại](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/V%C3%A9t%20c%E1%BA%A1n/%C4%90i%20%C4%91%E1%BA%BFn%20t%E1%BA%ADn%20c%C3%B9ng%20c%E1%BB%A7a%20s%E1%BB%B1%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md), [Suy nghĩ về giá trị phản tư](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/Suy%20ngh%C4%A9%20v%E1%BB%81%20gi%C3%A1%20tr%E1%BB%8B%20ph%E1%BA%A3n%20t%C6%B0.md), [Suy nghĩ về việc chứng minh mình sai](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/V%C3%A9t%20c%E1%BA%A1n/Suy%20ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ch%E1%BB%A9ng%20minh%20m%C3%ACnh%20sai.md), [Thấy được sự đối xứng trong việc cảm nhận thực tại khi phê phán sự cảm nhận thực tại của người khác](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/%C4%90%E1%BB%91i%20x%E1%BB%A9ng/Th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20%C4%91%E1%BB%91i%20x%E1%BB%A9ng%20trong%20vi%E1%BB%87c%20c%E1%BA%A3m%20nh%E1%BA%ADn%20th%E1%BB%B1c%20t%E1%BA%A1i%20khi%20ph%C3%AA%20ph%C3%A1n%20s%E1%BB%B1%20c%E1%BA%A3m%20nh%E1%BA%ADn%20th%E1%BB%B1c%20t%E1%BA%A1i%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md), [Sử dụng lý trí chứ không phải cảm xúc để nói chuyện](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/S%E1%BB%AD%20d%E1%BB%A5ng%20l%C3%BD%20tr%C3%AD%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20c%E1%BA%A3m%20x%C3%BAc%20%C4%91%E1%BB%83%20n%C3%B3i%20chuy%E1%BB%87n.md)
+- [Xây dựng diễn ngôn mới](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/X%C3%A2y%20d%E1%BB%B1ng%20di%E1%BB%85n%20ng%C3%B4n%20m%E1%BB%9Bi.md)
 
 Công việc:
 - [Vá lại các lỗ hổng trong kiến thức, niềm tin của mình](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/L%E1%BA%ADp%20lu%E1%BA%ADn/V%C3%A1%20l%E1%BA%A1i%20c%C3%A1c%20l%E1%BB%97%20h%E1%BB%95ng%20trong%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20ni%E1%BB%81m%20tin%20c%E1%BB%A7a%20m%C3%ACnh.md)

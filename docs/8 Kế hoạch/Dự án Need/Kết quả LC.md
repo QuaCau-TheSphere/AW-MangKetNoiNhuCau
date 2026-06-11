@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-12T15:39
-updated: 2026-05-12T21:42
+updated: 2026-06-11T21:50
 ---
 Form thu hoạch: [Feedforward \| Hồ Chí Minh - Thành phố Học tập 2025](https://docs.google.com/forms/d/e/1FAIpQLSdg5pIx9Hb2bo_1n_oXTofoxYB_2QLvuMZo_kgLMdy5RK8QgA/viewform)
 
@@ -10,4 +10,4 @@ Form thu hoạch: [Feedforward \| Hồ Chí Minh - Thành phố Học tập 2025
 | ----- | ------------------------------------ | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 12    | Trần Vương Triều, Nguyễn Phương Thảo | Trần Vương Triều | [Phản hồi sau buổi thảo luận - YouTube](https://youtu.be/sT00rSw1V8s)                                                                                                                                                                               | [Facebook](https://www.facebook.com/hcm.learningcity/posts/pfbid0ApkWZFkWQfu57ySUGTDyCxc8fHMGd9ahLzdZqtEP8P8AJ1adWUuLK3G8XojnpzWXl)                                     |
 | 1     | Huy Tú, Nguyễn Quỳnh Anh             | Huy Tú, Parker   | Tới giờ bắt đầu thì Parker nhắn hỏi có gặp cafe được không. Lúc Parker đến thì chủ yếu là hỏi về Nhật hơn là nội dung buổi nói chuyện. Khi Huy Tú đến thì không nói chuyện mấy với Parker. Ngồi được một chút thì Parker về. Sau đó Tú cũng về luôn | [Luma](https://luma.com/rbnenj19), [Facebook](https://www.facebook.com/hcm.learningcity/posts/pfbid03mDHc1rZBYDQDQ6F8uvsx3EzJ3pps7pDfewsDoG1gB9EQT8xddxYqT2LuWabLescl)  |
-| 4     | Ngô Phương Uyên, Nguyễn Quỳnh Anh    | 0                | Quỳnh Anh có nói là rất muốn tham gia, lúc nào tổ chức lại thì báo                                                                                                                                                                                  | [Luma](https://luma.com/9rqup2yg), [Facebook](https://www.facebook.com/hcm.learningcity/posts/pfbid02KdxkZV8GqTwfYtskqXKGvxV3ibudUUoYNqRj7W2ryBYisqyQdndSEY18EPFKzAUhl) |
+| 4     | Ngô Phương Uyên, Nguyễn Quỳnh Anh    | 0                | Quỳnh Anh có nói là rất muốn tham gia, lúc nào tổ chức lại thì báo. Lan Tiên nói là chỉ biết sau khi sự kiện đã qua. Phát thì bị kẹt lịch                                                                                                           | [Luma](https://luma.com/9rqup2yg), [Facebook](https://www.facebook.com/hcm.learningcity/posts/pfbid02KdxkZV8GqTwfYtskqXKGvxV3ibudUUoYNqRj7W2ryBYisqyQdndSEY18EPFKzAUhl) |

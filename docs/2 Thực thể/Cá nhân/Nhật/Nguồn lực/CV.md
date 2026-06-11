@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-09T13:48
-updated: 2026-05-29T21:58
+updated: 2026-06-06T14:03
 title: CV của Lý Minh Nhật
 description: Kinh nghiệm làm việc trong công ty. Kỹ năng. Dự án, sản phẩm. Buổi nói chuyện. Cộng tác. Giáo dục chính quy. Kiến thức tự học. Các khoá học, tập huấn đã tham gia.
 ---
@@ -95,7 +95,8 @@ Danh mục được lấy từ [Outline of academic disciplines - Wikipedia](htt
 - **Nghệ thuật:** truyện tranh, thời trang
 - **Triết học:** Phật học, Đạo học, Deleuze và Guattari, mỹ học, hậu hiện đại, bản thể học hướng vật thể, nhận thức luận, đạo đức, toán học, công nghệ
 - **Ngôn ngữ và văn học:** văn học, dịch thuật, tu từ và bố cục, thông diễn học
-- **Lịch sử:** Lịch sử cộng sản
+- **Lịch sử:** lịch sử cộng sản
+- **Luật:** triết học luật
 
 ### Khoa học xã hội
 - **Kinh doanh:** hệ thống thông tin, tài chính, tài chính thay thế, quản lý dự án, kế toán, bảo hiểm, nhân lực, sở hữu trí tuệ, quản lý rủi ro
