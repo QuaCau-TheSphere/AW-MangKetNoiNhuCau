@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-10T11:08
-updated: 2026-06-07T13:48
+updated: 2026-06-20T15:35
 ---
 Mạng kết nối nhu cầu là một nơi **làm cho chúng ta thấy nhau rõ hơn**. Các cá nhân, tổ chức sẽ liệt kê các nhu cầu của mình. Đó là cách để mình hiểu mình muốn gì, làm rõ các giả định, lên chiến lược, cũng như lên kế hoạch. Những sản phẩm họ tạo ra sẽ trở thành [now page](https://nownownow.com/) của họ.
 
@@ -20,6 +20,7 @@ hợp tác xã
 
 Kinh tế trao đổi trực tiếp
 Kinh tế chia sẻ, sàn, chợ, nền tảng
+Thiết kế đồng sáng tạo
 
 Chỉ mục cho các dự án kết nối
 Mọi hoạt động của con người, xét cho cùng, đều là để sử dụng nguồn lực hiệu quả
