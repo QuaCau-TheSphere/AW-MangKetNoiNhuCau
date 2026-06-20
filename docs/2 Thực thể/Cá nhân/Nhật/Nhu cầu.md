@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-06-12T00:50
+updated: 2026-06-20T20:47
 share: true
 title: Nhu cầu của Nhật
 ---
@@ -31,8 +31,9 @@ Có lẽ đây là các yếu tố chính khiến cho những bài truyền thô
 không được viết theo cách một người cần tiền sẽ thấy cần nó, dù nếu họ thảo luận sâu thì sẽ thấy nó luôn đáp ứng được những gì họ cần theo cách mà họ không ngờ tới. 
 
 ### [Hiểu được nhu cầu và nguồn lực xung quanh](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20nhu%20c%E1%BA%A7u%20v%C3%A0%20ngu%E1%BB%93n%20l%E1%BB%B1c%20xung%20quanh.md)
-[Biết được thêm về cuộc sống của những người quanh mình](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%AAm%20v%E1%BB%81%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%E1%BB%A7a%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20quanh%20m%C3%ACnh.md)
+- [Biết được thêm về cuộc sống của những người quanh mình](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%AAm%20v%E1%BB%81%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%E1%BB%A7a%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20quanh%20m%C3%ACnh.md)
 - [Xây dựng mạng kết nối nhu cầu](../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/A%20M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u.md)
+	- Có người hỗ trợ thu thập, phân loại dữ liệu, xây dựng triết lý, tính năng 
 - Tìm hiểu tại sao những người quanh Nhật không có nhu cầu đó
 - Hiểu được tại sao những người hiểu Nhật và muốn có được lợi ích từ Nhật lại không phụ một cách chủ động
 - Giả định là người Sài Gòn sẵn sàng bỏ tiền ra để tiết kiệm thời gian. Vậy có thật là họ không quan tâm tới việc kết nối nhu cầu không? Họ đâu phải là chưa trải nghiệm chuyện có những thứ muốn bỏ tiền ra cũng không có được?
