@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-09T11:58
-updated: 2026-06-04T22:34
+updated: 2026-06-20T16:01
 ---
 Kho tài nguyên
 Dữ liệu
@@ -36,6 +36,9 @@ LIN
 [NeedsList](https://needslist.co/)
 [Armillaria Acquires NeedsList in a Strategic Move to Enhance Crisis Resilience](https://armillaria.substack.com/p/armillaria-acquires-needslist-in)
 [Armillaria \| Home of the Innovation Exchange & NeedsList](https://armillaria.io/)
+
+Dựa trên thảo luận cá nhân, không phải từ xử lý dữ liệu
+Không chuẩn bị cho sự thay đổi nhu cầu một cách hàng loạt và tự động hóa
 ## Mạng kết nối nhu cầu 
 
 
@@ -63,3 +66,4 @@ Có app [Givitas](https://marketplace.microsoft.com/en-us/product/office/wa10438
 
 [0415](../8%20K%E1%BA%BF%20ho%E1%BA%A1ch/D%E1%BB%B1%20%C3%A1n%20Need/0415.md)
 
+## 
