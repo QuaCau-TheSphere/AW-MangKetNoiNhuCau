@@ -1,6 +1,6 @@
 ---
 created: 2023-10-28T14:39
-updated: 2026-05-12T01:34
+updated: 2026-06-12T20:50
 share: true
 ---
 ## Có những nhu cầu không muốn người khác biết mình có
@@ -9,26 +9,6 @@ Cơ bản là do chưa tạo được môi trường an toàn để họ nói ra
  - Dùng tên giả
  - Dùng kho riêng cho nhóm hoặc kho cá nhân
  - Trao đổi trực tiếp mà không lưu lại, hoặc xóa đi sau một khoản thời gian
-
-## Nếu ngồi với những người cùng bí với nhau thì sao có giải pháp được
-Có quan điểm cho rằng muốn có giải pháp thì phải kiếm chuyên gia, chứ nếu đơn giản chỉ kể với nhau thì sẽ mất thời gian của nhau. Chuyên gia ở đây có thể là sách, hoặc người hướng dẫn.
-
-Họ sẽ nói gì về những việc sau?
-- Phân việc ra để cùng thu thập thông tin
-- Người không có nhu cầu không nhất thiết là người không có giải pháp
-- Biết hướng giải quyết rồi nhưng vẫn không có thời gian làm
-- Có thể đến vì nhu cầu này, nhưng ở lại vì được đáp ứng nhu cầu kia
-
-Nơi đây là để mọi người cùng hỗ trợ nhau trao đổi các nhu cầu, nghĩa là các nhu cầu đó sẽ được đáp ứng nhanh nhất có thể, chứ không phải là ngay lập tức.
-
-## Những vấn đề lớn mà khi mổ xẻ thì sẽ thấy khác biệt lắm
-Hiện tại cứ lưu giữ những vấn đề đó 
-Những nhu cầu hiện tại là tên của một nhóm nhu cầu. Trong mỗi nhóm nhu cầu, với từng cá nhân khác nhau, những nhu cầu sẽ được phân tích khác nhau
-Kể cả khi không đáp ứng nhu cầu cho nhau được (ví dụ như mua nhà) thì cũng có thể giới thiệu cho nhau thông tin của mình, và người kia cũng sẽ thấy đáng tin hơn là ở nơi khác
-
-## Các nhu cầu thay đổi thường xuyên
-Vậy trước mắt mình sẽ tập trung vào những nhu cầu không thay đổi thường xuyên
-
 
 ## Việc phải nói nhu cầu của mình cũng làm mình nhức đầu
 - không quen ghi chú lại nhu cầu của mình
