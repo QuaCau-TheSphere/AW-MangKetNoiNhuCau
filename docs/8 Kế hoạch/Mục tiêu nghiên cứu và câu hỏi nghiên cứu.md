@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2026-02-17T18:21
-updated: 2026-02-23T16:08
+updated: 2026-06-25T14:41
 ---
 ## Mục tiêu nghiên cứu
-- Kiểm định các [Các giả định](./C%C3%A1c%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh.md.md) 
+- Kiểm định các [Các giả định](./C%C3%A1c%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh.md) 
 - Hiểu được tiếp nhận của đáp viên khi thấy câu hỏi khảo sát và khi được mời phỏng vấn
 - Hiểu được vì sao đáp viên không tương tác với sự kiện
 - Tìm hiểu nhu cầu kết nối nguồn lực của họ 
@@ -73,3 +73,10 @@ Với mỗi cá nhân, tạo thành một nhóm những người quan tâm đế
 - "Bạn đã bao giờ hợp tác với một dự án ở lĩnh vực hoàn toàn khác (ví dụ: bạn làm giáo dục, họ làm môi trường) chưa? Kết quả ra sao?"
 - "Khó khăn lớn nhất khi bạn cố gắng giải thích chuyên môn của mình cho một người làm cộng đồng ở lĩnh vực khác là gì?"
 - "Bạn mong đợi điều gì hơn: Một người giúp bạn làm tốt hơn việc hiện tại, hay một người giúp bạn mở rộng tầm nhìn sang lĩnh vực mới?"
+
+
+Anh đang có hoặc thấy quanh mình những nguồn lực bị tắc nghẽn hoặc chưa được sử dụng tối ưu nào?
+Anh đã từng thử kết nối nhu cầu quanh mình bằng cách nào?
+Điều gì khiến anh dừng làm chuyện kết nối?
+Anh đã học được những gì từ việc đó?
+Đã có những dự án kết nối nhu cầu, nguồn lực nào mà anh không dành thời gian tham gia?
