@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-09T13:48
-updated: 2026-06-20T15:14
+updated: 2026-06-21T09:38
 title: CV của Lý Minh Nhật
 description: Kinh nghiệm làm việc trong công ty. Kỹ năng. Dự án, sản phẩm. Buổi nói chuyện. Cộng tác. Giáo dục chính quy. Kiến thức tự học. Các khoá học, tập huấn đã tham gia.
 ---
@@ -33,6 +33,7 @@ Nhân viên kinh doanh GM Mall: active, 2/2025, 6/2025
 - **Đồ thị:** Graphviz, Obsidian Dataview & Breadcrumbs, Neo4j, Cypher, vis.js
 - **Android:** Tasker
 - **CI/CD:** Docker, GitHub Actions
+- **IDE:** VS Code
 
 ### Khác
 - **Quản lý kiến thức và dự án:** OneNote, Google Keep (quản trị viên subreddit [r/GoogleKeep](https://www.reddit.com/r/GoogleKeep/)), Obsidian, Notion, Confluence, Trello
@@ -48,8 +49,9 @@ Nhân viên kinh doanh GM Mall: active, 2/2025, 6/2025
 ## Dự án, sản phẩm
 | Năm  | Sản phẩm                                                                                                                                                                                                                                                                                                                                                         |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026 | Mạng kết nối nhu cầu, nguồn lực                                                                                                                                                                                                                                                                                                                                                                 |
 | 2025 | Chương trình tính hoa hồng và thay đổi định kỳ đóng phí cho đại lý bảo hiểm                                                                                                                                                                                                                                                                                      |
-|      | [Quỹ tín dụng vi mô Quả Cầu](https://kiếmtiền.quảcầu.cc/📐Dự%20án/Giúp%20nhau%20thoát%20nợ/Quỹ/Quỹ%20tín%20dụng%20vi%20mô%20Quả%20Cầu?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)+(Dự+án%2C+sản+phẩm)&utm_medium=Tập+tin&utm_campaign=B2&utm_content=&utm_term=)                                                                                               |
+|      | [Quỹ tín dụng vi mô Quả Cầu](https://kiếmtiền.quảcầu.cc/📐Dự%20án/Giúp%20nhau%20thoát%20nợ/Quỹ/Quỹ%20tín%20dụng%20vi%20mô%20Quả%20Cầu?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)+(Dự+án%2C+sản+phẩm)&utm_medium=Tập+tin&utm_campaign=B2&utm_content=&utm_term=)                                                                                                     |
 |      | [Nhóm giúp nhau kiếm tiền](https://kiếmtiền.quảcầu.cc/📐Dự%20án/Giúp%20nhau%20kiếm%20tiền?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)+(Dự+án%2Csản+phẩm)&utm_medium=Tập+tin&utm_campaign=B2&utm_content=&utm_term=)                                                                                                                                                  |
 | 2024 | [Cơ sở tri thức cộng đồng cho việc kiếm tiền](https://kiếmtiền.quảcầu.cc/?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)&utm_medium=Tập+tin&utm_campaign=&utm_content=&utm_term=)                                                                                                                                                                                       |
 |      | Hệ thống xử lý dữ liệu khách hàng cho nhân viên thu hồi nợ                                                                                                                                                                                                                                                                                                       |
