@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2026-03-02T09:56
-updated: 2026-03-02T10:57
+updated: 2026-06-26T21:39
 ---
 
-ở mỹ muốn là foundation thì phải  đăng ký.\
+ở mỹ muốn là Foundation thì phải  đăng ký.
 
 Chỉ có luật quỹ là rõ ràng, còn lại 
 nhóm bên trường đh tôn  đức thắng soạn 

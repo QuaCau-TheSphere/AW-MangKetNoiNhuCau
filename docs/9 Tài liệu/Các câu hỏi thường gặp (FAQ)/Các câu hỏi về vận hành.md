@@ -1,6 +1,6 @@
 ---
 created: 2023-10-28T14:39
-updated: 2026-06-12T20:50
+updated: 2026-06-26T22:12
 share: true
 ---
 ## Có những nhu cầu không muốn người khác biết mình có
@@ -36,16 +36,20 @@ Vậy thì mình chỉ giúp nhau những nhu cầu mà mình có thể giúp nh
 
 ## Cảm giác ngại ngùng khi nhờ vả và mệt mỏi nhưng không nỡ từ chối khi bị nhờ
 
-## Các group FB sẽ giúp tốt hơn là vào đây
+## Các nhóm FB sẽ giúp tốt hơn là vào đây
 Ở SG có gì bỏ tiền ra mà ko có được mà mạng lưới kết nối nhu cầu có thể mang đến
-em giải quyết được vấn đề của ai rồi, bằng mạng kết nối nhu cầu em đang lập?
 khi ng ta cần xin đồ lên freecycle, 
 khi cần mua đồ cũ lên chợ tốt. 
 Khi cần học lên domestika, onair, YouTube podcast, fonos...
 Khi cần hỏi quan điểm của các nguồn dữ liệu cũ, người ta dùng AI...
 Khi cần networking, người ta dùng linkedin, fb group, thread
 
+Nó là câu chuyện Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của mình một cách nhanh nhất
+
 ## Cần bao nhiêu người để nó có thể hoạt động hiệu quả
-Giá trị của một mạng lưới tùy phụ thuộc vào , tuân theo hiệu ứng mạng. Ban đầu 
+Giá trị của một mạng lưới tùy phụ thuộc vào , tuân theo hiệu ứng mạng
 
 [Bộ quy tắc hoạt động](../B%E1%BB%99%20quy%20t%E1%BA%AFc%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng.md)
+
+## Đã giải quyết được vấn đề của ai rồi?
+Chính là [các sản phẩm](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/index.md) được tạo ra. Nói cách khác, câu hỏi đó chính là câu hỏi: danh sách các dự án, và những người thụ hưởng của các dự án đó
