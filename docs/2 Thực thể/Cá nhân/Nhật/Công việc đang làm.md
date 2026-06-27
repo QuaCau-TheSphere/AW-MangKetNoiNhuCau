@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-13T21:53
-updated: 2026-06-02T22:30
+updated: 2026-06-26T11:48
 ---
 ![](https://images.prismic.io/sketchplanations/Z2QwVpbqstJ98rsf_SP904-The3BricklayersParable.png?auto=format%2Ccompress&fit=max&w=1920)
 
@@ -35,31 +35,3 @@ Không đặt câu hỏi để hiểu, mà chỉ yêu cầu mình hiểu họ
 Lo sợ những thứ mơ hồ, không có cơ sở
 
 ## Nhóm [Kiếm được tiền từ kiến thức và mối quan hệ của mình](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Ki%E1%BA%BFm%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BB%81n%20t%E1%BB%AB%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20m%E1%BB%91i%20quan%20h%E1%BB%87%20c%E1%BB%A7a%20m%C3%ACnh.md)
-### 1. Xác định mục tiêu nhóm
-1. Xác định lại bài toán cốt lõi mà dự án đang giải quyết
-2. Sắp xếp, hệ thống hóa và làm rõ các ý tưởng đang có
-3. Làm rõ đối tượng phục vụ của dự án (Who)
-4. Cùng động não tìm ý tưởng cho các thuộc tính của sản phẩm chính
-5. Làm rõ mô hình tạo doanh thu và giá trị kinh tế của dự án (Monetization)
-
-### 2. Xác định cách làm việc nhóm
-1. Xác định mô hình hoạt động của nhóm
-- Xác định rõ vai trò của từng thành viên và cấu trúc ra quyết định liên quan đến nhân lực, vật lực, tài lực và trí lực của nhóm
-	- Làm rõ việc Phát có mong muốn phát triển, đóng gói và kinh doanh sản phẩm cá nhân nào hay không
-	- Nhật cần làm rõ tuyên bố giá trị cá nhân và năng lực cốt lõi có thể đóng góp cho một ngách cụ thể của dự án
-	- Làm rõ lý do và kỳ vọng khi Phát lựa chọn hợp tác với Nhật trong dự án, đặc biệt trong bối cảnh có nhận định Nhật lười giao tiếp
-- Thiết lập quy tắc giao tiếp, kỳ vọng và thói quen làm việc chung của nhóm
-	- Thống nhất lịch họp định kỳ vào Chủ nhật để đồng bộ thông tin và ra quyết định
-	- Thống nhất quy tắc về thời điểm trong ngày phù hợp nhắn tin và phản hồi trong nhóm
-- Thiết lập cơ chế xác nhận đồng thuận của các thành viên đối với từng vấn đề và phương án giải quyết
-
-2. Xây dựng hệ thống quản lý dữ liệu và trao đổi thông tin hiệu quả
-- Lựa chọn nền tảng quản lý thông tin dự án để dễ lưu trữ, truy xuất và sử dụng mà không cần học quá nhiều công cụ mới
-
-### 3. Tạo sản phẩm 
-1. Xây dựng mô hình kinh doanh cho dự án
-2. Cùng động não tìm ý tưởng cho các thuộc tính của sản phẩm chính
-3. Làm rõ mô hình tạo doanh thu và giá trị kinh tế của dự án (Monetization)
-4. Kiểm chứng (Testing) và đánh giá (Justifying) các giả định về sản phẩm và mô hình kinh doanh
-
-[Dự án Need - Google Trang tính](https://docs.google.com/spreadsheets/d/16dAKeagbQkUfgbt21f99xTDQ4JblIctTYuuhkAcJzSc/edit?usp=sharing)
