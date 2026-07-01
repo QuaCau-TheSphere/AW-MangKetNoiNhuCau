@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-03-07T13:04
-updated: 2026-06-12T20:51
+updated: 2026-06-28T11:47
 ---
 ## Nhu cầu với ham muốn khác gì nhau?
 Nhiều nơi định nghĩa cần (need) và muốn (want) là khác nhau:
@@ -52,3 +52,29 @@ Kể cả khi không đáp ứng nhu cầu cho nhau được (ví dụ như mua 
 
 ## Các nhu cầu thay đổi thường xuyên
 Vậy trước mắt mình sẽ tập trung vào những nhu cầu không thay đổi thường xuyên
+
+## Việc phải nói nhu cầu của mình cũng làm mình nhức đầu
+- không quen ghi chú lại nhu cầu của mình
+- Tự mình có thể quản lý được nhu cầu của mình
+- Sự đáp ứng nhu cầu không quá rõ ràng để sự nhức đầu không biến mất
+- Khó mở rộng do cản trở công nghệ
+Khi lên kế hoạch thi sẽ không nhức đầu
+
+## Điều kiện để giải quyết đã có hết rồi nhưng cũng không có tâm trí để giải quyết nhu cầu
+Thế nên mới cần có những người cùng hỗ trợ mình, vì khi được nói chuyện thì tự động mình sẽ có tâm trí
+
+## Các vấn đề về tiền
+Với [Những thứ bắt buộc phải dùng tiền](Nh%E1%BB%AFng%20th%E1%BB%A9%20b%E1%BA%AFt%20bu%E1%BB%99c%20ph%E1%BA%A3i%20d%C3%B9ng%20ti%E1%BB%81n.md) thì cần xây dựng quỹ chung.
+
+## Thấy các nhu cầu này chẳng có gì chung cả
+Chưa vét cạn nhu cầu và mạng lưới xã hội của mình
+Không thấy đáng để làm rõ nhu cầu của mình. Sự viết sẽ làm rõ?
+
+## Có những cái mình chỉ có thể tự xử lý
+Vậy thì mình chỉ giúp nhau những nhu cầu mà mình có thể giúp nhau, để có thời gian xử lý nhu cầu chỉ mình mình xử lý được. Hơn nữa được lắng nghe và cho ý kiến cũng sẽ giúp ích
+
+## Sự đóng góp cần phải là nhu cầu lớn, nếu không thì sẽ bị những nhu cầu khác lấn át
+
+## Cầu nhiều hơn cung
+
+## Cảm giác ngại ngùng khi nhờ vả và mệt mỏi nhưng không nỡ từ chối khi bị nhờ
