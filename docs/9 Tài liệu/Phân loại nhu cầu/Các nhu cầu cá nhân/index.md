@@ -5,7 +5,7 @@ updated: 2026-02-24T13:01
 description: Nhu cầu là một trong 4 thành tố của Giao tiếp trắc ẩn. Bài viết này sẽ chỉ ra đâu là thứ nằm sau mỗi cảm xúc của chúng ta.
 title: Các nhu cầu cá nhân
 ---
-![Các nhu cầu - solid.svg](../../../attachments/C%C3%A1c%20nhu%20c%E1%BA%A7u%20-%20solid.svg.svg)
+![Các nhu cầu - solid.svg](../../../attachments/C%C3%A1c%20nhu%20c%E1%BA%A7u%20-%20solid.svg)
 > [!attention] Lưu ý: Cần phân biệt nhu cầu và ham muốn
 > - Nhu cầu (need): những thứ mà thiếu nó thì mình sẽ bị rối loạn chức năng. Nếu có được nó thì mình sẽ là chính mình
 > - Ham muốn (want, desire, wish): là chiến lược để đáp ứng nhu cầu
@@ -49,54 +49,54 @@ Các nhóm nhu cầu chính trong NVC:
   - Lựa chọn kế hoạch để hiện thực hóa những ước mơ, mục tiêu, giá trị của riêng mình
 
 - **Nuôi dưỡng thể chất:**
-  - [Không khí](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/Kh%C3%B4ng%20kh%C3%AD.md.md)
-  - [Thức ăn](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/Th%E1%BB%A9c%20%C4%83n.md.md)
-  - [Nước uống](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/N%C6%B0%E1%BB%9Bc%20u%E1%BB%91ng.md.md)
-  - [Vận động, thể dục](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/V%E1%BA%ADn%20%C4%91%E1%BB%99ng,%20th%E1%BB%83%20d%E1%BB%A5c.md.md)
-  - [Sự an toàn](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/S%E1%BB%B1%20an%20to%C3%A0n.md.md)
-  - [Nghỉ ngơi](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/Ngh%E1%BB%89%20ng%C6%A1i.md.md)
-  - [Sự thể hiện giới tính](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/S%E1%BB%B1%20th%E1%BB%83%20hi%E1%BB%87n%20gi%E1%BB%9Bi%20t%C3%ADnh.md.md)
-  - [Chỗ ở](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/Ch%E1%BB%97%20%E1%BB%9F.md.md)
+  - [Không khí](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/Kh%C3%B4ng%20kh%C3%AD.md)
+  - [Thức ăn](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/Th%E1%BB%A9c%20%C4%83n.md)
+  - [Nước uống](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/N%C6%B0%E1%BB%9Bc%20u%E1%BB%91ng.md)
+  - [Vận động, thể dục](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/V%E1%BA%ADn%20%C4%91%E1%BB%99ng,%20th%E1%BB%83%20d%E1%BB%A5c.md)
+  - [Sự an toàn](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/S%E1%BB%B1%20an%20to%C3%A0n.md)
+  - [Nghỉ ngơi](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/Ngh%E1%BB%89%20ng%C6%A1i.md)
+  - [Sự thể hiện giới tính](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/S%E1%BB%B1%20th%E1%BB%83%20hi%E1%BB%87n%20gi%E1%BB%9Bi%20t%C3%ADnh.md)
+  - [Chỗ ở](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20th%E1%BB%83%20ch%E1%BA%A5t/Ch%E1%BB%97%20%E1%BB%9F.md)
 
 - **Sự toàn vẹn:**
-  - [Trở thành người đáng tin cậy](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20to%C3%A0n%20v%E1%BA%B9n/Tr%E1%BB%9F%20th%C3%A0nh%20ng%C6%B0%E1%BB%9Di%20%C4%91%C3%A1ng%20tin%20c%E1%BA%ADy.md.md)
-  - [Trở thành người có giá trị](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20to%C3%A0n%20v%E1%BA%B9n/Tr%E1%BB%9F%20th%C3%A0nh%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20gi%C3%A1%20tr%E1%BB%8B.md.md)
-  - [Sáng tạo](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20to%C3%A0n%20v%E1%BA%B9n/S%C3%A1ng%20t%E1%BA%A1o.md.md)
-  - [Ý nghĩa](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20to%C3%A0n%20v%E1%BA%B9n/%C3%9D%20ngh%C4%A9a.md.md)
+  - [Trở thành người đáng tin cậy](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20to%C3%A0n%20v%E1%BA%B9n/Tr%E1%BB%9F%20th%C3%A0nh%20ng%C6%B0%E1%BB%9Di%20%C4%91%C3%A1ng%20tin%20c%E1%BA%ADy.md)
+  - [Trở thành người có giá trị](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20to%C3%A0n%20v%E1%BA%B9n/Tr%E1%BB%9F%20th%C3%A0nh%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20gi%C3%A1%20tr%E1%BB%8B.md)
+  - [Sáng tạo](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20to%C3%A0n%20v%E1%BA%B9n/S%C3%A1ng%20t%E1%BA%A1o.md)
+  - [Ý nghĩa](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20to%C3%A0n%20v%E1%BA%B9n/%C3%9D%20ngh%C4%A9a.md)
 
 - **Sự kỷ niệm**
-  - [Kỷ niệm những cột mốc quan trọng](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20k%E1%BB%B7%20ni%E1%BB%87m/K%E1%BB%B7%20ni%E1%BB%87m%20nh%E1%BB%AFng%20c%E1%BB%99t%20m%E1%BB%91c%20quan%20tr%E1%BB%8Dng.md.md)
-  - [Ăn mừng những thành công](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20k%E1%BB%B7%20ni%E1%BB%87m/%C4%82n%20m%E1%BB%ABng%20nh%E1%BB%AFng%20th%C3%A0nh%20c%C3%B4ng.md.md)
-  - [Tưởng nhớ những mất mát](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20k%E1%BB%B7%20ni%E1%BB%87m/T%C6%B0%E1%BB%9Fng%20nh%E1%BB%9B%20nh%E1%BB%AFng%20m%E1%BA%A5t%20m%C3%A1t.md.md)
+  - [Kỷ niệm những cột mốc quan trọng](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20k%E1%BB%B7%20ni%E1%BB%87m/K%E1%BB%B7%20ni%E1%BB%87m%20nh%E1%BB%AFng%20c%E1%BB%99t%20m%E1%BB%91c%20quan%20tr%E1%BB%8Dng.md)
+  - [Ăn mừng những thành công](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20k%E1%BB%B7%20ni%E1%BB%87m/%C4%82n%20m%E1%BB%ABng%20nh%E1%BB%AFng%20th%C3%A0nh%20c%C3%B4ng.md)
+  - [Tưởng nhớ những mất mát](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/S%E1%BB%B1%20k%E1%BB%B7%20ni%E1%BB%87m/T%C6%B0%E1%BB%9Fng%20nh%E1%BB%9B%20nh%E1%BB%AFng%20m%E1%BA%A5t%20m%C3%A1t.md)
 
 - **Sự vui chơi:**
   - Niềm vui
   - Tiếng cười
 
 - **Mối quan hệ với người khác**
-  - [Sự chấp nhận](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20ch%E1%BA%A5p%20nh%E1%BA%ADn.md.md)
-  - [Sự ghi nhận](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20ghi%20nh%E1%BA%ADn.md.md)
-  - [Sự kết nối](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20k%E1%BA%BFt%20n%E1%BB%91i.md.md)
-  - [Sự thuộc về](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20thu%E1%BB%99c%20v%E1%BB%81.md.md)
-  - [Sự quan tâm](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20quan%20t%C3%A2m.md.md)
-  - [Sự đóng góp](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20%C4%91%C3%B3ng%20g%C3%B3p.md.md)
-  - [Sự an toàn về cảm xúc](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20an%20to%C3%A0n%20v%E1%BB%81%20c%E1%BA%A3m%20x%C3%BAc.md.md)
-  - [Sự thấu cảm](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20th%E1%BA%A5u%20c%E1%BA%A3m.md.md)
-  - [Sự trung thực](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20trung%20th%E1%BB%B1c.md.md)
-  - [Tình yêu thương](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/T%C3%ACnh%20y%C3%AAu%20th%C6%B0%C6%A1ng.md.md)
-  - [Sự yên tâm](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20y%C3%AAn%20t%C3%A2m.md.md)
-  - [Sự tôn trọng](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20t%C3%B4n%20tr%E1%BB%8Dng.md.md)
-  - [Sự hỗ trợ](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20h%E1%BB%97%20tr%E1%BB%A3.md.md)
-  - [Sự tin tưởng](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20tin%20t%C6%B0%E1%BB%9Fng.md.md)
-  - [Sự thấu hiểu](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20th%E1%BA%A5u%20hi%E1%BB%83u.md.md)
-  - [Sự tử tế](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20t%E1%BB%AD%20t%E1%BA%BF.md.md)
+  - [Sự chấp nhận](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20ch%E1%BA%A5p%20nh%E1%BA%ADn.md)
+  - [Sự ghi nhận](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20ghi%20nh%E1%BA%ADn.md)
+  - [Sự kết nối](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20k%E1%BA%BFt%20n%E1%BB%91i.md)
+  - [Sự thuộc về](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20thu%E1%BB%99c%20v%E1%BB%81.md)
+  - [Sự quan tâm](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20quan%20t%C3%A2m.md)
+  - [Sự đóng góp](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20%C4%91%C3%B3ng%20g%C3%B3p.md)
+  - [Sự an toàn về cảm xúc](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20an%20to%C3%A0n%20v%E1%BB%81%20c%E1%BA%A3m%20x%C3%BAc.md)
+  - [Sự thấu cảm](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20th%E1%BA%A5u%20c%E1%BA%A3m.md)
+  - [Sự trung thực](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20trung%20th%E1%BB%B1c.md)
+  - [Tình yêu thương](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/T%C3%ACnh%20y%C3%AAu%20th%C6%B0%C6%A1ng.md)
+  - [Sự yên tâm](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20y%C3%AAn%20t%C3%A2m.md)
+  - [Sự tôn trọng](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20t%C3%B4n%20tr%E1%BB%8Dng.md)
+  - [Sự hỗ trợ](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20h%E1%BB%97%20tr%E1%BB%A3.md)
+  - [Sự tin tưởng](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20tin%20t%C6%B0%E1%BB%9Fng.md)
+  - [Sự thấu hiểu](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20th%E1%BA%A5u%20hi%E1%BB%83u.md)
+  - [Sự tử tế](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/M%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/S%E1%BB%B1%20t%E1%BB%AD%20t%E1%BA%BF.md)
 
 - **Nuôi dưỡng tinh thần:**
-  - [Cái đẹp](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/C%C3%A1i%20%C4%91%E1%BA%B9p.md.md)
-  - [Cảm hứng](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/C%E1%BA%A3m%20h%E1%BB%A9ng.md.md)
-  - [Sự hài hòa](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/S%E1%BB%B1%20h%C3%A0i%20h%C3%B2a.md.md)
-  - [Sự trật tự, ngăn nắp](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/S%E1%BB%B1%20tr%E1%BA%ADt%20t%E1%BB%B1,%20ng%C4%83n%20n%E1%BA%AFp.md.md)
-  - [Sự yên tĩnh, bình an](../../../2%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/S%E1%BB%B1%20y%C3%AAn%20t%C4%A9nh,%20b%C3%ACnh%20an.md.md)
+  - [Cái đẹp](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/C%C3%A1i%20%C4%91%E1%BA%B9p.md)
+  - [Cảm hứng](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/C%E1%BA%A3m%20h%E1%BB%A9ng.md)
+  - [Sự hài hòa](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/S%E1%BB%B1%20h%C3%A0i%20h%C3%B2a.md)
+  - [Sự trật tự, ngăn nắp](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/S%E1%BB%B1%20tr%E1%BA%ADt%20t%E1%BB%B1,%20ng%C4%83n%20n%E1%BA%AFp.md)
+  - [Sự yên tĩnh, bình an](../../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/Nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20tinh%20th%E1%BA%A7n/S%E1%BB%B1%20y%C3%AAn%20t%C4%A9nh,%20b%C3%ACnh%20an.md)
 
 Nhu cầu, như chúng tôi định nghĩa trong NVC, là cách cuộc sống hiển thị vào thời điểm này, trong bạn, trong tôi hoặc trong người khác. Chúng gần hơn với các giá trị – điều vô cùng quan trọng đối với chúng ta ở cấp độ chung cho tất cả mọi người. Bạn cũng có thể coi nhu cầu là điều kiện cần thiết để cuộc sống của con người phát triển, bất kể nền văn hóa hay vị trí địa lý. Chúng là những nguồn năng lượng muốn chảy đi chứ không phải những lỗ hổng cần lấp đầy. Nhu cầu cũng là động lực cốt lõi của con người: chúng thúc đẩy chúng ta hành động. Trên thực tế, Tiến sĩ Rosenberg đã nói rằng bất cứ lúc nào chúng ta nói hoặc hành động đều phục vụ cho một hoặc nhiều nhu cầu, cho dù chúng ta có ý thức nhận thức được điều đó hay không.
 

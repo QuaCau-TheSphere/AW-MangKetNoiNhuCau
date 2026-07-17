@@ -19,7 +19,7 @@ aliases:
 
 
 ## Nhu cầu liên quan
-- [Xóa bỏ thuốc lá](./X%C3%B3a%20b%E1%BB%8F%20thu%E1%BB%91c%20l%C3%A1.md.md)
+- [Xóa bỏ thuốc lá](./X%C3%B3a%20b%E1%BB%8F%20thu%E1%BB%91c%20l%C3%A1.md)
 
 
 ## Thảo luận khác

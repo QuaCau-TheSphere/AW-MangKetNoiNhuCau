@@ -8,7 +8,7 @@ aliases:
 ## Cách diễn đạt khác
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
-[Có thêm sự tự tin khi đối diện với các vấn đề nhạy cảm, dễ bị biến tướng. Có thêm sự rõ ràng trong các vấn đề đạo đức](../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/L%E1%BA%ADp%20lu%E1%BA%ADn/C%C3%B3%20th%C3%AAm%20s%E1%BB%B1%20t%E1%BB%B1%20tin%20khi%20%C4%91%E1%BB%91i%20di%E1%BB%87n%20v%E1%BB%9Bi%20c%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20nh%E1%BA%A1y%20c%E1%BA%A3m,%20d%E1%BB%85%20b%E1%BB%8B%20bi%E1%BA%BFn%20t%C6%B0%E1%BB%9Bng.%20C%C3%B3%20th%C3%AAm%20s%E1%BB%B1%20r%C3%B5%20r%C3%A0ng%20trong%20c%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md.md)
+[Có thêm sự tự tin khi đối diện với các vấn đề nhạy cảm, dễ bị biến tướng. Có thêm sự rõ ràng trong các vấn đề đạo đức](../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/L%E1%BA%ADp%20lu%E1%BA%ADn/C%C3%B3%20th%C3%AAm%20s%E1%BB%B1%20t%E1%BB%B1%20tin%20khi%20%C4%91%E1%BB%91i%20di%E1%BB%87n%20v%E1%BB%9Bi%20c%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20nh%E1%BA%A1y%20c%E1%BA%A3m,%20d%E1%BB%85%20b%E1%BB%8B%20bi%E1%BA%BFn%20t%C6%B0%E1%BB%9Bng.%20C%C3%B3%20th%C3%AAm%20s%E1%BB%B1%20r%C3%B5%20r%C3%A0ng%20trong%20c%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md)
 
 ## Giả thiết 
 
@@ -20,7 +20,8 @@ aliases:
 
 
 ## Nhu cầu liên quan
-- [Có thêm sự tự tin khi đối diện với các vấn đề nhạy cảm, dễ bị biến tướng. Có thêm sự rõ ràng trong các vấn đề đạo đức](../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/L%E1%BA%ADp%20lu%E1%BA%ADn/C%C3%B3%20th%C3%AAm%20s%E1%BB%B1%20t%E1%BB%B1%20tin%20khi%20%C4%91%E1%BB%91i%20di%E1%BB%87n%20v%E1%BB%9Bi%20c%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20nh%E1%BA%A1y%20c%E1%BA%A3m,%20d%E1%BB%85%20b%E1%BB%8B%20bi%E1%BA%BFn%20t%C6%B0%E1%BB%9Bng.%20C%C3%B3%20th%C3%AAm%20s%E1%BB%B1%20r%C3%B5%20r%C3%A0ng%20trong%20c%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md.md)
+- [Có thêm sự tự tin khi đối diện với các vấn đề nhạy cảm, dễ bị biến tướng. Có thêm sự rõ ràng trong các vấn đề đạo đức](../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/L%E1%BA%ADp%20lu%E1%BA%ADn/C%C3%B3%20th%C3%AAm%20s%E1%BB%B1%20t%E1%BB%B1%20tin%20khi%20%C4%91%E1%BB%91i%20di%E1%BB%87n%20v%E1%BB%9Bi%20c%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20nh%E1%BA%A1y%20c%E1%BA%A3m,%20d%E1%BB%85%20b%E1%BB%8B%20bi%E1%BA%BFn%20t%C6%B0%E1%BB%9Bng.%20C%C3%B3%20th%C3%AAm%20s%E1%BB%B1%20r%C3%B5%20r%C3%A0ng%20trong%20c%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md)
+- [Không bị mệt khi mọi người cứ lên án mình](../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Kh%C3%B4ng%20b%E1%BB%8B%20m%E1%BB%87t%20khi%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20c%E1%BB%A9%20l%C3%AAn%20%C3%A1n%20m%C3%ACnh.md)
 
 
 ## Thảo luận khác

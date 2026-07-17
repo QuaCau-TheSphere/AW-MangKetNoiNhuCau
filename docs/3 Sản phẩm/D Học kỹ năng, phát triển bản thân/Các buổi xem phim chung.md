@@ -4,6 +4,7 @@ updated: 2026-01-05T09:24
 share: true
 ---
 ## Những người đang có nhu cầu này
+- [Holy Seed](../../2%20Th%E1%BB%B1c%20th%E1%BB%83/T%E1%BB%95%20ch%E1%BB%A9c/Holy%20Seed.md)
 
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau

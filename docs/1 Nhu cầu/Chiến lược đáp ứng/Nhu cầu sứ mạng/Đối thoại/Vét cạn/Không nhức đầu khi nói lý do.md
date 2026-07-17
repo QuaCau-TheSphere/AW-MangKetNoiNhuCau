@@ -12,7 +12,7 @@ aliases:
 ## Giả thiết 
 
 ## Ví dụ biểu hiện
-[Hứng thú tìm hiểu quá khứ của nhau](./H%E1%BB%A9ng%20th%C3%BA%20t%C3%ACm%20hi%E1%BB%83u%20qu%C3%A1%20kh%E1%BB%A9%20c%E1%BB%A7a%20nhau.md.md)
+[Hứng thú tìm hiểu quá khứ của nhau](./H%E1%BB%A9ng%20th%C3%BA%20t%C3%ACm%20hi%E1%BB%83u%20qu%C3%A1%20kh%E1%BB%A9%20c%E1%BB%A7a%20nhau.md)
 
 ## Giải pháp gợi ý
 

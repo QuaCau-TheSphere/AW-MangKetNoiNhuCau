@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-03T16:30
-updated: 2026-06-12T01:42
+updated: 2026-07-01T19:25
 title: Những chủ đề Nhật chia sẻ được
 ---
 Dưới đây là các chủ đề Nhật cảm thấy có thể mở một buổi nói chuyện. Nhật cảm thấy như vậy là vì các chủ đề này Nhật muốn chia sẻ cho mọi người và đã có một thời gian nhất định để khảo sát một cách có hệ thống, nên có thể trình bày một cách tương đối mạch lạc và lường trước được đa số các câu hỏi từ người nghe.
@@ -41,6 +41,7 @@ Lưu ý:
 Một sản phẩm nảy sinh từ mạng kết nối nhu cầu là kho địa điểm để chọn nơi gặp mặt. Đã có nhiều dự án tổng hợp địa điểm như Foody, Google Maps, D.Map, tại sao lại cần thêm một nơi như vậy làm gì? Lý do là vì chúng chưa đủ để đáp ứng các nhu cầu đặc thù rất đa dạng của mỗi người. Người dùng khi vào các dịch vụ đó phải chấp nhận sự phân loại mà các dịch vụ đó tạo ra, và phải chấp nhận dữ liệu bị các dịch vụ đó kiểm soát. Trong khi một nơi xem người dùng là trung tâm thì phải trao sự phân loại và kiểm soát dữ liệu về tay họ.
 
 ### Kho tài nguyên cho các nhu cầu thường gặp trong công việc
+
 ### Hệ thống kho tri thức liên ngành
  
 ### đối ⊷ thoại: Rút gọn liên kết và thống kê lưu lượng truy cập cho các dự án, tổ chức hiện diện trên nhiều nền tảng

@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-07-01T15:53
+updated: 2026-07-03T22:00
 share: true
 title: Nhu cầu của Nhật
 ---
@@ -21,6 +21,12 @@ Xem [Công việc đang làm](./C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.
 ## [🔥 Muốn có ngay nhưng đã phải dành sự tập trung cao nhất cho việc khác](../../../9%20T%C3%A0i%20li%E1%BB%87u/Ph%C3%A2n%20lo%E1%BA%A1i%20nhu%20c%E1%BA%A7u/%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/%F0%9F%94%A5%20Mu%E1%BB%91n%20c%C3%B3%20ngay%20nh%C6%B0ng%20%C4%91%C3%A3%20ph%E1%BA%A3i%20d%C3%A0nh%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20cao%20nh%E1%BA%A5t%20cho%20vi%E1%BB%87c%20kh%C3%A1c.md)
 Nhật luôn sẵn sàng để thảo luận về những chủ đề này, vì việc đó không cần suy nghĩ nhiều.
 
+### [Không bị quá tải đầu óc](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/T%C3%A0i%20nguy%C3%AAn/Kh%C3%B4ng%20b%E1%BB%8B%20qu%C3%A1%20t%E1%BA%A3i%20%C4%91%E1%BA%A7u%20%C3%B3c.md)
+Những người muốn giao việc cho Nhật thảo luận về những người khác, hoặc nhìn vào bản nhu cầu này.
+
+Hoặc [Có trợ lý, cộng sự, người làm cùng, nhóm hỗ trợ, ê kíp, bầu sô, người quản lý](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20tr%E1%BB%A3%20l%C3%BD,%20c%E1%BB%99ng%20s%E1%BB%B1,%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B9ng,%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3,%20%C3%AA%20k%C3%ADp,%20b%E1%BA%A7u%20s%C3%B4,%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD.md) 
+
+[Có hệ thống chat tốt](C%C3%B3%20h%E1%BB%87%20th%E1%BB%91ng%20chat%20t%E1%BB%91t.md)
 ### [Có trợ lý, cộng sự, người làm cùng, nhóm hỗ trợ, ê kíp, bầu sô, người quản lý](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20tr%E1%BB%A3%20l%C3%BD,%20c%E1%BB%99ng%20s%E1%BB%B1,%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B9ng,%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3,%20%C3%AA%20k%C3%ADp,%20b%E1%BA%A7u%20s%C3%B4,%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD.md) 
 Nhật thấy thế mạnh của mình là nghiên cứu hơn là thực hành, dù khi cần thì cũng không ngại thực hành. Nhật cho rằng [Cần nghĩ về công việc như là một cách để kiểm định giả thiết, chứ không phải chỉ để hoàn thành](C%E1%BA%A7n%20ngh%C4%A9%20v%E1%BB%81%20c%C3%B4ng%20vi%E1%BB%87c%20nh%C6%B0%20l%C3%A0%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%E1%BB%83%20ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thi%E1%BA%BFt,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20ch%E1%BB%89%20%C4%91%E1%BB%83%20ho%C3%A0n%20th%C3%A0nh.md). Thế nên ta [Nên ưu tiên làm những việc có thể sẽ khiến ta phải viết lại kế hoạch](N%C3%AAn%20%C6%B0u%20ti%C3%AAn%20l%C3%A0m%20nh%E1%BB%AFng%20vi%E1%BB%87c%20c%C3%B3%20th%E1%BB%83%20s%E1%BA%BD%20khi%E1%BA%BFn%20ta%20ph%E1%BA%A3i%20vi%E1%BA%BFt%20l%E1%BA%A1i%20k%E1%BA%BF%20ho%E1%BA%A1ch.md). Mà điều đó đòi hỏi phải nghiên cứu để biết được những điều ta không biết là không biết. Thế nên Nhật muốn tập trung vào [các công việc khai phá như xây dựng chiến lược, nghiên cứu, quản lý tri thức, thiết kế hệ thống](X%C3%A2y%20d%E1%BB%B1ng%20chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c,%20nghi%C3%AAn%20c%E1%BB%A9u,%20qu%E1%BA%A3n%20l%C3%BD%20tri%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF%20h%E1%BB%87%20th%E1%BB%91ng%20l%C3%A0%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1.md). [Hiểu biết không chỉ để mình làm một cái gì đó, mà còn để mình không làm một cái gì đó](Hi%E1%BB%83u%20bi%E1%BA%BFt%20kh%C3%B4ng%20ch%E1%BB%89%20%C4%91%E1%BB%83%20m%C3%ACnh%20l%C3%A0m%20m%E1%BB%99t%20c%C3%A1i%20g%C3%AC%20%C4%91%C3%B3,%20m%C3%A0%20c%C3%B2n%20%C4%91%E1%BB%83%20m%C3%ACnh%20kh%C3%B4ng%20l%C3%A0m%20m%E1%BB%99t%20c%C3%A1i%20g%C3%AC%20%C4%91%C3%B3.md). 
 

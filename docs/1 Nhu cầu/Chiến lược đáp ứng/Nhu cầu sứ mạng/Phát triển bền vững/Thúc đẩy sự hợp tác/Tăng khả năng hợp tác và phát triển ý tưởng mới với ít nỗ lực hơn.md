@@ -13,6 +13,7 @@ updated: 2026-01-08T14:54
 ## Giải pháp gợi ý
 
 ## Nhu cầu liên quan
+- [Kết nối nguồn lực](./K%E1%BA%BFt%20n%E1%BB%91i%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
 
 
 ## Thảo luận khác

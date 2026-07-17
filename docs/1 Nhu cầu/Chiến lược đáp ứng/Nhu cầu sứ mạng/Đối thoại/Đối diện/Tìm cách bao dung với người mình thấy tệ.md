@@ -13,7 +13,7 @@ updated: 2026-02-14T17:51
 ## Giải pháp gợi ý
 
 ## Nhu cầu liên quan
-- [Đi tới lý do tận cùng](../V%C3%A9t%20c%E1%BA%A1n/%C4%90i%20t%E1%BB%9Bi%20l%C3%BD%20do%20t%E1%BA%ADn%20c%C3%B9ng.md.md)
+- [Đi tới lý do tận cùng](../V%C3%A9t%20c%E1%BA%A1n/%C4%90i%20t%E1%BB%9Bi%20l%C3%BD%20do%20t%E1%BA%ADn%20c%C3%B9ng.md)
 
 
 ## Thảo luận khác

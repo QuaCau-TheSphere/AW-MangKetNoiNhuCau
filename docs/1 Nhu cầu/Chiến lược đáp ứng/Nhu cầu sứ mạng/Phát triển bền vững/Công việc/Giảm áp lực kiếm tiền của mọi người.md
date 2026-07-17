@@ -31,8 +31,8 @@ Mọi người biết tới các sản phẩm
 - [Giúp bạn bè thoát nợ](./Gi%C3%BAp%20b%E1%BA%A1n%20b%C3%A8%20tho%C3%A1t%20n%E1%BB%A3.md)
 
 ## Nhu cầu liên quan
-- [Mọi người không còn phải lo lắng cơm áo gạo tiền nữa](./M%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20c%C3%B2n%20ph%E1%BA%A3i%20lo%20l%E1%BA%AFng%20c%C6%A1m%20%C3%A1o%20g%E1%BA%A1o%20ti%E1%BB%81n%20n%E1%BB%AFa.md)
 - [Giảm áp lực kiếm tiền của mọi người](Gi%E1%BA%A3m%20%C3%A1p%20l%E1%BB%B1c%20ki%E1%BA%BFm%20ti%E1%BB%81n%20c%E1%BB%A7a%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
+- [Mọi người không còn phải lo lắng cơm áo gạo tiền nữa](./M%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20c%C3%B2n%20ph%E1%BA%A3i%20lo%20l%E1%BA%AFng%20c%C6%A1m%20%C3%A1o%20g%E1%BA%A1o%20ti%E1%BB%81n%20n%E1%BB%AFa.md)
 - [Thấy không có gì phải gấp gáp cả](../../T%C3%B2%20m%C3%B2,%20thong%20th%E1%BA%A3,%20kho%C3%A1ng%20%C4%91%E1%BA%A1t,%20bi%E1%BA%BFn%20h%C3%B3a/Th%E1%BA%A5y%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20ph%E1%BA%A3i%20g%E1%BA%A5p%20g%C3%A1p%20c%E1%BA%A3.md)
 
 

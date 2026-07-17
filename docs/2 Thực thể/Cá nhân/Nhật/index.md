@@ -7,14 +7,14 @@ description: Các nguồn lực, nhu cầu, công việc đang làm, cách làm 
 ---
 - \-: 
     - [Công việc đang làm](./C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md)
-    - [Kế hoạch](./K%E1%BA%BF%20ho%E1%BA%A1ch.md)
     - [Lý do làm nghiên cứu](./L%C3%BD%20do%20l%C3%A0m%20nghi%C3%AAn%20c%E1%BB%A9u.md)
+    - [Kế hoạch](./K%E1%BA%BF%20ho%E1%BA%A1ch.md)
     - [Nhu cầu](./Nhu%20c%E1%BA%A7u.md)
     - [Nhật](index.md)
 
 - Cách làm việc: 
-    - [Hướng dẫn gặp mặt](./C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20g%E1%BA%B7p%20m%E1%BA%B7t.md)
     - [Tiêu chí nhận công việc](./C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/Ti%C3%AAu%20ch%C3%AD%20nh%E1%BA%ADn%20c%C3%B4ng%20vi%E1%BB%87c.md)
+    - [Hướng dẫn hẹn thảo luận](./C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20h%E1%BA%B9n%20th%E1%BA%A3o%20lu%E1%BA%ADn.md)
 
 - Nguồn lực: 
     - [Chủ đề nói chuyện](./Ngu%E1%BB%93n%20l%E1%BB%B1c/Ch%E1%BB%A7%20%C4%91%E1%BB%81%20n%C3%B3i%20chuy%E1%BB%87n.md)
