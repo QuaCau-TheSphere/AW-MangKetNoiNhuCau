@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-12T12:21
-updated: 2026-02-21T14:34
+updated: 2026-02-21T14:42
 ---
 ## Giả định về nhu cầu người muốn kết nối
 - Có những nhu cầu không được đáp ứng tốt vì:
@@ -86,11 +86,10 @@ Có 3 loại người có nguồn lực đáp ứng:
 - Máy tìm kiếm: phải đầu tư vào SEO
 - Không có vấn đề gì với nhóm chat chung hay nhắn cá nhân
 
-[Các câu hỏi để kiểm định giả thiết](./M%E1%BB%A5c%20ti%C3%AAu%20nghi%C3%AAn%20c%E1%BB%A9u%20v%C3%A0%20c%C3%A2u%20h%E1%BB%8Fi%20nghi%C3%AAn%20c%E1%BB%A9u.md.md)
-
-## Giả định về sản phẩm
+## Giả định về hành trình người dùng
 - Quan tâm đến nhu cầu hơn là nguồn lực
 - Thấy web dễ dùng
 
+[Các câu hỏi để kiểm định giả thiết](./M%E1%BB%A5c%20ti%C3%AAu%20nghi%C3%AAn%20c%E1%BB%A9u%20v%C3%A0%20c%C3%A2u%20h%E1%BB%8Fi%20nghi%C3%AAn%20c%E1%BB%A9u.md)
 
 dựa trên tiếp nhận về bài này em thấy số người quan tâm không nhiều. Đồng thời, dựa trên quan sát về những nhóm đã được mở ra, em thấy đa số mọi người vào hóng là chính. Ai có gì đó thực sự để nói thì nhắn trong thời gian đầu rồi cũng hết. Sau đó nhóm cơ bản là chết. Điều này cũng hợp với quy luật 90-10-1. Nên em nghĩ hiện tại mình nên liệt kê các giả định của mình trước, rồi trao đổi sâu 1-1 với nhau để tìm người sẵn sàng làm thành viên nòng cốt. Đây là các giả định em đã liệt kê ra, có thể anh quan tâm
