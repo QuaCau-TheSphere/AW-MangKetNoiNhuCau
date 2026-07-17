@@ -19,7 +19,7 @@ aliases:
 
 
 ## Nhu cầu liên quan
-- [Đi đến tận cùng của sự đối thoại](./%C4%90i%20%C4%91%E1%BA%BFn%20t%E1%BA%ADn%20c%C3%B9ng%20c%E1%BB%A7a%20s%E1%BB%B1%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md.md)
+- [Đi đến tận cùng của sự đối thoại](./%C4%90i%20%C4%91%E1%BA%BFn%20t%E1%BA%ADn%20c%C3%B9ng%20c%E1%BB%A7a%20s%E1%BB%B1%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md)
 
 
 ## Thảo luận khác
