@@ -37,7 +37,7 @@ quy mô công ty 60 người
 ### Lúc em thấy được mời phỏng vấn thì em đã nghĩ những gì?
 
 ## Hiểu được vì sao đáp viên không tương tác với [bài mời thảo luận](https://www.facebook.com/groups/abgnetworkofficial/posts/2884117178409196/)
-### Em có nhìn thấy cái [lời mời tiếp theo](Bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20vi%E1%BB%87c%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md) không? 
+### Em có nhìn thấy cái [lời mời tiếp theo](../../Truy%E1%BB%81n%20th%C3%B4ng/B%C3%A0i%20%C4%91%C4%83ng/Bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20vi%E1%BB%87c%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md) không? 
 ### Nếu có thì đã nghĩ những gì? 
 #### Vì sao không tương tác gì?
 ### Nếu không thấy thì giả sử thấy và không tương tác gì thì lý do là gì?
