@@ -15,8 +15,8 @@ title: Nhu cầu công việc
     - [Quản lý đối tác, các bên liên quan](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Qu%E1%BA%A3n%20l%C3%BD%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md)
     - [Ra quyết định tập thể](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20t%E1%BA%ADp%20th%E1%BB%83.md)
     - [Thiết kế tiếp cận được cho người khuyết tật](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Thi%E1%BA%BFt%20k%E1%BA%BF%20ti%E1%BA%BFp%20c%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20cho%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
-    - [Thúc đẩy đối thoại](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md)
     - [Thúc đẩy sự hợp tác giữa các cá nhân](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20gi%E1%BB%AFa%20c%C3%A1c%20c%C3%A1%20nh%C3%A2n.md)
+    - [Thúc đẩy đối thoại](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md)
     - [Tăng sự gắn kết giữa các thành viên](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/T%C4%83ng%20s%E1%BB%B1%20g%E1%BA%AFn%20k%E1%BA%BFt%20gi%E1%BB%AFa%20c%C3%A1c%20th%C3%A0nh%20vi%C3%AAn.md)
     - [Tăng sự gắn kết giữa những người quan tâm](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/T%C4%83ng%20s%E1%BB%B1%20g%E1%BA%AFn%20k%E1%BA%BFt%20gi%E1%BB%AFa%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20quan%20t%C3%A2m.md)
     - [Tăng tỉ lệ tương tác của những người ít tương tác trong group](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/T%C4%83ng%20t%E1%BB%89%20l%E1%BB%87%20t%C6%B0%C6%A1ng%20t%C3%A1c%20c%E1%BB%A7a%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20%C3%ADt%20t%C6%B0%C6%A1ng%20t%C3%A1c%20trong%20group.md)
@@ -28,10 +28,10 @@ title: Nhu cầu công việc
     - [Có nguồn đáp viên, nghiệm thể cho nghiên cứu, khảo sát ](./Nghi%C3%AAn%20c%E1%BB%A9u/C%C3%B3%20ngu%E1%BB%93n%20%C4%91%C3%A1p%20vi%C3%AAn,%20nghi%E1%BB%87m%20th%E1%BB%83%20cho%20nghi%C3%AAn%20c%E1%BB%A9u,%20kh%E1%BA%A3o%20s%C3%A1t.md)
     - [Nghiên cứu cộng đồng mạng](./Nghi%C3%AAn%20c%E1%BB%A9u/Nghi%C3%AAn%20c%E1%BB%A9u%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20m%E1%BA%A1ng.md)
     - [Nghiên cứu](./Nghi%C3%AAn%20c%E1%BB%A9u/index.md)
-    - [Phân tích dữ liệu](./Nghi%C3%AAn%20c%E1%BB%A9u/Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u.md)
     - [Nghiên cứu người dùng, phát triển sản phẩm](./Nghi%C3%AAn%20c%E1%BB%A9u/Thu%20th%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m.md)
     - [Nắm bắt xu hướng mạng](./Nghi%C3%AAn%20c%E1%BB%A9u/Thu%20th%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/N%E1%BA%AFm%20b%E1%BA%AFt%20xu%20h%C6%B0%E1%BB%9Bng%20m%E1%BA%A1ng.md)
     - [Tìm nghiệm thể hoặc dữ liệu cho nghiên cứu](./Nghi%C3%AAn%20c%E1%BB%A9u/Thu%20th%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/T%C3%ACm%20nghi%E1%BB%87m%20th%E1%BB%83%20ho%E1%BA%B7c%20d%E1%BB%AF%20li%E1%BB%87u%20cho%20nghi%C3%AAn%20c%E1%BB%A9u.md)
+    - [Phân tích dữ liệu](./Nghi%C3%AAn%20c%E1%BB%A9u/Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u.md)
     - [Tổng quan nghiên cứu. Tải bài](./Nghi%C3%AAn%20c%E1%BB%A9u/T%E1%BB%95ng%20quan%20nghi%C3%AAn%20c%E1%BB%A9u.%20T%E1%BA%A3i%20b%C3%A0i.md)
 
 - Vận hành: 
