@@ -16,7 +16,7 @@ aliases:
 ## Giải pháp gợi ý
 
 ## Những người đang có nhu cầu này
-- [Tempo Nexus](../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/T%E1%BB%95%20ch%E1%BB%A9c/Tempo%20Nexus.md.md)
+- [Tempo Nexus](../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/T%E1%BB%95%20ch%E1%BB%A9c/Tempo%20Nexus.md)
 
 
 ## Nhu cầu liên quan
