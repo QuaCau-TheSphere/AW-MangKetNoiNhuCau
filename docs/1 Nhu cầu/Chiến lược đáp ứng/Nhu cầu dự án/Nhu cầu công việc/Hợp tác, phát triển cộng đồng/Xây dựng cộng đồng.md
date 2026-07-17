@@ -4,7 +4,8 @@ created: 2026-01-14T14:24
 updated: 2026-01-14T14:35
 ---
 ## Những người đang có nhu cầu này
-- [Nhu cầu của Nhật](../../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/Nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20Nh%E1%BA%ADt.md)
+- [Công việc đang làm](../../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md)
+- [Nhật](../../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/index.md)
 - [Quả Cầu](../../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/T%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3%20C%E1%BA%A7u.md)
 
 
