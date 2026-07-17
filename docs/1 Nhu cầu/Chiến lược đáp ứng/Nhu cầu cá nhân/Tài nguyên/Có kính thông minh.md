@@ -1,6 +1,5 @@
 ---
 share: true
-created: 2025-03-27T17:13
 updated: 2026-01-08T16:31
 ---
 Khái niệm:: 
