@@ -4,12 +4,13 @@ created: 2026-01-23T11:48
 updated: 2026-01-23T11:52
 ---
 ## Những người đang có nhu cầu này
+- [Công việc đang làm](../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md)
 
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
 
 ## Giả thiết 
-[Không thấy xấu hổ](../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Nhu%20c%E1%BA%A7u%20t%C3%ACnh%20c%E1%BA%A3m/Quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20%C4%91%E1%BB%9Di%20s%E1%BB%91ng%20c%E1%BB%A7a%20nhau/Kh%C3%B4ng%20th%E1%BA%A5y%20x%E1%BA%A5u%20h%E1%BB%95.md.md)
+[Không thấy xấu hổ](../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Nhu%20c%E1%BA%A7u%20t%C3%ACnh%20c%E1%BA%A3m/Quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20%C4%91%E1%BB%9Di%20s%E1%BB%91ng%20c%E1%BB%A7a%20nhau/Kh%C3%B4ng%20th%E1%BA%A5y%20x%E1%BA%A5u%20h%E1%BB%95.md)
 ## Ví dụ biểu hiện
 
 ## Giải pháp gợi ý
