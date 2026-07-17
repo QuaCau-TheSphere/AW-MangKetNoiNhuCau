@@ -22,7 +22,7 @@ PERMA-V
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dbiNhAZlXZk?si=q1_67wFsnpvfYcmf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Phân loại theo bản chất
-Bài chi tiết: [Các nhu cầu cá nhân](./C%C3%A1c%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/index.md.md)
+Bài chi tiết: [Các nhu cầu cá nhân](./C%C3%A1c%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/index.md)
 
 
 
@@ -51,6 +51,6 @@ https://en.wikipedia.org/wiki/Needs_assessment
 - Resources people are offering or needing. From the physical, like a car for sale or a place to rent, to the intangible, like a categorized list of inspirational TED Talks or funding for a community initiative.
 
 ## Phân loại theo độ cấp thiết
-[Độ cấp thiết](./%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/index.md.md)
+[Độ cấp thiết](./%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/index.md)
 
-![Marx and the Politics of Need_26_02_19_01_12_38.pdf](../../attachments/Marx%20and%20the%20Politics%20of%20Need_26_02_19_01_12_38.pdf.pdf)
+![Marx and the Politics of Need_26_02_19_01_12_38.pdf](../../attachments/Marx%20and%20the%20Politics%20of%20Need_26_02_19_01_12_38.pdf)
