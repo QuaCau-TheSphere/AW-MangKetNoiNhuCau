@@ -19,8 +19,8 @@ updated: 2026-02-17T15:13
 
 
 ## Nhu cầu liên quan
-- [Giải quyết đa khủng hoảng](./Gi%E1%BA%A3i%20quy%E1%BA%BFt%20%C4%91a%20kh%E1%BB%A7ng%20ho%E1%BA%A3ng.md.md)
-- [Xóa bỏ tư duy khan hiếm](../T%C3%B2%20m%C3%B2,%20thong%20th%E1%BA%A3,%20kho%C3%A1ng%20%C4%91%E1%BA%A1t,%20bi%E1%BA%BFn%20h%C3%B3a/X%C3%B3a%20b%E1%BB%8F%20t%C6%B0%20duy%20khan%20hi%E1%BA%BFm.md.md)
+- [Giải quyết đa khủng hoảng](./Gi%E1%BA%A3i%20quy%E1%BA%BFt%20%C4%91a%20kh%E1%BB%A7ng%20ho%E1%BA%A3ng.md)
+- [Xóa bỏ tư duy khan hiếm](../T%C3%B2%20m%C3%B2,%20thong%20th%E1%BA%A3,%20kho%C3%A1ng%20%C4%91%E1%BA%A1t,%20bi%E1%BA%BFn%20h%C3%B3a/X%C3%B3a%20b%E1%BB%8F%20t%C6%B0%20duy%20khan%20hi%E1%BA%BFm.md)
 
 
 ## Thảo luận khác
