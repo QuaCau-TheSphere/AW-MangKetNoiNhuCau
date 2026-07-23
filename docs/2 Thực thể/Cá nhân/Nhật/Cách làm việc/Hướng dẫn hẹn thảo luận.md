@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2026-05-25T14:14
-updated: 2026-07-17T13:27
+updated: 2026-07-23T14:58
 ---
 ## Trực tiếp hay qua mạng?
 Nhật ưu tiên gặp trực tiếp hơn vì:
-- Không phải lo xử lý hoặc chịu đựng các vấn đề máy móc (mạng chậm, mic vọng, cam hư, loa nhỏ, máy đơ, thiếu tai nghe hoặc tai nghe làm đau tai, tài khoản miễn phí bị giới hạn thời gian sử dụng, v.v.)
+- Không phải lo xử lý hoặc chịu đựng các vấn đề máy móc (mạng chậm, mic vọng, cam hư, loa nhỏ, máy đơ, thiếu tai nghe hoặc tai nghe làm đau tai, tài khoản miễn phí bị giới hạn thời gian sử dụng, v.v.). Xem thêm: [Các vấn đề ở laptop của Nhật](../Ngu%E1%BB%93n%20l%E1%BB%B1c/C%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20%E1%BB%9F%20laptop%20c%E1%BB%A7a%20Nh%E1%BA%ADt.md)
 - Được thay đổi không khí khi đã ngồi trong nhà cả ngày không vận động gì cả rồi
 - Có được những điều thú vị, bất ngờ của việc gần gũi với con người và ở trong môi trường khác
 
