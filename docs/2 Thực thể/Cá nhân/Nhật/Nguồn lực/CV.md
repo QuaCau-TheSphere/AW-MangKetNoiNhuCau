@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-09T13:48
-updated: 2026-07-01T20:05
+updated: 2026-08-12T10:09
 title: CV của Lý Minh Nhật
 description: Kinh nghiệm làm việc trong công ty. Kỹ năng. Dự án, sản phẩm. Buổi nói chuyện. Cộng tác. Giáo dục chính quy. Kiến thức tự học. Các khoá học, tập huấn đã tham gia.
 ---
@@ -21,18 +21,16 @@ Nhân viên kinh doanh GM Mall: active, 2/2025, 6/2025
 ## Kỹ năng
 ### Lập trình
 #### Web
-- **Runtime:** Deno
+- **Môi trường thực thi:** Deno
 - **Framework:** Fresh, Preact, Gatsby
 - **Web builder:** Lume (TypeScript), Mkdocs (Python), WordPress (PHP) 
 - **Server, network:** Deno Deploy, DirectAdmin, WinSCP
-- **API:** Google Cloud, Fibery
 
 #### Khác
-- **Dữ liệu:** Python
-- **Shell script:** AutoHotKey, Regex, PowerShell, sed/grep/awk, bash
-- **Đồ thị:** Graphviz, Obsidian Dataview & Breadcrumbs, Neo4j, Cypher, vis.js
+- **Ngôn ngữ:** Python, AutoHotKey, PowerShell, sed/grep/awk, bash
+- **Quản lý kiến thức:** Graphviz, Obsidian Dataview, Obsidian Breadcrumbs, Neo4j, Cypher, vis.js, Fibery
 - **Android:** Tasker
-- **CI/CD:** Docker, GitHub Actions
+- **DevOp:** Docker, GitHub Actions, Fly, Google Cloud
 - **IDE:** VS Code
 
 ### Khác
@@ -49,7 +47,7 @@ Nhân viên kinh doanh GM Mall: active, 2/2025, 6/2025
 ## Dự án, sản phẩm
 | Năm  | Sản phẩm                                                                                                                                                                                                                                                                                                                                                         |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2026 | Mạng kết nối nhu cầu, nguồn lực                                                                                                                                                                                                                                                                                                                                                                 |
+| 2026 | [Mạng kết nối nhu cầu - nguồn lực](../../../../index.md)                                                                                                                                                                                                                                                                                                                 |
 | 2025 | Chương trình tính hoa hồng và thay đổi định kỳ đóng phí cho đại lý bảo hiểm                                                                                                                                                                                                                                                                                      |
 |      | [Quỹ tín dụng vi mô Quả Cầu](https://kiếmtiền.quảcầu.cc/📐Dự%20án/Giúp%20nhau%20thoát%20nợ/Quỹ/Quỹ%20tín%20dụng%20vi%20mô%20Quả%20Cầu?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)+(Dự+án%2C+sản+phẩm)&utm_medium=Tập+tin&utm_campaign=B2&utm_content=&utm_term=)                                                                                                     |
 |      | [Nhóm giúp nhau kiếm tiền](https://kiếmtiền.quảcầu.cc/📐Dự%20án/Giúp%20nhau%20kiếm%20tiền?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)+(Dự+án%2Csản+phẩm)&utm_medium=Tập+tin&utm_campaign=B2&utm_content=&utm_term=)                                                                                                                                                  |
