@@ -1,9 +1,10 @@
 ---
 created: 2025-12-24T19:26
-updated: 2026-01-04T18:41
+updated: 2026-08-14T16:42
 share: true
 ---
 ## Những người đang có nhu cầu này
+- [Nhu cầu](../../../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/Nhu%20c%E1%BA%A7u.md)
 - [Quả Cầu](../../../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/T%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3%20C%E1%BA%A7u.md)
 
 
@@ -16,6 +17,7 @@ share: true
 
 ## Nhu cầu liên quan
 - [Gây quỹ](./G%C3%A2y%20qu%E1%BB%B9.md)
+- [Tự do tài chính](../../../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/T%E1%BB%B1%20do%20t%C3%A0i%20ch%C3%ADnh.md)
 
 
 ## Thảo luận khác
