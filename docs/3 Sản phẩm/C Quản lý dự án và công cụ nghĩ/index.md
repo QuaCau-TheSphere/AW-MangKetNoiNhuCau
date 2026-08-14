@@ -1,6 +1,6 @@
 ---
 created: 2025-05-16T19:09
-updated: 2026-04-11T18:53
+updated: 2026-07-30T13:30
 share: true
 title: C Quản lý dự án và công cụ nghĩ
 ---
@@ -21,7 +21,7 @@ Dự án mong muốn:
 Đối tượng thụ hưởng là những người đang cảm thấy quá tải và thiếu công cụ hiệu quả để quản lý thông tin cho việc phát triển dự án, tổ chức, cộng đồng, mạng lưới, hệ sinh thái. Thường họ là nhà hoạt động xã hội hoặc khởi nghiệp, nhưng cũng có thể là nhà nghiên cứu. Các nhu cầu của họ bao gồm:
 
 - Làm nghiên cứu, quản lý kiến thức
-- [Làm chủ máy tính, làm chủ dữ liệu](../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/K%E1%BA%BF%20ho%E1%BA%A1ch.md)
+- Làm chủ máy tính, làm chủ dữ liệu
 - Có được hiểu biết sâu về xu hướng tư duy của mình. Nhìn thấy được các giả định của mình. Thảo luận về các công cụ nghĩ
 - [Vận hành dự án, tổ chức](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/index.md)
 - Đóng góp và chia sẻ tài nguyên, nguồn lực

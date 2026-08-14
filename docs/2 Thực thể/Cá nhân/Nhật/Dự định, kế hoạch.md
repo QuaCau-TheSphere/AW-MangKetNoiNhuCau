@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2026-06-26T11:47
-updated: 2026-07-18T17:08
+updated: 2026-07-30T13:41
 ---
+Sẽ cập nhật khi có nhu cầu.
+
 ## [Có trợ lý, cộng sự, người làm cùng, nhóm hỗ trợ, ê kíp, bầu sô, người quản lý](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20tr%E1%BB%A3%20l%C3%BD,%20c%E1%BB%99ng%20s%E1%BB%B1,%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B9ng,%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3,%20%C3%AA%20k%C3%ADp,%20b%E1%BA%A7u%20s%C3%B4,%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD.md) 
 
 Mục tiêu của việc này là:
