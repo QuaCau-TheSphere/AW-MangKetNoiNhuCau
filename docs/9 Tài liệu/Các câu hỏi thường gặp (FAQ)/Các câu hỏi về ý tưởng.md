@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-03-07T13:04
-updated: 2026-06-28T11:47
+updated: 2026-07-26T23:16
 ---
 ## Nhu cầu với ham muốn khác gì nhau?
 Nhiều nơi định nghĩa cần (need) và muốn (want) là khác nhau:
@@ -17,6 +17,7 @@ Thế nào là đủ? Liệu ta có nên đáp ứng ham muốn hay không? Nế
 Nếu vậy thì tốt nhất ta nên đi vào chùa hết ráo, chứ không nên ở đây làm gì. Bạn còn ở đây, nghĩa là còn ham muốn? Vậy tại sao lại không đáp ứng một người có ham muốn khi bạn cũng còn ham muốn?
 
 Lặp đi lặp lại thì nhàm chán.
+Chúng ta đi tìm hạnh phúc trên những máy chạy bộ
 Hay đáp ứng bản năng khám phá? Đó cũng là tự nhiên, là human nature.
 
 Ham muốn mới không bao giờ mới dứt, còn nhu cầu sau khi được đáp ứng xong sẽ tan biến. Tuy nhiên, điều đó đòi hỏi ta phải chống lại sự ham muốn, vốn là một điều không dễ chịu, và phải phân biệt được nhu cầu và ham muốn, vốn là một điều không dễ dàng, nhất là trong bối cảnh tư bản.
@@ -29,7 +30,8 @@ Nhưng lúc đó nhu cầu sẽ không còn nóng nữa,và sẽ thoải mái tr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9nVL9nSix1A?si=pzeRCuzpLOlajYiu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Các nhu cầu dùng năng lượng tiêu cực
+
+## Các nhu cầu dùng năng lượng tiêu cực. Nói về nhu cầu thì thấy mình nghèo. Nói về nguồn lực thì thấy mình giàu
 em nghĩ là khái niệm nào mình quan sát thấy là miêu tả đúng trạng thái nhu cầu của mình thì cứ dùng. Nếu nó tối thì cũng cần nhìn nhận là nó tối, chứ ko phải vì muốn sáng mà thay đổi nó đi. Chứ ai mà chả muốn sáng. Hơn nữa nhu cầu gốc rễ thì cũng là sáng rồi? 
 > Trò chuyện vui vẻ và sâu sắc với những người mình quan tâm
 
@@ -64,7 +66,7 @@ Khi lên kế hoạch thi sẽ không nhức đầu
 Thế nên mới cần có những người cùng hỗ trợ mình, vì khi được nói chuyện thì tự động mình sẽ có tâm trí
 
 ## Các vấn đề về tiền
-Với [Những thứ bắt buộc phải dùng tiền](Nh%E1%BB%AFng%20th%E1%BB%A9%20b%E1%BA%AFt%20bu%E1%BB%99c%20ph%E1%BA%A3i%20d%C3%B9ng%20ti%E1%BB%81n.md) thì cần xây dựng quỹ chung.
+Với [Các câu hỏi về tiền](C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20v%E1%BB%81%20ti%E1%BB%81n.md) thì cần xây dựng quỹ chung.
 
 ## Thấy các nhu cầu này chẳng có gì chung cả
 Chưa vét cạn nhu cầu và mạng lưới xã hội của mình
