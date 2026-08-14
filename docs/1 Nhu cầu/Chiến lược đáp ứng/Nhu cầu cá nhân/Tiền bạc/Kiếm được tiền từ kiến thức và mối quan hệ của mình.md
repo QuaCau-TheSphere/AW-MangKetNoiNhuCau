@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2026-01-04T13:06
-updated: 2026-04-21T20:44
+updated: 2026-08-14T16:43
 ---
 ## Những người đang có nhu cầu này
 - [Công việc đang làm](../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md)
-- [Kế hoạch](../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/K%E1%BA%BF%20ho%E1%BA%A1ch.md)
+- [Dự định, kế hoạch](../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/D%E1%BB%B1%20%C4%91%E1%BB%8Bnh,%20k%E1%BA%BF%20ho%E1%BA%A1ch.md)
 - [Nhu cầu](../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/Nhu%20c%E1%BA%A7u.md)
 
 
@@ -14,10 +14,12 @@ updated: 2026-04-21T20:44
 ## Giả thiết 
 
 ## Giải pháp gợi ý
+- [Gây quỹ](../../Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/K%E1%BA%BF%20to%C3%A1n/G%C3%A2y%20qu%E1%BB%B9.md)
 
 ## Nhu cầu liên quan
-- [Có công việc ổn định](./C%C3%B3%20c%C3%B4ng%20vi%E1%BB%87c%20%E1%BB%95n%20%C4%91%E1%BB%8Bnh.md)
+- [Gây quỹ](../../Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/K%E1%BA%BF%20to%C3%A1n/G%C3%A2y%20qu%E1%BB%B9.md)
 - [Độc lập tài chính](../../Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/K%E1%BA%BF%20to%C3%A1n/%C4%90%E1%BB%99c%20l%E1%BA%ADp%20t%C3%A0i%20ch%C3%ADnh.md)
+- [Có công việc ổn định](./C%C3%B3%20c%C3%B4ng%20vi%E1%BB%87c%20%E1%BB%95n%20%C4%91%E1%BB%8Bnh.md)
 
 
 ## Thảo luận khác
