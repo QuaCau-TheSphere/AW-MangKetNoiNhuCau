@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-06-26T21:36
-updated: 2026-06-28T11:40
+updated: 2026-07-26T16:30
 ---
 ## Giao diện khó sử dụng quá
 Làm app, cải thiện UX
