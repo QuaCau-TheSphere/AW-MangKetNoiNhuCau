@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-08-14T16:42
+updated: 2026-08-15T21:04
 share: true
 title: Nhu cầu của Nhật
 ---
@@ -16,11 +16,9 @@ Nhật vẽ ra [Quả Cầu](../../T%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3%20C%E1%
 - [Có cơ thể và tinh thần khoẻ mạnh](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/C%C3%B3%20c%C6%A1%20th%E1%BB%83%20v%C3%A0%20tinh%20th%E1%BA%A7n%20kho%E1%BA%BB%20m%E1%BA%A1nh.md)
 - [Tự do tài chính](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/T%E1%BB%B1%20do%20t%C3%A0i%20ch%C3%ADnh.md)
 
-Xem [Công việc đang làm](./C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md)
+Xem thêm:: [Công việc đang làm](./C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md)
 
 ## [🔥 Muốn có ngay nhưng đã phải dành sự tập trung cao nhất cho việc khác](../../../9%20T%C3%A0i%20li%E1%BB%87u/Ph%C3%A2n%20lo%E1%BA%A1i%20nhu%20c%E1%BA%A7u/%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/%F0%9F%94%A5%20Mu%E1%BB%91n%20c%C3%B3%20ngay%20nh%C6%B0ng%20%C4%91%C3%A3%20ph%E1%BA%A3i%20d%C3%A0nh%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20cao%20nh%E1%BA%A5t%20cho%20vi%E1%BB%87c%20kh%C3%A1c.md)
-Nhật luôn sẵn sàng để thảo luận về những chủ đề này, vì việc đó không cần suy nghĩ nhiều.
-
 ### [Không bị quá tải đầu óc](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/T%C3%A0i%20nguy%C3%AAn/Kh%C3%B4ng%20b%E1%BB%8B%20qu%C3%A1%20t%E1%BA%A3i%20%C4%91%E1%BA%A7u%20%C3%B3c.md)
 Những người muốn giao việc cho Nhật thảo luận về những người khác, hoặc nhìn vào bản nhu cầu này.
 
@@ -79,14 +77,19 @@ Thành quả mong muốn:
 - [Động vật không bị xích hoặc nhốt](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%99ng%20v%E1%BA%ADt%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%ADch%20ho%E1%BA%B7c%20nh%E1%BB%91t.md)
 
 ## [❄️ Thỉnh thoảng sẽ khó chịu vì không được đáp ứng](../../../9%20T%C3%A0i%20li%E1%BB%87u/Ph%C3%A2n%20lo%E1%BA%A1i%20nhu%20c%E1%BA%A7u/%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/%E2%9D%84%EF%B8%8F%20Th%E1%BB%89nh%20tho%E1%BA%A3ng%20s%E1%BA%BD%20kh%C3%B3%20ch%E1%BB%8Bu%20v%C3%AC%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng.md)
-### [Độc lập tài chính](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/K%E1%BA%BF%20to%C3%A1n/%C4%90%E1%BB%99c%20l%E1%BA%ADp%20t%C3%A0i%20ch%C3%ADnh.md)
+### [Độc lập tài chính](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/K%E1%BA%BF%20to%C3%A1n/%C4%90%E1%BB%99c%20l%E1%BA%ADp%20t%C3%A0i%20ch%C3%ADnh.md), [Tự do tài chính](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/T%E1%BB%B1%20do%20t%C3%A0i%20ch%C3%ADnh.md)
 [Kiếm được tiền từ kiến thức và mối quan hệ của mình](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Ki%E1%BA%BFm%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BB%81n%20t%E1%BB%AB%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20m%E1%BB%91i%20quan%20h%E1%BB%87%20c%E1%BB%A7a%20m%C3%ACnh.md)
 [Gây quỹ](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/K%E1%BA%BF%20to%C3%A1n/G%C3%A2y%20qu%E1%BB%B9.md)
+
+- [Xây dựng cộng đồng có chủ đích](../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/X%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch.md)
+- [Đóng góp tiền cho những dự án có ý nghĩa](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/%C4%90%C3%B3ng%20g%C3%B3p%20ti%E1%BB%81n%20cho%20nh%E1%BB%AFng%20d%E1%BB%B1%20%C3%A1n%20c%C3%B3%20%C3%BD%20ngh%C4%A9a.md)
+- [Được tạo điều kiện để có thể tiếp tục làm những gì mình đang làm trong trường hợp gia đình không nuôi nữa](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/T%C3%A0i%20nguy%C3%AAn/%C4%90%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n%20%C4%91%E1%BB%83%20c%C3%B3%20th%E1%BB%83%20ti%E1%BA%BFp%20t%E1%BB%A5c%20l%C3%A0m%20nh%E1%BB%AFng%20g%C3%AC%20m%C3%ACnh%20%C4%91ang%20l%C3%A0m%20trong%20tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p%20gia%20%C4%91%C3%ACnh%20kh%C3%B4ng%20nu%C3%B4i%20n%E1%BB%AFa.md)
 
 ### [Đi thiền](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/%C4%90i%20thi%E1%BB%81n.md)
 Lợi ích khác:
 - [hết đau tay](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/H%E1%BA%BFt%20%C4%91au%20tay%20m%C3%A0%20v%E1%BA%ABn%20c%C3%B3%20th%E1%BB%83%20ti%E1%BA%BFp%20t%E1%BB%A5c%20%C4%91%C3%A1nh%20m%C3%A1y.md)
 - Sửa laptop
+- [Thấy thong thả](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/T%C3%B2%20m%C3%B2,%20thong%20th%E1%BA%A3,%20kho%C3%A1ng%20%C4%91%E1%BA%A1t,%20bi%E1%BA%BFn%20h%C3%B3a/Th%E1%BA%A5y%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20ph%E1%BA%A3i%20g%E1%BA%A5p%20g%C3%A1p%20c%E1%BA%A3.md)
 
 Có lẽ nếu đổi sang cái điện thoại khác nhẹ hơn thì sẽ hết. Vì trước giờ không vấn đề gì, chỉ tới khi dùng điện thoại này thì mới bắt đầu đau
 
@@ -97,23 +100,17 @@ Có lẽ nếu đổi sang cái điện thoại khác nhẹ hơn thì sẽ hết
 
 [Thử nghiệm những điều không ai tin là có thể làm được](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%BA%20vui/H%E1%BB%8Dc%20h%E1%BB%8Fi,%20tr%E1%BA%A3i%20nghi%E1%BB%87m/Th%E1%BB%AD%20nghi%E1%BB%87m%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20kh%C3%B4ng%20ai%20tin%20l%C3%A0%20c%C3%B3%20th%E1%BB%83%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c.md): [Xóa bỏ sự mỉa mai, thù ghét, bắt nạt](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Tr%C3%A2n%20tr%E1%BB%8Dng%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/X%C3%B3a%20b%E1%BB%8F%20s%E1%BB%B1%20m%E1%BB%89a%20mai,%20th%C3%B9%20gh%C3%A9t,%20b%E1%BA%AFt%20n%E1%BA%A1t.md), [Công bố lý thuyết mới](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/C%C3%B4ng%20b%E1%BB%91%20l%C3%BD%20thuy%E1%BA%BFt%20m%E1%BB%9Bi.md)
 
-[Không phải làm những việc lặt vặt](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0m%20nh%E1%BB%AFng%20vi%E1%BB%87c%20l%E1%BA%B7t%20v%E1%BA%B7t.md):
+### [Không phải làm những việc lặt vặt](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0m%20nh%E1%BB%AFng%20vi%E1%BB%87c%20l%E1%BA%B7t%20v%E1%BA%B7t.md)
 - [Có người bôi thuốc hoặc đưa thuốc cho mình uống giùm](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20b%C3%B4i%20thu%E1%BB%91c%20ho%E1%BA%B7c%20%C4%91%C6%B0a%20thu%E1%BB%91c%20cho%20m%C3%ACnh%20u%E1%BB%91ng%20gi%C3%B9m.md)
 - [Có người nấu ăn, dọn nhà giùm](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20n%E1%BA%A5u%20%C4%83n,%20d%E1%BB%8Dn%20nh%C3%A0%20gi%C3%B9m.md)
 
-[Tự do tài chính](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/T%E1%BB%B1%20do%20t%C3%A0i%20ch%C3%ADnh.md):
-- [Xây dựng cộng đồng có chủ đích](../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/X%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch.md)
-- [Đóng góp tiền cho những dự án có ý nghĩa](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/%C4%90%C3%B3ng%20g%C3%B3p%20ti%E1%BB%81n%20cho%20nh%E1%BB%AFng%20d%E1%BB%B1%20%C3%A1n%20c%C3%B3%20%C3%BD%20ngh%C4%A9a.md)
-- [Được tạo điều kiện để có thể tiếp tục làm những gì mình đang làm trong trường hợp gia đình không nuôi nữa](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/T%C3%A0i%20nguy%C3%AAn/%C4%90%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n%20%C4%91%E1%BB%83%20c%C3%B3%20th%E1%BB%83%20ti%E1%BA%BFp%20t%E1%BB%A5c%20l%C3%A0m%20nh%E1%BB%AFng%20g%C3%AC%20m%C3%ACnh%20%C4%91ang%20l%C3%A0m%20trong%20tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p%20gia%20%C4%91%C3%ACnh%20kh%C3%B4ng%20nu%C3%B4i%20n%E1%BB%AFa.md)
-
-[Sức khỏe](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/index.md):
-- [Có cơ thể và tinh thần khoẻ mạnh](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/C%C3%B3%20c%C6%A1%20th%E1%BB%83%20v%C3%A0%20tinh%20th%E1%BA%A7n%20kho%E1%BA%BB%20m%E1%BA%A1nh.md)
+### [Có cơ thể và tinh thần khoẻ mạnh](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/C%C3%B3%20c%C6%A1%20th%E1%BB%83%20v%C3%A0%20tinh%20th%E1%BA%A7n%20kho%E1%BA%BB%20m%E1%BA%A1nh.md)
+- [Thấy thong thả](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/T%C3%B2%20m%C3%B2,%20thong%20th%E1%BA%A3,%20kho%C3%A1ng%20%C4%91%E1%BA%A1t,%20bi%E1%BA%BFn%20h%C3%B3a/Th%E1%BA%A5y%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20ph%E1%BA%A3i%20g%E1%BA%A5p%20g%C3%A1p%20c%E1%BA%A3.md)
 - [Có người dạy về công thái học](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20d%E1%BA%A1y%20v%E1%BB%81%20c%C3%B4ng%20th%C3%A1i%20h%E1%BB%8Dc.md)
 - [hết đau tay](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/H%E1%BA%BFt%20%C4%91au%20tay%20m%C3%A0%20v%E1%BA%ABn%20c%C3%B3%20th%E1%BB%83%20ti%E1%BA%BFp%20t%E1%BB%A5c%20%C4%91%C3%A1nh%20m%C3%A1y.md)
 - [Có người bôi thuốc hoặc đưa thuốc cho mình uống giùm](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20b%C3%B4i%20thu%E1%BB%91c%20ho%E1%BA%B7c%20%C4%91%C6%B0a%20thu%E1%BB%91c%20cho%20m%C3%ACnh%20u%E1%BB%91ng%20gi%C3%B9m.md)
 - [Hết loét dạ dày](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/H%E1%BA%BFt%20lo%C3%A9t%20d%E1%BA%A1%20d%C3%A0y.md)
 
-[Thấy thong thả](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/T%C3%B2%20m%C3%B2,%20thong%20th%E1%BA%A3,%20kho%C3%A1ng%20%C4%91%E1%BA%A1t,%20bi%E1%BA%BFn%20h%C3%B3a/Th%E1%BA%A5y%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20ph%E1%BA%A3i%20g%E1%BA%A5p%20g%C3%A1p%20c%E1%BA%A3.md)
 
 ## Nhu cầu của những người xung quanh
 | Cá nhân | Nhu cầu                                                                                                                                                  | Đóng góp |
