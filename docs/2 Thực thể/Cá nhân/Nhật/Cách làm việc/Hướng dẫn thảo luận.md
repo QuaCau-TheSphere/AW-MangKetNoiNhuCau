@@ -1,12 +1,15 @@
 ---
 share: true
 created: 2026-05-25T14:14
-updated: 2026-08-14T16:38
+updated: 2026-08-14T20:52
 title: Hướng dẫn thảo luận với Nhật
 ---
 ## Chat
 Nhật muốn hạn chế dùng Zalo, Messenger
 Nếu bạn thấy cuộc thảo luận không có vấn đề gì mà không có người khác, có thể vào Discord 
+
+Nếu bạn có thể local-first thì càng tốt
+Tự trị dữ liệu
 ## Trò chuyện trực tiếp
 Nhật ưu tiên gặp mặt trực tiếp hơn vì:
 - Không phải lo xử lý hoặc chịu đựng các vấn đề máy móc (mạng chậm, mic vọng, cam hư, loa nhỏ, máy đơ, thiếu tai nghe hoặc tai nghe làm đau tai, tài khoản miễn phí bị giới hạn thời gian sử dụng, v.v.). Xem thêm: [Các vấn đề ở laptop của Nhật](../Ngu%E1%BB%93n%20l%E1%BB%B1c/C%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20%E1%BB%9F%20laptop%20c%E1%BB%A7a%20Nh%E1%BA%ADt.md)
