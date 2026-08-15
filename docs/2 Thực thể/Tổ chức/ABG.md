@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-28T11:35
-updated: 2026-07-18T13:54
+updated: 2026-08-15T20:33
 ---
 Bảo trợ tại trung tâm hợp tác trí tuệ việt nam
 Vườn ươm xy. Được chuyển giao 2000 hồ sơ từ sharktank
@@ -9,6 +9,14 @@ Mở những buổi giảng, dịch chuyển sang kết nối
 - Những buổi truyền cảm hứng
 - Những buổi tư vấn, mentor
 - Bảo vệ
+
+ABG Alumni
+- Hát với nhau
+- Thể thao: pickleball, bóng bàn
+- Offline talk, trip
+- Online talk
+- Mentor tuyển dụng
+- Kết nối sự kiện
 
 Qua buổi khai vấn mới đây của anh Bình ở TP.HCM, em thấy đa phần người tham gia đều xoay quanh câu hỏi 
 - Em nên làm gì?
