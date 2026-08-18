@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-28T11:35
-updated: 2026-08-15T20:33
+updated: 2026-08-16T14:02
 ---
 Bảo trợ tại trung tâm hợp tác trí tuệ việt nam
 Vườn ươm xy. Được chuyển giao 2000 hồ sơ từ sharktank
@@ -67,3 +67,10 @@ Hiểu được những kế hoạch tiếp theo của anh Bình/ABG. Có thêm 
 
 
 Thời gian chuẩn bị cho mẫu đăng ký thứ 2 khá gấp. Ngoài ra cũng có thể gửi đề án của mọi người cho nhau để hiểu  về nhau, hơn là chỉ gửi cho anh Bình
+
+
+Tốt: giúp kết nối mọi người lại với nhau
+
+Chưa tốt: 
+- Việc kết nối không đạt tới sự hiệu quả về nguồn lực mà nó có thể đạt được. Theo mình thì trước khi sự kiện diễn ra có thể chia sẻ nguồn lực, nhu cầu của nhau. Cái website của ABG Alumni có cố gắng để làm điều đó, nhưng cách phân loại dữ liệu của chúng đơn giản và cứng nhắc. Nó cô lập với các hệ thống khác và với hệ thống quản lý của mỗi người. Tuy nó có chức năng chỉnh sửa cơ bản, nó không được thiết kế với tư duy sẵn sàng cho sự đa dạng và thay đổi vượt ra khỏi mọi sự phân loại.
+- Khi mình đưa ra một ý tưởng thì được hướng dẫn là đăng lên trên trang ABG Alumni. Nhưng đó là một ý tưởng để thảo luận, chưa tới mức là một hoạt động muốn rủ mọi người cùng tham gia. Phát triển nó thành một hoạt động cũng được, nhưng nó đòi hỏi phải suy nghĩ thêm, mà lúc đó mình chưa sẵn sàng cho việc đó
