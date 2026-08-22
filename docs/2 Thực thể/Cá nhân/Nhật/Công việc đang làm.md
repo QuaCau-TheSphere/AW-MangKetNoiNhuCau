@@ -1,21 +1,14 @@
 ---
 share: true
 created: 2026-05-13T21:53
-updated: 2026-08-14T16:40
+updated: 2026-08-22T15:28
 ---
 ![](https://images.prismic.io/sketchplanations/Z2QwVpbqstJ98rsf_SP904-The3BricklayersParable.png?auto=format%2Ccompress&fit=max&w=1920)
 
-Ở đây sẽ nói về mục tiêu (goal). Để biết về tầm nhìn, đọc [Nhu cầu của Nhật](./Nhu%20c%E1%BA%A7u.md). Để biết về tác vụ, đọc [Mục lục về Nhật](./index.md)
+Trang này sẽ nói về mục tiêu (goal) đang làm. Để biết về các điều tính làm, xem [Công việc dự định sẽ làm hoặc hoàn thành nốt](./C%C3%B4ng%20vi%E1%BB%87c%20d%E1%BB%B1%20%C4%91%E1%BB%8Bnh%20s%E1%BA%BD%20l%C3%A0m%20ho%E1%BA%B7c%20ho%C3%A0n%20th%C3%A0nh%20n%E1%BB%91t.md). Để biết về tầm nhìn, đọc [Nhu cầu của Nhật](./Nhu%20c%E1%BA%A7u.md). Để biết về tác vụ cụ thể, đọc [Mục lục về Nhật](./index.md)
 
-Trang này không phải lúc nào cũng cập nhật, mà chỉ cập nhật khi có nhu cầu. [Dự định, kế hoạch](./D%E1%BB%B1%20%C4%91%E1%BB%8Bnh,%20k%E1%BA%BF%20ho%E1%BA%A1ch.md)
+Không phải lúc nào trang này cũng cập nhật. Nó chỉ được cập nhật khi cần được cập nhật.
 
-## Hoàn thiện nghiên cứu: "Người làm dữ liệu nói gì về sự thiếu sót của dữ liệu?"
-
-[Lý do làm nghiên cứu](./C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/L%C3%BD%20do%20l%C3%A0m%20nghi%C3%AAn%20c%E1%BB%A9u.md)
-
-Mình đã tìm hiểu sơ bộ để hiểu được các phê bình về dữ liệu thường gặp (https://issues.org/limits-of-data-nguyen/), cũng như hiểu cách mà các ngành như toán học, vật lý, y học, khoa học dữ liệu sử dụng dữ liệu thế nào, từ đó có thể đoán được những người làm trong ngành này sẽ phản hồi thế nào về các phê bình này. Tuy nhiên mình cảm thấy nếu không có góc nhìn hiện tượng học thì sẽ còn thiếu sót, dù chưa thể đưa ra được một lý do rõ ràng do chưa có dịp tìm hiểu. Có lẽ chủ đề nào của khóa học mình cũng đều hứng thú cả, nhưng có 2 chủ đề mình thấy có liên hệ với nghiên cứu của mình rõ ràng nên nêu ra ở đây:
-- Husserl trước đây cũng là nhà toán học. Vậy hiện tượng học có mối liên hệ thế nào với toán học?
-- Hiện tượng học với nhận thức luận (epistemology) có mối liên hệ thế nào
 
 ## Giúp bạn bè [Thoát khỏi vòng xoáy nợ nần](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/C%E1%BA%AFt%20n%E1%BB%A3/Tho%C3%A1t%20kh%E1%BB%8Fi%20v%C3%B2ng%20xo%C3%A1y%20n%E1%BB%A3%20n%E1%BA%A7n.md)
 Vốn dĩ nhu cầu này đến từ nhu cầu [Giúp những người xung quanh thoát khỏi căng thẳng](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20kh%E1%BB%8Fi%20c%C4%83ng%20th%E1%BA%B3ng.md), để họ [được sống cuộc sống thú vị và ý nghĩa](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%A1i%20%C4%91%E1%BB%99%20s%E1%BB%91ng/%C4%90%C6%B0%E1%BB%A3c%20s%E1%BB%91ng%20cu%E1%BB%99c%20s%E1%BB%91ng%20th%C3%BA%20v%E1%BB%8B%20v%C3%A0%20%C3%BD%20ngh%C4%A9a.md). Giải pháp gốc rễ, lâu dài thì cần: 
