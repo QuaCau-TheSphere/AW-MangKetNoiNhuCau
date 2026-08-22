@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-09T13:48
-updated: 2026-08-12T10:09
+updated: 2026-08-20T23:37
 title: CV của Lý Minh Nhật
 description: Kinh nghiệm làm việc trong công ty. Kỹ năng. Dự án, sản phẩm. Buổi nói chuyện. Cộng tác. Giáo dục chính quy. Kiến thức tự học. Các khoá học, tập huấn đã tham gia.
 ---
@@ -109,7 +109,7 @@ Danh mục được lấy từ [Outline of academic disciplines - Wikipedia](htt
 
 ### Khoa học tự nhiên và khoa học hình thức
 - **Toán:** hình học xạ ảnh, nhóm và biểu diễn, hệ phức tạp và động, giải tích hàm điều hòa, giải tích phức, lý thuyết đồ thị, lịch sử toán, lý thuyết thông tin, đại số kế toán, lý thuyết đo
-- **Khoa học máy tính:** kỹ thuật phần mềm, lập trình hướng đối tượng, xử lý ngôn ngữ tự nhiên, nhân văn số, khoa học dữ liệu, mạng, mật mã học, xử lý hình ảnh, trực quan hóa thông tin, cơ sở dữ liệu, khoa học tính toán, giải tích số, tin sinh học, điện toán lượng tử, bảo mật thông tin
+- **Khoa học máy tính:** kỹ thuật phần mềm, lập trình hướng đối tượng, xử lý ngôn ngữ tự nhiên, nhân văn số, khoa học dữ liệu, mạng, mật mã học, xử lý hình ảnh, trực quan hóa thông tin, cơ sở dữ liệu, khoa học tính toán, giải tích số, tin sinh học, điện toán lượng tử, bảo mật thông tin, tự trị dữ liệu
 
 ### Khoa học ứng dụng
 - **Kiến trúc và thiết kế:** nhận thức tăng cường, thiết kế đồ họa, công thái học, trải nghiệm người dùng
