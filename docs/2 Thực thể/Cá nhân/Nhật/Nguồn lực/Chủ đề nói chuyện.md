@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-03T16:30
-updated: 2026-08-14T16:40
+updated: 2026-08-22T12:55
 title: Những chủ đề Nhật chia sẻ được
 ---
 Dưới đây là các chủ đề Nhật cảm thấy có thể mở một buổi nói chuyện. Nhật cảm thấy như vậy là vì các chủ đề này Nhật muốn chia sẻ cho mọi người và đã có một thời gian nhất định để khảo sát một cách có hệ thống, nên có thể trình bày một cách tương đối mạch lạc và lường trước được đa số các câu hỏi từ người nghe.
@@ -98,8 +98,10 @@ Những mô hình này đặt lại câu hỏi cốt lõi:
 
 Buổi nói chuyện này mời gọi chúng ta nhìn về các giải pháp thay thế đó như là cách để tưởng tượng khác về kinh tế, gần hơn với đời sống, cộng đồng và giới hạn sinh thái mà chúng ta đang đối mặt.
 
-### Chương trình kế toán văn bản thuần
-Khi cần ghi chép chi tiết các giao dịch, các chương trình như MoneyLover hay Excel thường cứng nhắc trong việc thiết lập danh mục tài khoản, tách giao dịch hay sử dụng bút toán kép, không có các báo cáo nâng cao cũng như kết hợp dữ liệu với các chương trình khác được. Các chương trình kế toán văn bản thuần (plain-text accounting) sẽ giải quyết được chuyện đó.
+### Chương trình kế toán định dạng đơn giản
+Khi cần ghi chép chi tiết các giao dịch, các chương trình như MoneyLover hay Excel thường cứng nhắc trong việc thiết lập danh mục tài khoản, tách giao dịch hay sử dụng bút toán kép, không có các báo cáo nâng cao cũng như kết hợp dữ liệu với các chương trình khác được. Các chương trình kế toán định dạng đơn giản (plain-text accounting) sẽ giải quyết được chuyện đó.
+
+### Toán học kế toán
 
 ## C. Quản lý dự án và công cụ nghĩ
 ### Xóa mù công nghệ: Làm sao để làm chủ máy tính, làm chủ dữ liệu?
