@@ -1,10 +1,12 @@
 ---
 share: true
 created: 2026-02-28T11:35
-updated: 2026-08-16T14:02
+updated: 2026-08-23T16:12
+title: ABG
 ---
 Bảo trợ tại trung tâm hợp tác trí tuệ việt nam
-Vườn ươm xy. Được chuyển giao 2000 hồ sơ từ sharktank
+Vườn ươm xyz. Được chuyển giao 2000 hồ sơ từ sharktank
+"Chúng tôi đầu tư vào người sáng lập, không phải ý tưởng" 
 Mở những buổi giảng, dịch chuyển sang kết nối
 - Những buổi truyền cảm hứng
 - Những buổi tư vấn, mentor

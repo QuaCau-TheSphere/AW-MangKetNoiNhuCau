@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-12T12:21
-updated: 2026-02-21T14:42
+updated: 2026-08-23T23:31
 ---
 ## Giả định về nhu cầu người muốn kết nối
 - Có những nhu cầu không được đáp ứng tốt vì:
