@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-03T16:30
-updated: 2026-08-22T12:55
+updated: 2026-08-31T20:13
 title: Những chủ đề Nhật chia sẻ được
 ---
 Dưới đây là các chủ đề Nhật cảm thấy có thể mở một buổi nói chuyện. Nhật cảm thấy như vậy là vì các chủ đề này Nhật muốn chia sẻ cho mọi người và đã có một thời gian nhất định để khảo sát một cách có hệ thống, nên có thể trình bày một cách tương đối mạch lạc và lường trước được đa số các câu hỏi từ người nghe.
@@ -10,6 +10,7 @@ Các chủ đề được chia thành 4 nhóm:
 - Xây dựng mạng lưới, hệ sinh thái
 - Kiếm tiền
 - Quản lý dự án và công cụ nghĩ
+- Niềm tin và đối thoại
 - Kiến thức liên ngành
 
 Các chủ đề trong 3 nhóm đầu có thể nói độc thoại trong khoảng 15-30 phút. Phần lớn các chủ đề ở đây đã có bài viết và có thể nói được ngay. Nếu người tham gia đọc trước bài viết thì không cần vào nghe. Dĩ nhiên nếu nghe thêm thì não sẽ có thêm cơ hội để liên kết ý tưởng và nảy ra câu hỏi đào sâu hơn. Nhưng cũng có một số chủ đề chưa có bài viết. Do vậy, hình thức chia sẻ  tiện cho Nhật nhất là các việc người tham gia đặt các câu hỏi.
@@ -79,7 +80,7 @@ Ai cũng biết giải pháp cho chuyện này là góp gió thành bão, nhiề
 Song song với việc xây dựng các hình thức kinh tế thay thế phi tư bản, một giải pháp cho tình trạng này là thành lập một quỹ vi mô với mục đích giúp đỡ nhau hơn là kiếm tiền, nhưng vẫn đem lại lợi ích hợp lý cho người cho vay. Nếu bạn đã từng cho bạn bè mình mượn tiền và muốn chuyện này được giải quyết triệt để hơn, bạn có thể cân nhắc tham gia quỹ.
 
 ### Tôi đi làm nhân viên đòi nợ
-3 tháng đầu năm 2025 tôi làm nhân viên xử lý thực địa cho FE Credit ở Bình Dương. Nói thẳng ra là tôi được trả tiền để đi đòi nợ. Nhưng tôi làm không vì tiền, mà là vì bạn bè và trải nghiệm. Bạn của tôi cần gì mà lại cần tôi làm công việc này? Và tôi đã có những trải nghiệm gì?
+3 tháng đầu năm 2025 tôi làm nhân viên xử lý thực địa cho FE Credit ở Bình Dương. Nói thẳng ra là tôi được trả tiền để đi đòi nợ. Nhưng tôi làm không vì tiền, mà là vì bạn bè và vì trải nghiệm. Bạn của tôi cần gì mà lại cần tôi làm công việc này? Và tôi đã có những trải nghiệm gì?
 
 ### Các hình thức tài chính thay thế, kinh tế thay thế
 Khi nói đến tài chính và kinh tế, chúng ta thường mặc định đó là những gì thuộc về ngân hàng, thị trường vốn, tín dụng và đầu tư. Trên thực tế, hệ thống tài chính chủ lưu mà chúng ta đang sống cùng được thiết kế chủ yếu để phục vụ cho tư bản, với mục tiêu trung tâm là tối đa hoá lợi nhuận.
@@ -101,9 +102,16 @@ Buổi nói chuyện này mời gọi chúng ta nhìn về các giải pháp tha
 ### Chương trình kế toán định dạng đơn giản
 Khi cần ghi chép chi tiết các giao dịch, các chương trình như MoneyLover hay Excel thường cứng nhắc trong việc thiết lập danh mục tài khoản, tách giao dịch hay sử dụng bút toán kép, không có các báo cáo nâng cao cũng như kết hợp dữ liệu với các chương trình khác được. Các chương trình kế toán định dạng đơn giản (plain-text accounting) sẽ giải quyết được chuyện đó.
 
-### Toán học kế toán
+### Bản chất toán học của kế toán
 
 ## C. Quản lý dự án và công cụ nghĩ
+### Công cụ nghĩ
+Obsidian là một phần mềm ghi chú mới xuất hiện từ năm 2020. Điểm khác biệt của nó với Word hoặc Google Docs là khả năng liên kết các ghi chú lại như Wikipedia mà không bị ràng buộc bởi việc nên phân loại theo thư mục nào. Điểm khác biệt của nó với Notion hoặc Google Docs là nó lưu dữ liệu trên máy bạn chứ không lưu trên máy chủ, khiến cho bạn có sự tự chủ và tự do tuyệt đối với dữ liệu của mình.  
+
+Bất cứ ai trong chúng ta đều có những nhu cầu cần được đáp ứng. Những nhu cầu này chảy qua cơ thể chúng ta, tạo ra những dự định về tương lai trong tâm trí của chúng ta. Khi một dự định trở nên đủ lớn, nó sẽ trở thành một dự án. Khi một dự án trở nên đủ phức tạp, bạn cần những công cụ giúp bạn điều chỉnh kế hoạch theo sự biến động của môi trường cũng như kết nối các nguồn lực mà không tốn quá nhiều năng lượng. Những công cụ cho bạn sự tự chủ và tự do với dữ liệu của mình, không giam hãm thông tin trong những ốc đảo nào sẽ giúp bạn làm được điều đó.
+  
+Vào khoảnh khắc bạn nhận ra được rằng bạn có thể sử dụng một công cụ nào đó để đạt được một mục tiêu nào đó, bạn đã không còn là chính mình như trước nữa. Lấy những dụng cụ quang học làm ví dụ. Một cái kính lúp sẽ phóng to những chi tiết nhỏ, và một cái kính cận sẽ làm sắc nét những thứ nhoè nhoẹt. Nhưng chúng không chỉ giúp bạn thấy rõ những thứ khó thấy, chúng còn có thể giúp bạn thấy được những điều bất khả thấy. Một chiếc kính viễn vọng sẽ giúp bạn thấy được số vệ tinh của hành tinh Thổ, và một chiếc kính hồng ngoại sẽ giúp bạn thấy được những chuyển động trong đêm. Nhưng nếu ta không lấy làm bất ngờ gì lắm khi nghe tới những loại ánh sáng mắt không thế nhìn ra, thì tại sao ta lại bất ngờ khi biết rằng có những loại suy nghĩ não không thể nghĩ tới? Dù sao thì, cả mắt và cả não đều bị giới hạn trong cái cấu trúc sinh học của nó. Và cũng giống như những công cụ nhìn kia giúp ta nhìn thấy được những thứ khó nhìn và bất khả nhìn, thì với những công cụ nghĩ ta có thể nghĩ tới những suy nghĩ khó nghĩ và bất khả nghĩ.
+
 ### Xóa mù công nghệ: Làm sao để làm chủ máy tính, làm chủ dữ liệu?
 Chúng ta hay nghe báo đài, mạng xã hội nói nhiều về "chuyển đổi số", "công dân số", "trí tuệ nhân tạo", "cách mạng 4.0", "máy tính lượng tử", v.v. Nhưng sau những lần tham dự các tập huấn về các chủ đề đó, bạn đã thấy những vật lộn của mình với máy tính đã bớt đi được bao nhiêu? Hay tất cả những gì bạn được giới thiệu là lại một app mới, vốn sau một thời gian sử dụng lại thấy nó có đủ vấn đề, còn niềm tin rằng mình là người dốt công nghệ vẫn còn ở đó?
 
@@ -130,10 +138,13 @@ Word không thể hiện được tính liên văn bản
 ### Tự làm website cá nhân
 Nếu bạn chỉ cần một nơi lưu lại những gì mình ghi viết bài chia sẻ cho mọi người đọc, các mạng xã hội như Facebook là đủ. Nếu như Facebook đại trà quá và bạn muốn tạo một thương hiệu rõ hơn, Substack, Medium, Spiderum, LinkedIn Page, Notion sẽ là những trang sẽ cho khách ghé thăm ấn tượng sơ về phong cách và nội dung của bạn. Nếu bạn muốn tạo một góc thầm lặng, không quá xô bồ, hoặc ngược lại muốn xây dựng một không gian làm cho khách ghé thăm phải cảm thấy ấn tượng, trầm trồ với giao diện độc đáo, thì Weebly, Wix, Squarespace, Shopify, Blogger, Webflow, WordPress.com sẽ giúp bạn đạt được điều đó. Chỉ khi nào bạn muốn có sự kiểm soát tối đa toàn bộ trang web của bạn với chi phí thấp, thì lúc đó bạn mới cần có một website riêng.
 
-## G. Kiến thức liên ngành
+## F. Niềm tin và đối thoại
 ### Sự bất lực học được
-### Người làm dữ liệu đối diện với sự thiếu sót của dữ liệu thế nào?
 ### Động học niềm tin
+### Thao túng
+
+## G. Kiến thức liên ngành
+### Người làm dữ liệu đối diện với sự thiếu sót của dữ liệu thế nào?
 ### Vũ trụ trong con mắt vật lý là gì?
 Trước hết, mình muốn có một sự soi xét với các sách vật lý viết cho độc giả phổ thông. Mình không phủ nhận kiến thức chúng trình bày là chính xác, và đã miêu tả được vẻ đẹp của vật lý. Nhưng chúng vô tình khiến cho những ai khi nói đến vật lý sẽ nhớ đến các khái niệm như "thuyết tương đối", "lực hấp dẫn", "không thời gian", "hố đen", "cơ học lượng tử", "nguyên lý bất định", "hiệu ứng cánh bướm", v.v. Chúng vốn là các thành tựu của vật lý thế kỷ 20, nhưng khi quá tập trung vào những chủ đề này, thì những gì cốt lõi của vật lý đã bị bỏ quên. Bản thân mình cũng nghĩ nhiều nhà vật lý cũng không để ý đến điều này. Theo mình nghĩ, nếu phải miêu tả thế giới vật lý trong hai từ, thì đó sẽ là tính đối xứng và dao động tuần hoàn.
 
@@ -145,5 +156,3 @@ Tiêu đề phụ:
 
 ### Vũ trụ đã tạo ra sự sống và nhận thức thế nào?
 ### Lý thuyết về góc nhìn
-
-
