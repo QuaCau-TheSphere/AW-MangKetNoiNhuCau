@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-17T18:21
-updated: 2026-08-23T23:31
+updated: 2026-08-28T13:27
 ---
 ## Mục tiêu nghiên cứu
 - Kiểm định các [Các giả định](./C%C3%A1c%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh.md) 
