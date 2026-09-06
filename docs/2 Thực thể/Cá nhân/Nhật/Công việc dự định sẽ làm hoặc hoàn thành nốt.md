@@ -1,14 +1,16 @@
 ---
 share: true
 created: 2026-06-26T11:47
-updated: 2026-08-24T14:16
+updated: 2026-09-05T22:55
 ---
 Trang này sẽ nói về mục tiêu (goal) dự định sẽ làm, hoặc đang làm dở nhưng phải bỏ giữa chừng và vẫn còn muốn hoàn thành. Để biết về các điều đang làm, xem [Công việc đang làm](./C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md). Để biết về tầm nhìn, đọc [Nhu cầu của Nhật](./Nhu%20c%E1%BA%A7u.md). Để biết về tác vụ cụ thể, đọc [Mục lục về Nhật](./index.md)
 
 Không phải lúc nào trang này cũng cập nhật. Nó chỉ được cập nhật khi cần được cập nhật.
 
+## Ξ. Cập nhật lại toàn bộ mục tiêu
+
 ## A. Xây dựng mạng lưới, hệ sinh thái
-### [Ban điều hành mới](../../T%E1%BB%95%20ch%E1%BB%A9c/ABG/Ban%20%C4%91i%E1%BB%81u%20h%C3%A0nh%20m%E1%BB%9Bi.md)
+### [Ban điều hành mới](Ban%20%C4%91i%E1%BB%81u%20h%C3%A0nh%20m%E1%BB%9Bi.md)
 ### mentor
 ### [Các tên gọi cho nơi này](../../../9%20T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20t%C3%AAn%20g%E1%BB%8Di%20cho%20n%C6%A1i%20n%C3%A0y.md)
 ### PTA với graph language

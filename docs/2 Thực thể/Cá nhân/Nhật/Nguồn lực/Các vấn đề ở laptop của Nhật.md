@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-07-23T14:52
-updated: 2026-09-03T14:02
+updated: 2026-09-05T21:22
 ---
 Các vấn đề ở đây là một phần lý do khiến Nhật muốn [ưu tiên gặp mặt trực tiếp hơn là qua mạng](../C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20th%E1%BA%A3o%20lu%E1%BA%ADn.md#Trò%20chuyện%20trực%20tiếp).
 
@@ -18,3 +18,11 @@ Các vấn đề ở đây là một phần lý do khiến Nhật muốn [ưu ti
 | Chạy nặng thỉnh thoảng tự động khởi động lại  | Nhiều chương trình dùng Electron quá                                                                                   | Đang dùng Zoom thì bị khởi động lại                                                                                     | Khi dùng Zoom thì tắt hết các chương trình khác                 |                |
 | Chuột bay không dùng được                     | Hồi trước vẫn xài được bình thường. Bỗng một hôm tự nhiên không chạy được                                              |                                                                                                                         | Chịu                                                            |                |
 | Pin chỉ sạc được tới 50% là dừng              | Liệt do thấm nước. Không biết là lỗi chip nhận diện pin thôi hay là chết hết nửa pin luôn                              |                                                                                                                         | Kệ. Đằng nào thì cũng cần cắm điện thường xuyên                 |                |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=OvaNilC6M-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Operating System: Windows 11 Home Single Language 64-bit (10.0, Build 26200) (26100.ge_release.240331-1435)
+- Processor: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz (8 CPUs), ~2.1GHz
+- Memory: 8192MB RAM
+- Available OS Memory: 8026MB RAM
+- BIOS: ERCN27WW (type: UEFI)
