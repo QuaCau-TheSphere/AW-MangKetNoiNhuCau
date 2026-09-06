@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-28T11:35
-updated: 2026-08-23T16:12
+updated: 2026-09-03T15:27
 title: ABG
 ---
 Bảo trợ tại trung tâm hợp tác trí tuệ việt nam
@@ -20,17 +20,17 @@ ABG Alumni
 - Mentor tuyển dụng
 - Kết nối sự kiện
 
-Qua buổi khai vấn mới đây của anh Bình ở TP.HCM, em thấy đa phần người tham gia đều xoay quanh câu hỏi 
+Trong một buổi khai vấn gần đây của anh Bình ở TP.HCM, em thấy đa phần người tham gia đều xoay quanh các câu hỏi sau:
 - Em nên làm gì?
 - Em phải bắt đầu từ đâu?
 - Em phải dùng quy trình, công cụ nào?
 - Em phải tìm nguồn lực em cần ở đâu?
 
-Theo như em nhớ, thì câu trả lời chung cho hai câu đầu đều là về làm lại đề án cho kỹ. Không có đề án thì muốn giúp cũng không được. Còn với hai câu sau, thì nó tùy thuộc vào lĩnh vực cụ thể đang được bàn, và cũng không nằm trong chuyên môn của anh Bình. Thứ anh có thể cho là những mối quan hệ anh có mà có thể giúp ích được cho họ.
+Theo như quan sát của em thì câu trả lời chung cho hai câu đầu đều là về làm lại đề án cho kỹ. Không có đề án thì muốn giúp cũng không được. Còn với hai câu sau, thì nó tùy thuộc vào lĩnh vực cụ thể đang được bàn, và cũng không nằm trong chuyên môn của anh Bình. Thứ anh có thể cho là những mối quan hệ anh có mà có thể giúp ích được cho họ.
 
-Em thấy các buổi khai vấn này có thể làm tốt hơn, để tránh tình trạng mọi người quá phụ thuộc vào anh, và để có thể đưa tài nguyên tốt nhất cho nhu cầu của người cần khai vấn một cách nhanh nhất. Em nghĩ nếu có thể biến buổi khai vấn nhóm của anh thành nơi mọi người hỗ trợ lẫn nhau thì sẽ tốt hơn. Để hiệu quả hơn về mặt thời gian thì người tham gia nên viết sẵn đề án của mình, đồng thời liệt kê các nhu cầu khác mình cần được đáp ứng, cũng như các nguồn lực họ có thể chia sẻ. Họ có thể gửi trước cho nhau hoặc đến buổi đó thì cùng chia sẻ. 
+Em thấy các buổi khai vấn này có thể làm tốt hơn, để tránh tình trạng mọi người quá phụ thuộc vào người khai vấn, và để có thể đưa tài nguyên tốt nhất cho nhu cầu của người cần khai vấn một cách nhanh nhất. Em nghĩ nếu có thể biến buổi khai vấn nhóm thành nơi mọi người hỗ trợ lẫn nhau thì sẽ tốt hơn. Để hiệu quả hơn về mặt thời gian thì người tham gia nên viết sẵn đề án của mình, đồng thời liệt kê các nhu cầu khác mình cần được đáp ứng, cũng như các nguồn lực họ có thể chia sẻ. Họ có thể gửi trước cho nhau hoặc đến buổi đó thì cùng chia sẻ. Sau buổi đó thì tổng hợp các đề án như vậy vào một nơi để những người khác cũng có thể đóng góp.
 
-Em muốn được nghe ý kiến của chị về ý tưởng này, cũng như biết thêm về các nhu cầu và nguồn lực khác chị có thể chia sẻ.
+Em muốn được nghe ý kiến của anh/chị về ý tưởng này, cũng như biết thêm về các nhu cầu và nguồn lực khác anh/chị có thể chia sẻ.
 
 
 
