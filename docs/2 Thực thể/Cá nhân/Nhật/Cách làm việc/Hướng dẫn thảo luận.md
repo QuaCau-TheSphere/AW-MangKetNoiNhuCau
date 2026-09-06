@@ -10,6 +10,7 @@ Nếu bạn thấy cuộc thảo luận không có vấn đề gì mà không c�
 
 Nếu bạn có thể local-first thì càng tốt
 Tự trị dữ liệu
+Cách nói chuyện có thể làm bạn cảm thấy
 ## Trò chuyện trực tiếp
 Nhật ưu tiên gặp mặt trực tiếp hơn là qua mạng vì:
 - Không phải lo xử lý hoặc chịu đựng các vấn đề máy móc (mạng chậm, mic vọng, cam hư, loa nhỏ, máy đơ, thiếu tai nghe hoặc tai nghe làm đau tai, tài khoản miễn phí bị giới hạn thời gian sử dụng, v.v.). Xem thêm: [Các vấn đề ở laptop của Nhật](../Ngu%E1%BB%93n%20l%E1%BB%B1c/C%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20%E1%BB%9F%20laptop%20c%E1%BB%A7a%20Nh%E1%BA%ADt.md)
