@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-10T11:08
-updated: 2026-06-20T15:35
+updated: 2026-09-03T15:23
 ---
 Mạng kết nối nhu cầu là một nơi **làm cho chúng ta thấy nhau rõ hơn**. Các cá nhân, tổ chức sẽ liệt kê các nhu cầu của mình. Đó là cách để mình hiểu mình muốn gì, làm rõ các giả định, lên chiến lược, cũng như lên kế hoạch. Những sản phẩm họ tạo ra sẽ trở thành [now page](https://nownownow.com/) của họ.
 
@@ -25,13 +25,15 @@ Thiết kế đồng sáng tạo
 Chỉ mục cho các dự án kết nối
 Mọi hoạt động của con người, xét cho cùng, đều là để sử dụng nguồn lực hiệu quả
 
-| Nhu cầu cụ thể | Tên chương trình                                                                 |
-| -------------- | -------------------------------------------------------------------------------- |
-| Địa điểm       | Kho địa điểm để chọn nơi gặp mặt                                                 |
-| Mượn đồ vật    | [Library of things - Wikipedia](https://en.wikipedia.org/wiki/Library_of_things) |
-| Vay tiền       | Quỹ tín dụng                                                                     |
-| Công việc      | Trung tâm môi giới việc làm                                                      |
-|                |                                                                                  |
+| Nhu cầu cụ thể             | Tên chương trình                                                     |
+| -------------------------- | -------------------------------------------------------------------- |
+| Địa điểm                   | Kho địa điểm để chọn nơi gặp mặt                                     |
+| Mượn đồ vật                | [Library of things](https://en.wikipedia.org/wiki/Library_of_things) |
+| Vay tiền                   | Quỹ tín dụng                                                         |
+| Công việc                  | Trung tâm môi giới việc làm                                          |
+| Hiểu về con người, tổ chức | Danh bạ                                                              |
+| Xây dựng dự án             | Vườn ươm                                                                     |
+
 [Wishare](https://wishare.com)
 Trang giới thiệu nhà cửa toàn sale gọi
 [Good Market](https://www.goodmarket.global/csip)
