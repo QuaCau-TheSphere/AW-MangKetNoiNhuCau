@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-09T11:58
-updated: 2026-06-20T16:01
+updated: 2026-09-06T14:28
 ---
 Kho tài nguyên
 Dữ liệu
@@ -65,5 +65,3 @@ Có app [Givitas](https://marketplace.microsoft.com/en-us/product/office/wa10438
 [Holacracy](https://en.wikipedia.org/wiki/Holacracy)
 
 [0415](../8%20K%E1%BA%BF%20ho%E1%BA%A1ch/D%E1%BB%B1%20%C3%A1n%20Need/0415.md)
-
-## 
