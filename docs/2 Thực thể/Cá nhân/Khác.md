@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-06T23:24
-updated: 2026-05-07T14:54
+updated: 2026-09-09T13:30
 ---
 ## Lupin
 Ex Product/Brand Marketer - Graphic Designer - Volunteer Teacher - Sometimes hosting something as an event planner 

@@ -84,7 +84,7 @@ Nhật  thấy mình không vấn đề gì trong việc làm những thứ th�
 4. Với những thiệt hại Nhật không thấy là tệ với bất kỳ ai, Nhật không thấy có lý do gì phải chịu trách nhiệm 
 
 ## Việc phổ biến hướng dẫn này
-1. Một mặt, Nhật muốn ai cũng đọc trước hướng dẫn này để đỡ mất thời gian của nhau. Mặt khác, Nhật không muốn văn bản này được xem như là ranh giới, nội quy. Thứ Nhật muốn là phá bỏ các ranh giới này
+1. Một mặt, Nhật muốn ai cũng đọc trước hướng dẫn này để đỡ mất thời gian của nhau. Mặt khác, Nhật không muốn văn bản này được xem như là ranh giới, nội quy. Nếu nó không hợp lý, nó cần bị thách thức bởi Nhật. Nếu nó hợp lý, nó tất yếu phải được tiếp nhận như là lẽ thường tình. Thứ Nhật làm chỉ là văn bản hóa lẽ thường tình đó. Nên nó giống như là nội quy trong công viên: không ai cần phải đọc nó nhưng cũng chẳng làm sai.Thứ Nhật muốn là phá bỏ các ranh giới này
 Trong những lúc đó, Nhật sẽ im lặng
 Muốn cùng đồng ý với nha
 2. Đây không nên được xem là nguyên tắc của Nhật, mà là những điều ai cũng đồng ý với nhau
