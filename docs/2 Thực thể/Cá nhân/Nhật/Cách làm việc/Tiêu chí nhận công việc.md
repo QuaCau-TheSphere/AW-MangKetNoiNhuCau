@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-21T23:40
-updated: 2026-09-10T22:02
+updated: 2026-10-21T15:16
 title: Tiêu chí nhận công việc của Nhật
 ---
 Đây là các tiêu chí để Nhật nhận làm một việc gì đó:
@@ -24,17 +24,18 @@ Việc thảo luận trực tiếp thỏa cả 2 yêu cầu nên Nhật ưu tiê
 
 Nếu công việc có liên hệ với chủ đề đó hoặc [Giúp những người xung quanh thoát khỏi căng thẳng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20kh%E1%BB%8Fi%20c%C4%83ng%20th%E1%BA%B3ng.md) thì có thể chấp nhận bị cản trở nhiều hơn
 
+Đẹp nhất là làm vào khoảng 4, 5 giờ chiều trở đi, vì thường lúc này:
+- Não hết nghĩ được gì; có muốn làm việc tiếp thì cũng không làm được
+- Trời bớt nắng
+- Mẹ về nhà nên có xe để chạy
+- Tối bên ngoài hát karaoke nên muốn né
 
 ## Có sự hợp lý, minh bạch, hiểu cho nhau
-Nếu có ai chưa đồng ý thì không bỏ qua. Có thể tạm gác lại để ưu tiên những việc khác nhưng cần biết rõ khi nào sẽ quay lại bàn tiếp. Không gây ảnh hưởng
+Nếu có sự bất đồng thì giải quyết chứ không bỏ qua. Có thể tạm gác lại để ưu tiên những việc khác nhưng cần biết rõ khi nào sẽ quay lại bàn tiếp. Ai có thắc mắc gì đều được hỏi và trả lời đến khi không còn thắc mắc. Trong những lúc gấp gáp thì có thể tạm gác qua, nhưng cần tin được rằng thắc mắc rồi sẽ được giải đáp.
 
-Với những việc đòi hỏi sự nghiên cứu thì không yêu cầu hạn chót
-
-Ai có thắc mắc gì đều được hỏi và trả lời đến khi không còn thắc mắc. Trong những lúc gấp gáp thì có thể tạm gác qua, nhưng cần tin được rằng thắc mắc rồi sẽ được giải đáp.
+Phải lý giải được sự gấp gáp. Nếu là vì tiền thì phải cho thấy không còn cách nào khác để sống thiếu tiền mà vẫn hạnh phúc được
 
 - Nếu là vì tiền thì cần cho thấy nó sẽ giúp đạt được mục tiêu đó thế nào
 - Lúc ngủ và làm việc sẽ để điện thoại ngoài phòng
 
-Phải lý giải được sự gấp gáp. Nếu là vì tiền thì phải cho thấy không còn cách nào khác để sống thiếu tiền mà vẫn hạnh phúc được
-
-Không đòi hỏi hạn chót.
+Với những công việc đòi hỏi nghiên cứu thì không đòi hỏi hạn chót.

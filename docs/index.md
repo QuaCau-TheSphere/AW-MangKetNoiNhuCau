@@ -1,11 +1,12 @@
 ---
 created: 2025-12-30T13:01
-updated: 2026-09-06T14:27
+updated: 2026-10-21T14:13
 share: true
 filename: index
-title: Giới thiệu
+aliases:
+  - Mạng kết nối nhu cầu, nguồn lực
+title: Mạng kết nối nhu cầu - nguồn lực
 ---
-# Mạng kết nối nhu cầu - nguồn lực
 Mạng kết nối nhu cầu - nguồn lực là một nơi **làm cho chúng ta thấy nhau rõ hơn**. Người tham gia sẽ liệt kê các nhu cầu và nguồn lực của mình. Với mỗi nhu cầu hoặc nguồn lực liên quan tới nhau, những ai quan tâm sẽ cùng đến với nhau để thảo luận, trở thành các nhóm tự hỗ trợ nhau (mutual aid). Những thông tin có được trong quá trình thảo luận sẽ được ghi lại và hệ thống hóa để những người đến sau được có thể tìm đến tài nguyên tốt nhất cho nhu cầu của mình một cách nhanh nhất. Do các cá nhân có thể tham gia vào nhiều nhóm hoặc tổ chức khác nhau, nên mạng kết nối nhu cầu - nguồn lực cũng sẽ trở thành một bản đồ các tổ chức.
 
 Các nhu cầu được phân loại ra thành:

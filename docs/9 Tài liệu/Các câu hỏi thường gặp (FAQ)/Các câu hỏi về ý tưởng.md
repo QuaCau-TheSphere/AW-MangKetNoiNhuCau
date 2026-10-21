@@ -1,13 +1,14 @@
 ---
 share: true
 created: 2026-03-07T13:04
-updated: 2026-07-26T23:16
+updated: 2026-09-16T13:26
 ---
 ## Nhu cầu với ham muốn khác gì nhau?
-Nhiều nơi định nghĩa cần (need) và muốn (want) là khác nhau:
+Có nhiều định nghĩa khác nhau về cần (need) và muốn (want):
 - Đối với những người theo giao tiếp phi bạo lực, chỉ những khái niệm được liệt kê trong [Nhu cầu phổ quát](../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/index.md) mới là nhu cầu thực sự, còn những thứ khác chỉ cách thức để ta đáp ứng nhu cầu của mình. Những cách thức ấy gọi là ham muốn
 - Cần là thứ sẽ giúp mình tốt hơn, muốn là thứ ta có ý thức tìm kiếm nó
 - Desire  
+- Cần là thứ không cho mình dopamine khi làm, muốn là thứ cho mình dopamine khi làm
 
 ## Nhu cầu không bao giờ chấm dứt? Nhu cầu luôn lớn hơn nguồn lực?
 Thế nào là đủ? Liệu ta có nên đáp ứng ham muốn hay không? Nếu câu trả lời là không, vậy thì ta nên đi tu hết? Việc đáp ứng những [Nhu cầu phổ quát](../../1%20Nhu%20c%E1%BA%A7u/Nhu%20c%E1%BA%A7u%20ph%E1%BB%95%20qu%C3%A1t/index.md) vẫn chỉ là xác phàm, thứ mình cần là giác ngộ, niết bàn. Hoặc về làm nông nghiệp sinh thái. Những thứ đó con người đã tự làm được từ bao đời nay, không cần phải trao đổi làm gì.
@@ -80,3 +81,8 @@ Vậy thì mình chỉ giúp nhau những nhu cầu mà mình có thể giúp nh
 ## Cầu nhiều hơn cung
 
 ## Cảm giác ngại ngùng khi nhờ vả và mệt mỏi nhưng không nỡ từ chối khi bị nhờ
+
+
+Lấy Nguồn lực của người khác để đáp ứng cho nhu cầu của mình sẽ khác với hướng nguồn lực người khác đáp ứng nhu cầu của họ một cách hiệu quả trước , dư ra nguồn lực rồi họ chia cho mình một ít làm quà. Mình vui vẻ nhận chứ không phải chăm chăm có được từ đầu.
+anh tin là mỗi người tự biết cách đáp ứng nhu cầu nhiều cấp độ của họ, chỉ là họ bị niềm tin giới hạn là ko tự làm được nên đi kêu gọi khắp nơi.
+Và cảm giác mạng lưới đáp ứng nhu cầu như kiểu từ thiện một chiều: người có -> người thiếu

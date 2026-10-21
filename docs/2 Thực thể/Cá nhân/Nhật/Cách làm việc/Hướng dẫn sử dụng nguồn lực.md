@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-08-18T00:55
-updated: 2026-09-03T18:53
+updated: 2026-10-15T15:44
 title: Hướng dẫn sử dụng nguồn lực của Lý Minh Nhật
 ---
 ## Giới thiệu
@@ -19,10 +19,10 @@ title: Hướng dẫn sử dụng nguồn lực của Lý Minh Nhật
 ## Tinh thần chung
 1. Nguồn lực của Nhật là nguồn lực của tất cả mọi người, được dùng với mục đích đem lại điều tốt nhất cho mọi người một cách bền vững nhất
 2. Thế nào là "của Nhật", "mọi người", "điều tốt nhất", "bền vững nhất", hay bất kỳ chủ đề nào có liên quan sẽ được thống nhất trong các cuộc thảo luận. Những người tham gia thảo luận cần sẵn sàng cho việc thay đổi quan điểm của bản thân. Bất kỳ ai cũng có quyền tham gia thảo luận
-3. Nhật không có nhu cầu được biết ơn. Tuy nhiên vẫn có [nhu cầu cần được đáp ứng](../Nhu%20c%E1%BA%A7u.md).
+3. Nhật không có nhu cầu được biết ơn. Tuy nhiên vẫn có [nhu cầu cần được đáp ứng](2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/Nhu%20c%E1%BA%A7u.md).
 4. Nhật giữ quyền duy nhất cập nhật, chỉnh sửa văn bản này
 5. Phán quyết của tòa án Nhà nước Việt Nam là phán quyết cuối cùng
-6. Bản hướng dẫn này được xây dựng từ dưới lên, tức là dựa vào [Tình huống ví dụ](./T%C3%ACnh%20hu%E1%BB%91ng%20v%C3%AD%20d%E1%BB%A5.md) để thiết lập quy tắc
+6. Bản hướng dẫn này được xây dựng từ dưới lên, tức là dựa vào [Tình huống ví dụ](T%C3%ACnh%20hu%E1%BB%91ng%20v%C3%AD%20d%E1%BB%A5.md) để thiết lập quy tắc
 
 ## Các tài nguyên cụ thể
 ### Sự chú ý
@@ -89,3 +89,10 @@ Trong những lúc đó, Nhật sẽ im lặng
 Muốn cùng đồng ý với nha
 2. Đây không nên được xem là nguyên tắc của Nhật, mà là những điều ai cũng đồng ý với nhau
 3. Đây là một dạng biết tệ nhưng vẫn làm để tránh thứ tệ hơn
+4. Giống như không ai bắt bạn phải đọc luật, nhưng vẫn bắt buộc phải biết luật. Khi phạm luật thì không thể nói là không biết 
+
+Ưu tiên việc minh bạch và nói chuyện với nhau hơn là tiết kiệm thời gian của nhau
+
+Nếu có thứ mà Nhật có cơ sở để tin là không có vấn đề gì xảy ra, hoặc có vấn đề nhưng lợi ích đem lại là lớn hơn (tức là chưa ai đưa ra được lập luận cho thấy sẽ có vấn đề xảy ra, hoặc lợi ích đem lại không chắc là lớn hơn thiệt hại), thì Nhật sẽ muốn làm xem nó có vấn đề gì. Nếu có thiệt hại gì thì Nhật khắc phục được tới đâu thì khắc phục.
+
+Vì đằng nào cũng phải hỏi lại

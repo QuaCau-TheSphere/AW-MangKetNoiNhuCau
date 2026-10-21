@@ -1,13 +1,45 @@
 ---
 share: true
 created: 2022-10-07T01:57
-updated: 2026-09-06T13:21
+updated: 2026-09-16T20:06
 aliases:
   - Bản kế hoạch chiến lược
   - Các mục tiêu hiện tại
   - Danh sách nhu cầu và nguồn lực
   - Những gì Quả Cầu đang làm
 ---
+
+## Ξ. Cập nhật lại toàn bộ mục tiêu
+
+## A. Xây dựng mạng lưới, hệ sinh thái
+### [Các tên gọi cho nơi này](../../9%20T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20t%C3%AAn%20g%E1%BB%8Di%20cho%20n%C6%A1i%20n%C3%A0y.md)
+### Hệ thống thông tin
+Tìm hiểu:
+- Patchwork
+- Giao thức AT và hệ sinh thái của nó
+
+## B. Kiếm tiền
+### Các vị trí và thái độ của việc giúp đỡ. Các cấp độ giúp đỡ. [Hướng dẫn sử dụng nguồn lực](../C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
+### PTA với graph language
+
+## [C Quản lý dự án và công cụ nghĩ](../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/C%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/index.md)
+
+## F. Đối thoại
+### Các nhóm đối thoại
+
+## G. Nghiên cứu liên ngành
+[Lý do làm nghiên cứu](../C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/L%C3%BD%20do%20l%C3%A0m%20nghi%C3%AAn%20c%E1%BB%A9u.md)
+
+### Tìm hiểu các lĩnh vực
+- Thông diễn học
+- Hiện tượng học
+- Luật pháp
+- Triết học giá trị
+
+### Người làm dữ liệu nói gì về sự thiếu sót của dữ liệu?
+### Sự đối xứng trượt trong việc tạo nghĩa, quan niệm và giao tiếp
+### Lý thuyết về góc nhìn
+
 
 ### Có hạn chót, quan trọng 
 [Mọi người không còn phải lo lắng cơm áo gạo tiền nữa](../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/C%C3%B4ng%20vi%E1%BB%87c/M%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20c%C3%B2n%20ph%E1%BA%A3i%20lo%20l%E1%BA%AFng%20c%C6%A1m%20%C3%A1o%20g%E1%BA%A1o%20ti%E1%BB%81n%20n%E1%BB%AFa.md):
@@ -74,7 +106,6 @@ i see u:
 ## Nhu cầu về tiền
 - Tên miền, máy chủ
 - Đi lại, ăn uống
-- Đáo thẻ
 - Ủng hộ những dự án đã hỗ trợ hoặc cùng mục tiêu:
 	- Kỹ thuật: Lume, Enveloppe, Datacore, v.v.
 	- Tài chính thay thế: VCIL, Đồng Hành, Đồng Lòng
