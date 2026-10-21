@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-06-02T22:28
-updated: 2026-08-14T14:27
+updated: 2026-10-20T23:36
 ---
 Nghiên cứu này có gấp không? Chắc chắn là không, nhưng nó đã lỡ chiếm tâm trí của Nhật rồi. Giờ nếu bỏ xuống thì gặp mấy nhược điểm này:
 - Mất cái đà suy nghĩ đang có,
