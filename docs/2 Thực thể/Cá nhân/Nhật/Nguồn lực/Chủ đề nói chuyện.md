@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-03T16:30
-updated: 2026-10-21T14:40
+updated: 2026-10-21T15:23
 title: Những chủ đề Nhật chia sẻ được
 ---
 Dưới đây là các gợi ý về chủ đề cho một buổi nói chuyện mà Nhật cảm thấy có thể mở được. Nhật cảm thấy như vậy là vì các chủ đề này Nhật muốn chia sẻ cho mọi người và đã có một thời gian nhất định để khảo sát một cách có hệ thống, nên có thể trình bày một cách tương đối mạch lạc và lường trước được đa số các câu hỏi từ người nghe.
@@ -125,6 +125,8 @@ Nếu bạn muốn:
 - Có những gợi ý tốt hơn trong việc pháp triển cá nhân và sự nghiệp, đem lại nhiều cơ hội, nhiều sự thú vị và ý nghĩa cho bạn hơn
 
 Thì các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc là dành cho bạn.
+
+Xem bài chi tiết: [Các buổi thảo luận, định hướng, hỗ trợ giải pháp cho các nhu cầu công việc và công nghệ](https://obsidian.quảcầu.cc/📐%20Dự%20án/Các%20buổi%20huấn%20luyện%20lập%20trình/9%20Blog/Các%20buổi%20thảo%20luận,%20định%20hướng,%20hỗ%20trợ%20giải%20pháp%20cho%20các%20nhu%20cầu%20công%20việc%20và%20công%20nghệ?utm_source=Vault+A+Mạng+kết+nối+nhu+cầu+-+nguồn+lực+(Tài+nguyên)&utm_medium=Vault&utm_campaign=C1+Các+buổi+huấn+luyện+lập+trình&utm_content=2+Thực+thể%2FCá+nhân%2FNhật%2FNguồn+lực&utm_term=)
 
 ### Thúc đẩy sự hợp tác giữa các thành viên trong mạng lưới
 ### Minh họa, thị giác hóa thông tin
