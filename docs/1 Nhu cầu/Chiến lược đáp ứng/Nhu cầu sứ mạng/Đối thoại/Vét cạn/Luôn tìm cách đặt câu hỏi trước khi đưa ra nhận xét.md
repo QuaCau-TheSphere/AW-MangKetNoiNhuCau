@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-03T22:36
-updated: 2026-02-14T17:51
+updated: 2026-09-19T23:18
 aliases:
   - 
 ---
@@ -11,6 +11,7 @@ aliases:
 
 ## Giả thiết 
 [Thấy không có gì phải gấp gáp cả](../../T%C3%B2%20m%C3%B2,%20thong%20th%E1%BA%A3,%20kho%C3%A1ng%20%C4%91%E1%BA%A1t,%20bi%E1%BA%BFn%20h%C3%B3a/Th%E1%BA%A5y%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20ph%E1%BA%A3i%20g%E1%BA%A5p%20g%C3%A1p%20c%E1%BA%A3.md)
+[Nâng cao sự kiên nhẫn của mình](../../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%A1i%20%C4%91%E1%BB%99%20s%E1%BB%91ng/N%C3%A2ng%20cao%20s%E1%BB%B1%20ki%C3%AAn%20nh%E1%BA%ABn%20c%E1%BB%A7a%20m%C3%ACnh.md)
 
 ## Ví dụ biểu hiện
 - Thấy việc không tìm ra câu hỏi là một thất bại của mình
@@ -19,10 +20,11 @@ aliases:
 [Tạo động lực để mọi người luôn đặt câu hỏi](./T%E1%BA%A1o%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20%C4%91%E1%BB%83%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20lu%C3%B4n%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi.md)
 
 ## Những người đang có nhu cầu này
-- [Nhu cầu](../../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/Nhu%20c%E1%BA%A7u.md)
+- [Nhu cầu](../../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/Nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/Nhu%20c%E1%BA%A7u.md)
 
 
 ## Nhu cầu liên quan
+- [Nâng cao sự kiên nhẫn của mình](../../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%A1i%20%C4%91%E1%BB%99%20s%E1%BB%91ng/N%C3%A2ng%20cao%20s%E1%BB%B1%20ki%C3%AAn%20nh%E1%BA%ABn%20c%E1%BB%A7a%20m%C3%ACnh.md)
 - [Những người xung quanh không còn lo lắng về mình nữa](../../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20kh%C3%B4ng%20c%C3%B2n%20lo%20l%E1%BA%AFng%20v%E1%BB%81%20m%C3%ACnh%20n%E1%BB%AFa.md)
 - [Tạo động lực để mọi người luôn đặt câu hỏi](./T%E1%BA%A1o%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20%C4%91%E1%BB%83%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20lu%C3%B4n%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi.md)
 - [Đi đến tận cùng của sự đối thoại](./%C4%90i%20%C4%91%E1%BA%BFn%20t%E1%BA%ADn%20c%C3%B9ng%20c%E1%BB%A7a%20s%E1%BB%B1%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md)
