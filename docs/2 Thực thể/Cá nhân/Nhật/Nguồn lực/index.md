@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-13T21:40
-updated: 2026-10-21T15:16
+updated: 2026-10-21T15:25
 title: Lời mời sử dụng nguồn lực của Nhật
 ---
 ## Các công việc vốn đang làm
@@ -9,8 +9,7 @@ Nếu công việc bạn muốn nhờ vốn đã nằm trong [các nhu cầu và
 
 Đây là một số công việc vẫn thường nhận:
 - Đóng góp ý kiến, hỗ trợ xây dựng, quản lý hệ thống thông tin, kết nối nguồn lực
-- Các buổi trò chuyện, chia sẻ kiến thức, trải nghiệm. Có thể xem thêm [CV của Nhật](./CV.md) và [Những chủ đề Nhật chia sẻ được](./Ch%E1%BB%A7%20%C4%91%E1%BB%81%20n%C3%B3i%20chuy%E1%BB%87n.md)
-- 
+- Tổ chức các buổi trò chuyện, chia sẻ kiến thức, trải nghiệm, gặp mặt giao lưu, mở rộng mối quan hệ. Có thể xem thêm [CV của Nhật](./CV.md) và [Những chủ đề Nhật chia sẻ được](./Ch%E1%BB%A7%20%C4%91%E1%BB%81%20n%C3%B3i%20chuy%E1%BB%87n.md)
 
 Nếu là dự án có mục tiêu [chia sẻ kiến thức, kỹ năng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/Chia%20s%E1%BA%BB%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng.md) hoặc [kết nối nguồn lực](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c/K%E1%BA%BFt%20n%E1%BB%91i%20ngu%E1%BB%93n%20l%E1%BB%B1c.md) thì càng tốt. VD: 
 - [Mạng kết nối nhu cầu, nguồn lực](../../../../index.md)
