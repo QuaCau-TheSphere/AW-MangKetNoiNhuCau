@@ -1,18 +1,12 @@
 ---
 share: true
 created: 2026-02-09T13:48
-updated: 2026-10-15T13:55
+updated: 2026-10-21T16:14
 title: CV của Lý Minh Nhật
 description: Kinh nghiệm làm việc trong công ty. Kỹ năng. Dự án, sản phẩm. Buổi nói chuyện. Cộng tác. Giáo dục chính quy. Kiến thức tự học. Các khoá học, tập huấn đã tham gia.
 slug: cv-nhat
 utm: utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)+(Dự+án%2C+sản+phẩm)&utm_medium=Tập+tin&utm_campaign=&utm_content=&utm_term=
 ---
-# Lý Minh Nhật
-![100](../../../../attachments/%E1%BA%A2nh%20Nh%E1%BA%ADt.png)
-📧sphaera.kyuutai@gmail.com
-📞0332672691
-🏠The GoldView, 346 Bến Vân Đồn, Vĩnh Hội, TP.HCM
-
 ## Kinh nghiệm làm việc trong công ty
 ```mermaid
 gantt
