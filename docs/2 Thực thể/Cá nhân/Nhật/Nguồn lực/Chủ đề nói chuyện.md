@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2026-02-03T16:30
-updated: 2026-08-31T20:13
+updated: 2026-10-21T14:40
 title: Những chủ đề Nhật chia sẻ được
 ---
-Dưới đây là các chủ đề Nhật cảm thấy có thể mở một buổi nói chuyện. Nhật cảm thấy như vậy là vì các chủ đề này Nhật muốn chia sẻ cho mọi người và đã có một thời gian nhất định để khảo sát một cách có hệ thống, nên có thể trình bày một cách tương đối mạch lạc và lường trước được đa số các câu hỏi từ người nghe.
+Dưới đây là các gợi ý về chủ đề cho một buổi nói chuyện mà Nhật cảm thấy có thể mở được. Nhật cảm thấy như vậy là vì các chủ đề này Nhật muốn chia sẻ cho mọi người và đã có một thời gian nhất định để khảo sát một cách có hệ thống, nên có thể trình bày một cách tương đối mạch lạc và lường trước được đa số các câu hỏi từ người nghe.
 
 Các chủ đề được chia thành 4 nhóm:
 - Xây dựng mạng lưới, hệ sinh thái
@@ -17,9 +17,9 @@ Các chủ đề trong 3 nhóm đầu có thể nói độc thoại trong khoả
 - Do các chủ đề cũng liên kết nhiều với nhau nên một buổi thảo luận có thể nói nhiều chủ đề khác nhau. Điểm chuyển chủ đề tốt nhất là các câu hỏi.
 - Tăng sự cá nhân hóa cho người tham gia, vừa giúp Nhật xem lại kiến thức
 
-Các chủ đề trong nhóm "Kiến thức liên ngành" thì thường độc lập với nhau và có lẽ cần nhiều thời gian trình bày độc thoại hơn. Nhật sẵn sàng chia sẻ, nhưng do chúng cần thêm sự chuẩn bị, nghiên cứu thêm, và sự chuẩn bị này có ít liên hệ tới [những điều Nhật đang tập trung làm](../Nhu%20c%E1%BA%A7u.md), nên Nhật muốn có được sự thong thả để hoàn thiện nội dung. 
+Các chủ đề trong nhóm "Kiến thức liên ngành" thì thường độc lập với nhau và có lẽ cần nhiều thời gian trình bày độc thoại hơn. Nhật sẵn sàng chia sẻ, nhưng do chúng cần thêm sự chuẩn bị, nghiên cứu thêm, và sự chuẩn bị này có ít liên hệ tới [những điều Nhật đang tập trung làm](2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/Nhu%20c%E1%BA%A7u.md), nên Nhật muốn có được sự thong thả để hoàn thiện nội dung. 
 
-Bạn có thể xem [các bản ghi hình các buổi nói chuyện trước đây](https://www.youtube.com/playlist?list=PLJHpgh0M58TkKw-kM8bgvUjRP_Xnkw_PO) để hiểu hơn cách các buổi như này diễn ra. Ngoài ra, trong [CV của Nhật](./CV.md) có liệt kê đầy đủ hơn về những gì Nhật biết. Các chủ đề đó nếu được hỏi thì vẫn trả lời được, nhưng sẽ bị tủn mủn do chưa mường tượng được về một chủ đề rõ ràng để có thể trình bày một cách có hệ thống. 
+Bạn có thể xem [Các bản ghi hình một số buổi nói chuyện đã diễn ra](https://www.youtube.com/playlist?list=PLJHpgh0M58TkKw-kM8bgvUjRP_Xnkw_PO) để hiểu hơn cách các buổi như này diễn ra. Ngoài ra, trong [CV của Nhật](./CV.md) có liệt kê đầy đủ hơn về những gì Nhật biết. Các chủ đề đó nếu được hỏi thì vẫn trả lời được, nhưng sẽ bị tủn mủn do chưa mường tượng được về một chủ đề rõ ràng để có thể trình bày một cách có hệ thống. 
 
 Nơi thảo luận:
 ![](https://i.vgy.me/H5WdPn.png)
@@ -108,9 +108,13 @@ Khi cần ghi chép chi tiết các giao dịch, các chương trình như Money
 ### Công cụ nghĩ
 Obsidian là một phần mềm ghi chú mới xuất hiện từ năm 2020. Điểm khác biệt của nó với Word hoặc Google Docs là khả năng liên kết các ghi chú lại như Wikipedia mà không bị ràng buộc bởi việc nên phân loại theo thư mục nào. Điểm khác biệt của nó với Notion hoặc Google Docs là nó lưu dữ liệu trên máy bạn chứ không lưu trên máy chủ, khiến cho bạn có sự tự chủ và tự do tuyệt đối với dữ liệu của mình.  
 
-Bất cứ ai trong chúng ta đều có những nhu cầu cần được đáp ứng. Những nhu cầu này chảy qua cơ thể chúng ta, tạo ra những dự định về tương lai trong tâm trí của chúng ta. Khi một dự định trở nên đủ lớn, nó sẽ trở thành một dự án. Khi một dự án trở nên đủ phức tạp, bạn cần những công cụ giúp bạn điều chỉnh kế hoạch theo sự biến động của môi trường cũng như kết nối các nguồn lực mà không tốn quá nhiều năng lượng. Những công cụ cho bạn sự tự chủ và tự do với dữ liệu của mình, không giam hãm thông tin trong những ốc đảo nào sẽ giúp bạn làm được điều đó.
+Bất cứ ai trong chúng ta đều có những nhu cầu cần được đáp ứng. Những nhu cầu này chảy qua cơ thể chúng ta, tạo ra những dự định về tương lai trong tâm trí của chúng ta. Khi một dự định trở nên đủ lớn, nó sẽ trở thành một dự án. Khi một dự án trở nên đủ phức tạp, bạn cần những công cụ giúp bạn điều chỉnh kế hoạch theo sự biến động của môi trường cũng như kết nối các nguồn lực mà không tốn quá nhiều năng lượng. Những công cụ cho bạn sự tự chủ và tự do với dữ liệu của mình, không giam hãm thông tin trong những ốc đảo nào sẽ giúp bạn làm được điều đó.
   
 Vào khoảnh khắc bạn nhận ra được rằng bạn có thể sử dụng một công cụ nào đó để đạt được một mục tiêu nào đó, bạn đã không còn là chính mình như trước nữa. Lấy những dụng cụ quang học làm ví dụ. Một cái kính lúp sẽ phóng to những chi tiết nhỏ, và một cái kính cận sẽ làm sắc nét những thứ nhoè nhoẹt. Nhưng chúng không chỉ giúp bạn thấy rõ những thứ khó thấy, chúng còn có thể giúp bạn thấy được những điều bất khả thấy. Một chiếc kính viễn vọng sẽ giúp bạn thấy được số vệ tinh của hành tinh Thổ, và một chiếc kính hồng ngoại sẽ giúp bạn thấy được những chuyển động trong đêm. Nhưng nếu ta không lấy làm bất ngờ gì lắm khi nghe tới những loại ánh sáng mắt không thế nhìn ra, thì tại sao ta lại bất ngờ khi biết rằng có những loại suy nghĩ não không thể nghĩ tới? Dù sao thì, cả mắt và cả não đều bị giới hạn trong cái cấu trúc sinh học của nó. Và cũng giống như những công cụ nhìn kia giúp ta nhìn thấy được những thứ khó nhìn và bất khả nhìn, thì với những công cụ nghĩ ta có thể nghĩ tới những suy nghĩ khó nghĩ và bất khả nghĩ.
+
+### Hiểu về công cụ bạn đang dùng
+Bạn thấy công cụ mình đang sử dụng 
+muốn có cái nhìn toàn cảnh
 
 ### Xóa mù công nghệ: Làm sao để làm chủ máy tính, làm chủ dữ liệu?
 Chúng ta hay nghe báo đài, mạng xã hội nói nhiều về "chuyển đổi số", "công dân số", "trí tuệ nhân tạo", "cách mạng 4.0", "máy tính lượng tử", v.v. Nhưng sau những lần tham dự các tập huấn về các chủ đề đó, bạn đã thấy những vật lộn của mình với máy tính đã bớt đi được bao nhiêu? Hay tất cả những gì bạn được giới thiệu là lại một app mới, vốn sau một thời gian sử dụng lại thấy nó có đủ vấn đề, còn niềm tin rằng mình là người dốt công nghệ vẫn còn ở đó?
@@ -139,6 +143,15 @@ Word không thể hiện được tính liên văn bản
 Nếu bạn chỉ cần một nơi lưu lại những gì mình ghi viết bài chia sẻ cho mọi người đọc, các mạng xã hội như Facebook là đủ. Nếu như Facebook đại trà quá và bạn muốn tạo một thương hiệu rõ hơn, Substack, Medium, Spiderum, LinkedIn Page, Notion sẽ là những trang sẽ cho khách ghé thăm ấn tượng sơ về phong cách và nội dung của bạn. Nếu bạn muốn tạo một góc thầm lặng, không quá xô bồ, hoặc ngược lại muốn xây dựng một không gian làm cho khách ghé thăm phải cảm thấy ấn tượng, trầm trồ với giao diện độc đáo, thì Weebly, Wix, Squarespace, Shopify, Blogger, Webflow, WordPress.com sẽ giúp bạn đạt được điều đó. Chỉ khi nào bạn muốn có sự kiểm soát tối đa toàn bộ trang web của bạn với chi phí thấp, thì lúc đó bạn mới cần có một website riêng.
 
 ## F. Niềm tin và đối thoại
+### Cùng nói về những điều ta tin
+Trong cuộc sống ta hay gặp phải những xung đột, mâu thuẫn. Có thể bạn dễ dàng bước ra khỏi những mâu thuẫn đó, có thể không. Có thể bạn muốn bước ra khỏi những mâu thuẫn đó, có thể không. Nhưng tựu chung lại là vì chúng ta theo đuổi những giá trị, niềm tin khác nhau.
+
+Trong buổi trò chuyện này, chúng ta sẽ nói về những điều liên quan đến niềm tin, như: 
+- Những niềm tin của nhau
+- Làm rõ, rà soát lại các niềm tin hiện tại
+- Cách các niềm tin tương tác với nhau 
+- Các vùng đất mà chúng sẽ dẫn chúng ta đến
+
 ### Sự bất lực học được
 ### Động học niềm tin
 ### Thao túng
