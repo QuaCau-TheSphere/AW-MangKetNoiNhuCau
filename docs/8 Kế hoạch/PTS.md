@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-03-02T09:56
-updated: 2026-06-26T21:39
+updated: 2026-09-17T10:48
 ---
 
 ở mỹ muốn là Foundation thì phải  đăng ký.
