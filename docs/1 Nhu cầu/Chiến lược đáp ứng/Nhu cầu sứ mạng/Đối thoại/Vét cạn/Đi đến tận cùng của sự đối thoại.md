@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-21T10:40
-updated: 2026-06-26T17:01
+updated: 2026-09-19T23:18
 aliases:
   - Mọi người đi đến tận cùng của sự đối thoại
   - Mọi người đối thoại đến tận cùng
@@ -17,6 +17,7 @@ aliases:
 - [Luôn tìm cách đặt câu hỏi trước khi đưa ra nhận xét](./Lu%C3%B4n%20t%C3%ACm%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi%20tr%C6%B0%E1%BB%9Bc%20khi%20%C4%91%C6%B0a%20ra%20nh%E1%BA%ADn%20x%C3%A9t.md)
 - [Đi tới lý do tận cùng](./%C4%90i%20t%E1%BB%9Bi%20l%C3%BD%20do%20t%E1%BA%ADn%20c%C3%B9ng.md)
 - [Nói rõ hàm ý của mình](./N%C3%B3i%20r%C3%B5%20h%C3%A0m%20%C3%BD%20c%E1%BB%A7a%20m%C3%ACnh.md)
+- [Nâng cao sự kiên nhẫn của mình](../../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%A1i%20%C4%91%E1%BB%99%20s%E1%BB%91ng/N%C3%A2ng%20cao%20s%E1%BB%B1%20ki%C3%AAn%20nh%E1%BA%ABn%20c%E1%BB%A7a%20m%C3%ACnh.md)
 
 ## Giả thiết 
  - [Vượt qua được sự chán nản khi thấy việc nói chuyện không đi đến đâu](../%C4%90%E1%BB%91i%20di%E1%BB%87n/V%C6%B0%E1%BB%A3t%20qua%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20ch%C3%A1n%20n%E1%BA%A3n%20khi%20th%E1%BA%A5y%20vi%E1%BB%87c%20n%C3%B3i%20chuy%E1%BB%87n%20kh%C3%B4ng%20%C4%91i%20%C4%91%E1%BA%BFn%20%C4%91%C3%A2u.md)
@@ -38,10 +39,11 @@ aliases:
 - [Xây dựng hệ thống quản lý niềm tin giúp thúc đẩy sự đối thoại](../../../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/F%20Ni%E1%BB%81m%20tin%20v%C3%A0%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ni%E1%BB%81m%20tin%20gi%C3%BAp%20th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md)
 
 ## Những người đang có nhu cầu này
-- [Nhu cầu](../../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/Nhu%20c%E1%BA%A7u.md)
+- [Nhu cầu](../../../../../2%20Th%E1%BB%B1c%20th%E1%BB%83/C%C3%A1%20nh%C3%A2n/Nh%E1%BA%ADt/Nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/Nhu%20c%E1%BA%A7u.md)
 
 
 ## Nhu cầu liên quan
+- [Nâng cao sự kiên nhẫn của mình](../../../Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%A1i%20%C4%91%E1%BB%99%20s%E1%BB%91ng/N%C3%A2ng%20cao%20s%E1%BB%B1%20ki%C3%AAn%20nh%E1%BA%ABn%20c%E1%BB%A7a%20m%C3%ACnh.md)
 - [Xóa bỏ sự mỉa mai, thù ghét, bắt nạt](../../Tr%C3%A2n%20tr%E1%BB%8Dng%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/X%C3%B3a%20b%E1%BB%8F%20s%E1%BB%B1%20m%E1%BB%89a%20mai,%20th%C3%B9%20gh%C3%A9t,%20b%E1%BA%AFt%20n%E1%BA%A1t.md)
 - [Làm mọi người thấy sự minh bạch là tốt cho bản thân](./L%C3%A0m%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20s%E1%BB%B1%20minh%20b%E1%BA%A1ch%20l%C3%A0%20t%E1%BB%91t%20cho%20b%E1%BA%A3n%20th%C3%A2n.md)
 
