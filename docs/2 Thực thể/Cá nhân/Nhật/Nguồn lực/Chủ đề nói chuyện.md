@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-03T16:30
-updated: 2026-10-21T15:23
+updated: 2026-10-23T13:08
 title: Những chủ đề Nhật chia sẻ được
 ---
 Dưới đây là các gợi ý về chủ đề cho một buổi nói chuyện mà Nhật cảm thấy có thể mở được. Nhật cảm thấy như vậy là vì các chủ đề này Nhật muốn chia sẻ cho mọi người và đã có một thời gian nhất định để khảo sát một cách có hệ thống, nên có thể trình bày một cách tương đối mạch lạc và lường trước được đa số các câu hỏi từ người nghe.
