@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-21T23:40
-updated: 2026-10-21T15:16
+updated: 2026-10-23T13:09
 title: Tiêu chí nhận công việc của Nhật
 ---
 Đây là các tiêu chí để Nhật nhận làm một việc gì đó:
@@ -9,7 +9,7 @@ title: Tiêu chí nhận công việc của Nhật
 - Không cản trở mạch suy nghĩ về chủ đề Nhật đang nghiên cứu
 - Có sự hợp lý, minh bạch, hiểu cho nhau. Hướng tới sự bền vững lâu dài, sự khỏe mạnh và hạnh phúc toàn diện của những người tham gia
 
-Xem thêm:: [Lời mời sử dụng nguồn lực của Nhật](../Ngu%E1%BB%93n%20l%E1%BB%B1c/index.md)
+Xem thêm:: [Lời mời sử dụng nguồn lực của Nhật](../Ngu%E1%BB%93n%20l%E1%BB%B1c/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20nh%E1%BA%ADn%20l%C3%A0m.md)
 
 ## Không phải cầm điện thoại quá nhiều, trừ việc gọi điện hoặc nhắn tin ngắn gọn
 Nhật đang có nguy cơ bị hội chứng ống cổ tay. Có lẽ là vì cầm điện thoại hơi nhiều, mà điện thoại lại hơi nặng. Có lẽ có điện thoại mới sẽ tốt hơn, nhưng không có tiền mua.
