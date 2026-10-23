@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-13T21:41
-updated: 2026-10-21T14:15
+updated: 2026-10-23T13:08
 title: Mục lục về Nhật
 description: Các nguồn lực, nhu cầu, công việc đang làm, cách làm việc, CV của Nhật
 ---
@@ -9,26 +9,26 @@ description: Các nguồn lực, nhu cầu, công việc đang làm, cách làm 
 Nhật tự nhận bản thân là một nhà hoạt động xã hội và nghiên cứu tự do. Lĩnh vực Nhật quan tâm chủ yếu là [xây dựng cộng đồng](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/X%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md), cụ thể là [thúc đẩy địa phương hóa](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/V%C4%83n%20h%C3%B3a%20b%E1%BA%A3n%20%C4%91%E1%BB%8Ba/Th%C3%BAc%20%C4%91%E1%BA%A9y%20%C4%91%E1%BB%8Ba%20ph%C6%B0%C6%A1ng%20h%C3%B3a.md), [xây dựng mạng lưới những người muốn xây dựng mạng lưới](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.md), và [thúc đẩy sự đối thoại trong xã hội](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i%20trong%20x%C3%A3%20h%E1%BB%99i.md). Mục tiêu sau cùng là để giúp bản thân và mọi người [thoát khỏi căng thẳng](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20kh%E1%BB%8Fi%20c%C4%83ng%20th%E1%BA%B3ng.md) và [trò chuyện vui vẻ và sâu sắc với những người xung quanh](../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Nhu%20c%E1%BA%A7u%20t%C3%ACnh%20c%E1%BA%A3m/Quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20%C4%91%E1%BB%9Di%20s%E1%BB%91ng%20c%E1%BB%A7a%20nhau/Tr%C3%B2%20chuy%E1%BB%87n%20vui%20v%E1%BA%BB%20v%C3%A0%20s%C3%A2u%20s%E1%BA%AFc%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh.md).
 
 ## Nguồn lực
+- [Chủ đề nói chuyện](./Ngu%E1%BB%93n%20l%E1%BB%B1c/Ch%E1%BB%A7%20%C4%91%E1%BB%81%20n%C3%B3i%20chuy%E1%BB%87n.md)
 - [CV](./Ngu%E1%BB%93n%20l%E1%BB%B1c/CV.md)
 - [Các vấn đề ở laptop của Nhật](./Ngu%E1%BB%93n%20l%E1%BB%B1c/C%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20%E1%BB%9F%20laptop%20c%E1%BB%A7a%20Nh%E1%BA%ADt.md)
-- [Nguồn lực](./Ngu%E1%BB%93n%20l%E1%BB%B1c/index.md)
-- [Chủ đề nói chuyện](./Ngu%E1%BB%93n%20l%E1%BB%B1c/Ch%E1%BB%A7%20%C4%91%E1%BB%81%20n%C3%B3i%20chuy%E1%BB%87n.md)
+- [Các công việc nhận làm](./Ngu%E1%BB%93n%20l%E1%BB%B1c/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20nh%E1%BA%ADn%20l%C3%A0m.md)
 
 
 ## Cách làm việc
 - [Các câu hỏi thường gặp](./C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p.md)
-- [Hướng dẫn sử dụng nguồn lực](./C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
 - [Hướng dẫn thảo luận](./C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20th%E1%BA%A3o%20lu%E1%BA%ADn.md)
-- [Tiêu chí nhận công việc](./C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/Ti%C3%AAu%20ch%C3%AD%20nh%E1%BA%ADn%20c%C3%B4ng%20vi%E1%BB%87c.md)
 - [Lý do chưa đi kiếm tiền](./C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/L%C3%BD%20do%20ch%C6%B0a%20%C4%91i%20ki%E1%BA%BFm%20ti%E1%BB%81n.md)
 - [Lý do làm nghiên cứu](./C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/L%C3%BD%20do%20l%C3%A0m%20nghi%C3%AAn%20c%E1%BB%A9u.md)
+- [Hướng dẫn sử dụng nguồn lực](./C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
+- [Tiêu chí nhận công việc](./C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/Ti%C3%AAu%20ch%C3%AD%20nh%E1%BA%ADn%20c%C3%B4ng%20vi%E1%BB%87c.md)
 
 
 ## Nhu cầu và kế hoạch
+- [Công việc dự định sẽ làm hoặc hoàn thành nốt](./Nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/C%C3%B4ng%20vi%E1%BB%87c%20d%E1%BB%B1%20%C4%91%E1%BB%8Bnh%20s%E1%BA%BD%20l%C3%A0m%20ho%E1%BA%B7c%20ho%C3%A0n%20th%C3%A0nh%20n%E1%BB%91t.md)
 - [Công việc đang làm](./Nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md)
 - [Nhu cầu](./Nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/Nhu%20c%E1%BA%A7u.md)
 - [Nhu cầu và kế hoạch](./Nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/index.md)
-- [Công việc dự định sẽ làm hoặc hoàn thành nốt](./Nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/C%C3%B4ng%20vi%E1%BB%87c%20d%E1%BB%B1%20%C4%91%E1%BB%8Bnh%20s%E1%BA%BD%20l%C3%A0m%20ho%E1%BA%B7c%20ho%C3%A0n%20th%C3%A0nh%20n%E1%BB%91t.md)
 
 
 ## Thông tin liên hệ
