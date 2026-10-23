@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-07-23T14:52
-updated: 2026-09-09T14:13
+updated: 2026-10-23T13:08
 ---
 Các vấn đề ở đây là một phần lý do khiến Nhật muốn [ưu tiên gặp mặt trực tiếp hơn là qua mạng](../C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20th%E1%BA%A3o%20lu%E1%BA%ADn.md#Trò%20chuyện%20trực%20tiếp).
 
