@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-08-18T00:55
-updated: 2026-10-15T15:44
+updated: 2026-10-23T20:41
 title: Hướng dẫn sử dụng nguồn lực của Lý Minh Nhật
 ---
 ## Giới thiệu
@@ -96,3 +96,5 @@ Muốn cùng đồng ý với nha
 Nếu có thứ mà Nhật có cơ sở để tin là không có vấn đề gì xảy ra, hoặc có vấn đề nhưng lợi ích đem lại là lớn hơn (tức là chưa ai đưa ra được lập luận cho thấy sẽ có vấn đề xảy ra, hoặc lợi ích đem lại không chắc là lớn hơn thiệt hại), thì Nhật sẽ muốn làm xem nó có vấn đề gì. Nếu có thiệt hại gì thì Nhật khắc phục được tới đâu thì khắc phục.
 
 Vì đằng nào cũng phải hỏi lại
+
+Nếu không trả lời thì nên giải thích vì sao không muốn trả lời
