@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-10-20T22:10
+updated: 2026-10-23T15:56
 share: true
 title: Nhu cầu của Nhật
 description: Gần như tất cả hành động của Nhật đều có thể quy về việc giúp mình và mọi người (1) thoát khỏi căng thẳng và (2) trò chuyện vui vẻ và sâu sắc với những người xung quanh.
@@ -106,7 +106,7 @@ Cách làm:
 ### [Đi thiền](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/%C4%90i%20thi%E1%BB%81n.md)
 Lợi ích khác:
 - [hết đau tay](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/H%E1%BA%BFt%20%C4%91au%20tay%20m%C3%A0%20v%E1%BA%ABn%20c%C3%B3%20th%E1%BB%83%20ti%E1%BA%BFp%20t%E1%BB%A5c%20%C4%91%C3%A1nh%20m%C3%A1y.md)
-- Sửa laptop. [Các vấn đề ở laptop của Nhật](../Ngu%E1%BB%93n%20l%E1%BB%B1c/C%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20%E1%BB%9F%20laptop%20c%E1%BB%A7a%20Nh%E1%BA%ADt.md)
+- Sửa laptop. [Các vấn đề ở laptop](../Ngu%E1%BB%93n%20l%E1%BB%B1c/C%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20%E1%BB%9F%20laptop.md)
 - [Thấy thong thả](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/T%C3%B2%20m%C3%B2,%20thong%20th%E1%BA%A3,%20kho%C3%A1ng%20%C4%91%E1%BA%A1t,%20bi%E1%BA%BFn%20h%C3%B3a/Th%E1%BA%A5y%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20ph%E1%BA%A3i%20g%E1%BA%A5p%20g%C3%A1p%20c%E1%BA%A3.md)
 
 Có lẽ nếu đổi sang cái điện thoại khác nhẹ hơn thì sẽ hết. Vì trước giờ không vấn đề gì, chỉ tới khi dùng điện thoại này thì mới bắt đầu đau
