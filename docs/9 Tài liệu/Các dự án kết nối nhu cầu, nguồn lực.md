@@ -1,27 +1,27 @@
 ---
 share: true
 created: 2026-01-09T11:58
-updated: 2026-10-24T22:22
+updated: 2026-10-25T13:51
 aliases:
   - Sự khác biệt giữa mạng kết nối nhu cầu - nguồn lực và các ý tưởng tương tự
 description: Sự khác biệt giữa mạng kết nối nhu cầu - nguồn lực và các ý tưởng tương tự
 ---
 ## [Mạng kết nối nhu cầu - nguồn lực](../index.md)
 [Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của mình một cách nhanh nhất?](https://obsidian.quảcầu.cc/📜Tài%20nguyên/Giải%20pháp%20kỹ%20thuật/Học%20tập/Làm%20sao%20để%20một%20người%20có%20thể%20tìm%20đến%20tài%20nguyên%20tốt%20nhất%20cho%20nhu%20cầu%20của%20mình%20một%20cách%20nhanh%20nhất?utm_source=Vault+A+Mạng+kết+nối+nhu+cầu+-+nguồn+lực+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=C1&utm_content=9+Tài+liệu%2FCác+hình+thức+kết+nối+nhu+cầu%2C+nguồn+lực.md&utm_term=)
-> Một hệ thống để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất là điều mà nền kinh tế tri thức đang hướng đến. Khi đạt được điều đó, nó có loại hết cò, thay thế các doanh nghiệp lớn, đưa mọi thứ về tay từng người và cộng đồng. Liệu rằng các hệ thống thông tin hay bản đồ cộng đồng mà rất nhiều bên đã cố gắng triển khai đã có phải là giải pháp hiệu quả chưa?
+> Một hệ thống để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất là điều mà nền kinh tế tri thức đang hướng đến. Khi đạt được điều đó, nó sẽ loại hết cò, thay thế các doanh nghiệp lớn, đưa mọi thứ về tay từng người và cộng đồng. Liệu rằng các hệ thống thông tin hay bản đồ cộng đồng mà rất nhiều bên đã cố gắng triển khai đã có phải là giải pháp hiệu quả chưa?
 
 [Từ việc phá vỡ silo thông tin và sử dụng hiệu quả các nguồn lực cộng đồng, đến hệ thống quản lý niềm tin và nền kinh tế không dùng tiền: vai trò của các phần mềm ghi chú động lưu dữ liệu tại máy người dùng và ở định dạng đơn giản](https://obsidian.quảcầu.cc/📐%20Dự%20án/Mô%20tả%20dự%20án?utm_source=Vault+A+Mạng+kết+nối+nhu+cầu+-+nguồn+lực+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=C1+Mô+tả+dự+án.md&utm_content=9+Tài+liệu%2FCác+hình+thức+kết+nối+nhu+cầu%2C+nguồn+lực.md&utm_term=)
 > Chỉ khi nào nhu cầu của các bên liên quan hiện ra ngay trong kho dữ liệu của nhóm mà không cần phải hỏi họ hay thậm chí là nhập liệu, thì lúc đó chúng ta mới có thể bắt đầu nói về một hệ sinh thái mà những thành viên mới – vốn rất thiếu nhân lực – vẫn có thể hưởng lợi.
 
+Đã có hằng hà sa số các nỗ lực kết nối
 
 Kho tài nguyên
 Nhấn mạnh đến vấn đề liên thông dữ liệu và đem 
 Lời mời dùng không đến từ cá nhân, mà từ việc tạo ra sản phẩm chung. Xảy ra khi người đưa ra lời mời muốn đáp ứng, tự kiếm nhu cầu để đáp ứng. Xem việc người khác dùng là nhu cầu của mình
 Có thể ko cần đồng thời 
-
-Các cá nhân thì thường quan tâm đến sản phẩm
-Tổ chức thì thường quan tâm đến nhu cầu
-Đã có hằng hà sa số các nỗ lực kết nối
+[The Murmurations Protocol](https://murmurations.network/)
+[PLANET - The Open Co-op](https://open.coop/planet/)
+Các cá nhân thì thường quan tâm đến sản phẩm. Tổ chức thì thường quan tâm đến nhu cầu
 tư duy khan hiếm
 
 Cạnh tranh dịch vụ
@@ -31,8 +31,11 @@ Tỉ lệ thất bại của các dự án mạng lưới
 Với mỗi cá nhân, tạo thành một nhóm những người quan tâm đến cuộc sống của cá nhân đó
 Đầu tư mạo hiểm
 
+## Community Exchange Network
+
 ## Danh bạ đối tác, các bên liên quan. Bản đồ nguồn lực
 ![ky_nang_xay_dung_mang_luoi_va_van_dong_nguon_luc.pdf](../attachments/ky_nang_xay_dung_mang_luoi_va_van_dong_nguon_luc.pdf)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=rD9nnIlsDM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## OANM
 Danh sách nhu cầu sẽ bị hủy sau một khoảng thời gian
