@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2026-06-26T11:47
-updated: 2026-10-29T15:03
+updated: 2026-10-29T17:47
 ---
+Mỗi một mảng hoạt động sẽ có 3 loại công việc chính: tìm hiểu, viết bài, xây dựng. Khi có cái nào cùng gánh vác thì sẽ được chuyển lên [Công việc đang làm](./C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md).
+
 ## A. Xây dựng mạng lưới, hệ sinh thái
 Tìm hiểu:
 - Patchwork
@@ -11,23 +13,29 @@ Tìm hiểu:
 
 Viết:
 - [Các tên gọi cho nơi này](../../../../9%20T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20t%C3%AAn%20g%E1%BB%8Di%20cho%20n%C6%A1i%20n%C3%A0y.md)
+- [Sự khác biệt giữa mạng kết nối nhu cầu - nguồn lực và các ý tưởng tương tự](../../../../9%20T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u,%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
 
 Xây dựng:
 - [Mạng kết nối nhu cầu, nguồn lực](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20-%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
 - Hệ thống thông tin
 
 ## B. Kiếm tiền
-Viết
+Viết:
 - Các vị trí và thái độ của việc giúp đỡ. Các cấp độ giúp đỡ
 - [Hướng dẫn sử dụng nguồn lực](../C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
 
 Xây dựng:
 - Quỹ cộng đồng
+- CLB tiêu dùng
+- Hợp tác xã nhân viên
 
 ## [C Quản lý dự án và công cụ nghĩ](../../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/C%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/index.md)
 Tìm hiểu:
 - Ink and switch
 - PTA với graph language
+
+Viết:
+- Silo thông tin
 
 Xây dựng:
 - Các buổi chia sẻ
@@ -53,6 +61,7 @@ Viết:
 - Kiên nhẫn cùng nhau. Vào địa ngục cùng nhau
 - Bản đồ các niềm tin và vị trí của mỗi người
 - Khi điều đi ngược lại niềm tin của mình tạo ra được thứ mình cần
+- Sự đối xứng trượt trong việc tạo nghĩa, quan niệm và giao tiếp
 - Cách giới thiệu ý hệ của mình một cách an toàn 
 
 Xây dựng:
@@ -73,10 +82,11 @@ Xây dựng:
 Tìm hiểu:
 - Hiện tượng học
 - Triết học Deleuze và Guattari
+- Toán thống kê
+- Các mô hình nhận thức
 
 Viết:
 - Người làm dữ liệu nói gì về sự thiếu sót của dữ liệu?
-- Sự đối xứng trượt trong việc tạo nghĩa, quan niệm và giao tiếp
 - Lý thuyết về góc nhìn
 
 Xây dựng:
