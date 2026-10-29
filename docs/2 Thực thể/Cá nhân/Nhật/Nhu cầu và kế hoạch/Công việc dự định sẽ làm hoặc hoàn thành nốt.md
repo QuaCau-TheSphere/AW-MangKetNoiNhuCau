@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-06-26T11:47
-updated: 2026-10-20T23:35
+updated: 2026-10-29T15:03
 ---
 ## A. Xây dựng mạng lưới, hệ sinh thái
 Tìm hiểu:
@@ -13,6 +13,7 @@ Viết:
 - [Các tên gọi cho nơi này](../../../../9%20T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20t%C3%AAn%20g%E1%BB%8Di%20cho%20n%C6%A1i%20n%C3%A0y.md)
 
 Xây dựng:
+- [Mạng kết nối nhu cầu, nguồn lực](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20-%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
 - Hệ thống thông tin
 
 ## B. Kiếm tiền
@@ -26,13 +27,14 @@ Xây dựng:
 ## [C Quản lý dự án và công cụ nghĩ](../../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/C%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/index.md)
 Tìm hiểu:
 - Ink and switch
-
-Xây dựng:
 - PTA với graph language
 
-## D
+Xây dựng:
+- Các buổi chia sẻ
+
+## D. Phát triển bản thân và kỹ năng sống
 Tìm hiểu: 
-- Dinh dưỡng, tiêu hóa, tiết niệu
+- Dinh dưỡng, tiêu hóa, tiết niệu, cơ xương khớp
 
 ## F. Đối thoại
 Tìm hiểu:
