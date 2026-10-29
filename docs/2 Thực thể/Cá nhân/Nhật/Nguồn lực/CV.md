@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-09T13:48
-updated: 2026-10-23T13:08
+updated: 2026-10-26T21:11
 title: CV của Lý Minh Nhật
 description: Kinh nghiệm làm việc trong công ty. Kỹ năng. Dự án, sản phẩm. Buổi nói chuyện. Cộng tác. Giáo dục chính quy. Kiến thức tự học. Các khoá học, tập huấn đã tham gia.
 slug: cv-nhat
@@ -67,7 +67,7 @@ Nhân viên kinh doanh GM Mall: active, 2/2025, 6/2025
 | 2022 | Phần mềm            | [Graphvidian: plugin Graphviz cho Obsidian](https://doi-thoai.deno.dev/w0.2_.1)                                                                                                                                                                                                                                                                                                                                                            |
 |      | Kho thông tin       | [Đồ thị mạng lưới 100+ niềm tin phổ biến trong xã hội](https://quảcầu.cc/phan-tich-mot-mang-luoi-100-niem-tin?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)+(Dự+án%2C+sản+phẩm)&utm_medium=Tập+tin&utm_campaign=&utm_content=&utm_term=)                                                                                                                                                                                                         |
 |      | Hoạt động cộng đồng | [Chuỗi các bài dịch về chủ đề tự trị, đồng thuận, năng lực ra quyết định, sự riêng tư, thao túng, v.v.](https://quảcầu.cc/loi-moi-cung-dich-cac-bai-viet-ve-tu-tri?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)+(Dự+án%2C+sản+phẩm)&utm_medium=Tập+tin&utm_campaign=&utm_content=&utm_term=)                                                                                                                                                    |
-| 2018 | Kho thông tin       | [Bộ sưu tập từ điển chuyên ngành](https://quảcầu.cc/tu-dien-chuyen-nganh?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)+(Dự+án%2C+sản+phẩm)&utm_medium=Tập+tin&utm_campaign=&utm_content=&utm_term=)                                                                                                                                                                                                                                              |
+| 2018 | Kho thông tin       | [Bộ sưu tập từ điển chuyên ngành](https://quảcầu.cc/tu-dien-chuyen-nganh?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)+(Dự+án%2C+sản+phẩm)&utm_medium=Tập+tin&utm_campaign=&utm_content=&utm_term=)                                                                                                                                                                                                                                              |
 | 2015 | Phần mềm            | [Bộ thẻ từ vựng tiếng Anh nâng cao (GRE Anki)](https://quảcầu.cc/bo-the-hoc-tu-vung-tieng-anh-nang-cao?utm_source=CV+Lý+Minh+Nhật+(tiếng+Việt)+(Dự+án%2C+sản+phẩm)&utm_medium=Tập+tin&utm_campaign=&utm_content=&utm_term=)                                                                                                                                                                                                                |
 
 ## Buổi nói chuyện

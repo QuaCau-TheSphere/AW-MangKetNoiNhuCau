@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-13T21:53
-updated: 2026-10-21T20:13
+updated: 2026-10-29T15:06
 ---
 ## Nghiên cứu pháp luật
 [Lý do làm nghiên cứu](../C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/L%C3%BD%20do%20l%C3%A0m%20nghi%C3%AAn%20c%E1%BB%A9u.md)
@@ -34,7 +34,9 @@ Một vấn đề khác, là người được giúp một phần vì cần ưu 
 ## [Đặt câu hỏi cho những người tin rằng mình vĩnh viễn lệ thuộc vào người khác](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/%C4%90%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20tin%20r%E1%BA%B1ng%20m%C3%ACnh%20v%C4%A9nh%20vi%E1%BB%85n%20l%E1%BB%87%20thu%E1%BB%99c%20v%C3%A0o%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
 
 ## Học triết học
-Do có các khóa học hay nên tranh thủ chứ thực ra cũng không muốn ưu tiên lúc này lắm.
+Do có các khóa học hay nên tranh thủ lúc được mở ra, chứ thực ra cũng không muốn ưu tiên lúc này lắm.
 
+Ưu điểm:
 - [Mở rộng mối quan hệ](M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87.md)
 - [Hiểu được nhu cầu và nguồn lực xung quanh](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20nhu%20c%E1%BA%A7u%20v%C3%A0%20ngu%E1%BB%93n%20l%E1%BB%B1c%20xung%20quanh.md)
+- Biết được những điều mình không biết là mình không biết
