@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-13T21:53
-updated: 2026-10-29T15:06
+updated: 2026-10-29T16:30
 ---
 ## Nghiên cứu pháp luật
 [Lý do làm nghiên cứu](../C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/L%C3%BD%20do%20l%C3%A0m%20nghi%C3%AAn%20c%E1%BB%A9u.md)
@@ -11,7 +11,7 @@ Việc này sẽ giúp [hiểu được nhu cầu và nguồn lực xung quanh](
 - [Chia sẻ các nguồn lực của mình tới những người cần nó](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/T%C3%A0i%20nguy%C3%AAn/Chia%20s%E1%BA%BB%20c%C3%A1c%20ngu%E1%BB%93n%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh%20t%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20n%C3%B3.md). Nếu có thể [kiếm được tiền từ chúng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Ki%E1%BA%BFm%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BB%81n%20t%E1%BB%AB%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20m%E1%BB%91i%20quan%20h%E1%BB%87%20c%E1%BB%A7a%20m%C3%ACnh.md) thì càng tốt
 - [Có người làm cùng hoặc nhóm hỗ trợ](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20tr%E1%BB%A3%20l%C3%BD,%20th%C6%B0%20k%C3%BD,%20c%E1%BB%99ng%20s%E1%BB%B1,%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B9ng,%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3,%20%C3%AA%20k%C3%ADp,%20b%E1%BA%A7u%20s%C3%B4,%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD.md) cho các dự án khác
 
-Những bên đang làm việc: [Quả Cầu](../../../T%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3%20C%E1%BA%A7u.md), [Samsti](https://docs.samsti.com/), [ABG](../../../T%E1%BB%95%20ch%E1%BB%A9c/ABG/index.md), [Thành phố học tập](../../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%C3%A0nh%20ph%E1%BB%91%20h%E1%BB%8Dc%20t%E1%BA%ADp.md), Wikipedia tiếng Việt, Murmuration, GoldView
+Những bên đang tham gia: [Quả Cầu](../../../T%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3%20C%E1%BA%A7u.md), [Samsti](https://docs.samsti.com/), [ABG](../../../T%E1%BB%95%20ch%E1%BB%A9c/ABG/index.md), [Thành phố học tập](../../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%C3%A0nh%20ph%E1%BB%91%20h%E1%BB%8Dc%20t%E1%BA%ADp.md), Wikipedia tiếng Việt, Murmuration, cộng đồng cư dân chung cư GoldView
 
 ## Mở các buổi [Chia sẻ kiến thức, kỹ năng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/Chia%20s%E1%BA%BB%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng.md)
 [Những chủ đề Nhật chia sẻ được](../Ngu%E1%BB%93n%20l%E1%BB%B1c/Ch%E1%BB%A7%20%C4%91%E1%BB%81%20n%C3%B3i%20chuy%E1%BB%87n.md)
