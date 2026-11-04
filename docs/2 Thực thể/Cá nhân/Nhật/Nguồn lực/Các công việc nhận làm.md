@@ -1,12 +1,14 @@
 ---
 share: true
 created: 2026-05-13T21:40
-updated: 2026-11-04T13:06
+updated: 2026-11-04T14:12
 title: Lời mời sử dụng nguồn lực của Nhật
+description: Nếu bạn đang cần được giúp gì thì đây là những thứ mình sẵn sàng giúp nhé
 ---
+# Lời mời sử dụng nguồn lực của Nhật
 Nếu công việc bạn muốn nhờ vốn đã nằm trong [các nhu cầu và kế hoạch của Nhật](../Nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/index.md), đặc biệt là [các công việc đang làm](../Nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md) thì Nhật luôn sẵn sàng hỗ trợ. Bản thân Nhật cũng đang kiếm những người muốn làm những điều như vậy. Nên thay vì nghĩ là Nhật giúp bạn thì hãy nghĩ là Nhật muốn được tham gia vào công việc của bạn.
 
-Nếu như công việc không được liệt kê trong các bài đó thì Nhật muốn nhận làm những thứ không đòi hỏi sự chú tâm quá nhiều mà vẫn có được kết quả đạt yêu cầu. Đây là một số công việc như vậy thường nhận:
+Nếu như công việc không được liệt kê trong các bài đó thì Nhật muốn nhận làm những thứ không đòi hỏi sự để tâm cao độ mà vẫn có được kết quả đạt yêu cầu. Đây là một số công việc như vậy thường nhận:
 
 - Chia sẻ kiến thức, trải nghiệm, gặp mặt giao lưu, mở rộng mối quan hệ. Có thể xem thêm [CV của Nhật](./CV.md) và [Những chủ đề Nhật chia sẻ được](./Ch%E1%BB%A7%20%C4%91%E1%BB%81%20n%C3%B3i%20chuy%E1%BB%87n.md)
 - [Đăng ký mượn phòng họp tại chung cư GoldView](https://obsidian.quảcầu.cc/📜Tài%20nguyên/Giải%20pháp%20kỹ%20thuật/Hậu%20cần/Nơi%20gặp%20mặt%20trực%20tiếp/TP.HCM/Phòng%20họp%20riêng/Phòng%20sinh%20hoạt%20chung%20cư%20GoldView?utm_source=Vault+A+Mạng+kết+nối+nhu+cầu+-+nguồn+lực+(Tài+nguyên)&utm_medium=Vault&utm_campaign=C1&utm_content=2+Thực+thể%2FCá+nhân%2FNhật%2FNguồn+lực%2FNguồn+lực.md&utm_term=)
