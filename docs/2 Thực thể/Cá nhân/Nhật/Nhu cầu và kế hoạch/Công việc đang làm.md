@@ -1,8 +1,13 @@
 ---
 share: true
 created: 2026-05-13T21:53
-updated: 2026-10-29T16:30
+title: Các công việc đang làm
+updated: 2026-11-04T11:59
 ---
+Cái đầu tiên sẽ được dành sự tập trung cao nhất trong đa số thời gian. Những cái sau sẽ làm khi có đề xuất của người khác.
+
+Xem thêm:: [Các công việc nhận làm](../Ngu%E1%BB%93n%20l%E1%BB%B1c/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20nh%E1%BA%ADn%20l%C3%A0m.md), [Công việc dự định sẽ làm hoặc hoàn thành nốt](./C%C3%B4ng%20vi%E1%BB%87c%20d%E1%BB%B1%20%C4%91%E1%BB%8Bnh%20s%E1%BA%BD%20l%C3%A0m%20ho%E1%BA%B7c%20ho%C3%A0n%20th%C3%A0nh%20n%E1%BB%91t.md)
+
 ## Nghiên cứu pháp luật
 [Lý do làm nghiên cứu](../C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/L%C3%BD%20do%20l%C3%A0m%20nghi%C3%AAn%20c%E1%BB%A9u.md)
 
@@ -17,6 +22,7 @@ Những bên đang tham gia: [Quả Cầu](../../../T%E1%BB%95%20ch%E1%BB%A9c/Qu
 [Những chủ đề Nhật chia sẻ được](../Ngu%E1%BB%93n%20l%E1%BB%B1c/Ch%E1%BB%A7%20%C4%91%E1%BB%81%20n%C3%B3i%20chuy%E1%BB%87n.md)
 
 ## [Xây dựng kho tài nguyên cộng đồng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng%20kho%20t%C3%A0i%20nguy%C3%AAn%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
+- Tổng hợp tài liệu để trả lời các câu hỏi từ mọi người
 
 ## Giúp bạn bè [Thoát khỏi vòng xoáy nợ nần](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/C%E1%BA%AFt%20n%E1%BB%A3/Tho%C3%A1t%20kh%E1%BB%8Fi%20v%C3%B2ng%20xo%C3%A1y%20n%E1%BB%A3%20n%E1%BA%A7n.md)
 Vốn dĩ nhu cầu này đến từ nhu cầu [Giúp những người xung quanh thoát khỏi căng thẳng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20kh%E1%BB%8Fi%20c%C4%83ng%20th%E1%BA%B3ng.md), để họ [được sống cuộc sống thú vị và ý nghĩa](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%A1i%20%C4%91%E1%BB%99%20s%E1%BB%91ng/%C4%90%C6%B0%E1%BB%A3c%20s%E1%BB%91ng%20cu%E1%BB%99c%20s%E1%BB%91ng%20th%C3%BA%20v%E1%BB%8B%20v%C3%A0%20%C3%BD%20ngh%C4%A9a.md). Giải pháp gốc rễ, lâu dài thì cần: 
@@ -33,7 +39,7 @@ Một vấn đề khác, là người được giúp một phần vì cần ưu 
 
 ## [Đặt câu hỏi cho những người tin rằng mình vĩnh viễn lệ thuộc vào người khác](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/%C4%90%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20tin%20r%E1%BA%B1ng%20m%C3%ACnh%20v%C4%A9nh%20vi%E1%BB%85n%20l%E1%BB%87%20thu%E1%BB%99c%20v%C3%A0o%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
 
-## Học triết học
+## Học các khóa học, tham dự sự kiện
 Do có các khóa học hay nên tranh thủ lúc được mở ra, chứ thực ra cũng không muốn ưu tiên lúc này lắm.
 
 Ưu điểm:

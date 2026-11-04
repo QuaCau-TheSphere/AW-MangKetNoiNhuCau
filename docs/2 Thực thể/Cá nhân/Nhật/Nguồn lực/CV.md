@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-09T13:48
-updated: 2026-10-26T21:11
+updated: 2026-11-04T13:10
 title: CV của Lý Minh Nhật
 description: Kinh nghiệm làm việc trong công ty. Kỹ năng. Dự án, sản phẩm. Buổi nói chuyện. Cộng tác. Giáo dục chính quy. Kiến thức tự học. Các khoá học, tập huấn đã tham gia.
 slug: cv-nhat
@@ -97,7 +97,7 @@ Danh mục được lấy từ [Outline of academic disciplines - Wikipedia](htt
 - **Triết học:** Phật học, Đạo học, Deleuze và Guattari, mỹ học, hậu hiện đại, bản thể học hướng vật thể, nhận thức luận, đạo đức, toán học, công nghệ
 - **Ngôn ngữ và văn học:** văn học, dịch thuật, tu từ và bố cục, thông diễn học
 - **Lịch sử:** lịch sử chủ nghĩa cộng sản
-- **Luật:** triết học luật, đại cương nhà nước, hình sự chung
+- **Luật:** triết học luật, đại cương nhà nước, hình sự, dân sự
 
 ### Khoa học xã hội
 - **Kinh doanh:** hệ thống thông tin, tài chính, tài chính thay thế, quản lý dự án, kế toán, bảo hiểm, nhân lực, sở hữu trí tuệ, quản lý rủi ro
@@ -123,7 +123,9 @@ Danh mục được lấy từ [Outline of academic disciplines - Wikipedia](htt
 | Năm  | Tên chương trình                                                              | Đơn vị tổ chức                                                                                                       |
 | ---- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 2026 | Sáng kiến Nữ giới tiên phong về công nghệ thông tin và truyền thông (WIFI DX) | Cục Phát triển doanh nghiệp tư nhân và kinh tế tập thể × Trung tâm đào tạo CNTT&TT Châu Á - Thái Bình Dương (APCICT) |
-|      | Triết học phương Tây căn bản                                                  | Cà phê thứ 7                                                                                                                     |
+|      | Triết học phương Tây căn bản                                                  | Cà phê thứ 7                                                                                                         |
+|      | Triết học tình yêu                                                            | chung-dung                                                                                                           |
+|      | Cơ sở triết học trong tâm lý học                                              | Hạnh Đàn                                                                                                           |
 | 2025 | Ngữ dụng học                                                                  | Kulavietnam                                                                                                          |
 |      | Tự thuật về mình và cộng đồng mình                                            | Kulavietnam                                                                                                          |
 | 2023 | ABG Open Special 8                                                            | ABG                                                                                                                  |

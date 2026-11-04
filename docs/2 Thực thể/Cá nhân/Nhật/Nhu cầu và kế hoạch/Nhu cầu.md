@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-10-23T15:56
+updated: 2026-10-29T20:59
 share: true
 title: Nhu cầu của Nhật
 description: Gần như tất cả hành động của Nhật đều có thể quy về việc giúp mình và mọi người (1) thoát khỏi căng thẳng và (2) trò chuyện vui vẻ và sâu sắc với những người xung quanh.
@@ -24,17 +24,15 @@ Nhật vẽ ra [Quả Cầu](../../../T%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3%20C%
 Xem thêm:: [Công việc đang làm](./C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md)
 
 ## [🔥 Muốn có ngay nhưng đã phải dành sự tập trung cao nhất cho việc khác](../../../../9%20T%C3%A0i%20li%E1%BB%87u/Ph%C3%A2n%20lo%E1%BA%A1i%20nhu%20c%E1%BA%A7u/%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/%F0%9F%94%A5%20Mu%E1%BB%91n%20c%C3%B3%20ngay%20nh%C6%B0ng%20%C4%91%C3%A3%20ph%E1%BA%A3i%20d%C3%A0nh%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20cao%20nh%E1%BA%A5t%20cho%20vi%E1%BB%87c%20kh%C3%A1c.md)
-
 ### [Không bị quá tải đầu óc](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/T%C3%A0i%20nguy%C3%AAn/Kh%C3%B4ng%20b%E1%BB%8B%20qu%C3%A1%20t%E1%BA%A3i%20%C4%91%E1%BA%A7u%20%C3%B3c.md)
 Giải pháp:
-- Những người muốn giao việc cho Nhật thảo luận về những người khác, hoặc nhìn vào bản nhu cầu này, hoặc 
-- [Có trợ lý, thư ký, cộng sự, người làm cùng, nhóm hỗ trợ, ê kíp, bầu sô, người quản lý](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20tr%E1%BB%A3%20l%C3%BD,%20th%C6%B0%20k%C3%BD,%20c%E1%BB%99ng%20s%E1%BB%B1,%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B9ng,%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3,%20%C3%AA%20k%C3%ADp,%20b%E1%BA%A7u%20s%C3%B4,%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD.md) 
+- Những người muốn giao việc cho Nhật thảo luận về những người khác hoặc nhìn vào bản nhu cầu này, hoặc 
+- [Có trợ lý, thư ký, cộng sự, người làm cùng, nhóm hỗ trợ, ê kíp, bầu sô, người quản lý](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20tr%E1%BB%A3%20l%C3%BD,%20th%C6%B0%20k%C3%BD,%20c%E1%BB%99ng%20s%E1%BB%B1,%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B9ng,%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3,%20%C3%AA%20k%C3%ADp,%20b%E1%BA%A7u%20s%C3%B4,%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD.md) hoặc,
+- [Có hệ thống chat tốt](C%C3%B3%20h%E1%BB%87%20th%E1%BB%91ng%20chat%20t%E1%BB%91t.md)
 
-[Có hệ thống chat tốt](C%C3%B3%20h%E1%BB%87%20th%E1%BB%91ng%20chat%20t%E1%BB%91t.md)
+### Tham gia hỗ trợ các dự án có mục tiêu [Chia sẻ các nguồn lực của mình tới những người cần nó](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/T%C3%A0i%20nguy%C3%AAn/Chia%20s%E1%BA%BB%20c%C3%A1c%20ngu%E1%BB%93n%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh%20t%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20n%C3%B3.md)
 
-Tham gia hỗ trợ các dự án có mục tiêu [Chia sẻ các nguồn lực của mình tới những người cần nó](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/T%C3%A0i%20nguy%C3%AAn/Chia%20s%E1%BA%BB%20c%C3%A1c%20ngu%E1%BB%93n%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh%20t%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20n%C3%B3.md)
-
-### Thành lập được những nhóm thảo luận về những chủ đề
+### Thành lập được những nhóm thảo luận về những chủ đề khác nhau
 [Những chủ đề Nhật chia sẻ được](../Ngu%E1%BB%93n%20l%E1%BB%B1c/Ch%E1%BB%A7%20%C4%91%E1%BB%81%20n%C3%B3i%20chuy%E1%BB%87n.md)
 
 ### [Có trợ lý, thư ký, cộng sự, người làm cùng, nhóm hỗ trợ, ê kíp, bầu sô, người quản lý](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20tr%E1%BB%A3%20l%C3%BD,%20th%C6%B0%20k%C3%BD,%20c%E1%BB%99ng%20s%E1%BB%B1,%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B9ng,%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3,%20%C3%AA%20k%C3%ADp,%20b%E1%BA%A7u%20s%C3%B4,%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD.md) 
@@ -56,8 +54,7 @@ Có lẽ đây là các yếu tố chính khiến cho những bài truyền thô
 - Nhật nghĩ là nếu có thể thì nên tránh việc có những nếp nghĩ của một người cần tiền, dù thừa nhận là nếu muốn tiếp tục có thời gian tập trung vào những gì mình đang làm thì không thể không dùng đến tiền. Một trong những hệ quả của việc này là 
 không được viết theo cách một người cần tiền sẽ thấy cần nó, dù nếu họ thảo luận sâu thì sẽ thấy nó luôn đáp ứng được những gì họ cần theo cách mà họ không ngờ tới. 
 
-### [Đánh giá được độ tác động của những dự án mình đang làm](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20v%E1%BB%81%20h%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/%C4%90%C3%A1nh%20gi%C3%A1%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%99%20t%C3%A1c%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20nh%E1%BB%AFng%20d%E1%BB%B1%20%C3%A1n%20m%C3%ACnh%20%C4%91ang%20l%C3%A0m.md)
-[Hiểu được vì sao không ai tương tác](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20v%E1%BB%81%20h%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20v%C3%AC%20sao%20kh%C3%B4ng%20ai%20t%C6%B0%C6%A1ng%20t%C3%A1c.md)
+### [Đánh giá được độ tác động của những dự án mình đang làm](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20v%E1%BB%81%20h%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/%C4%90%C3%A1nh%20gi%C3%A1%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%99%20t%C3%A1c%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20nh%E1%BB%AFng%20d%E1%BB%B1%20%C3%A1n%20m%C3%ACnh%20%C4%91ang%20l%C3%A0m.md). [Hiểu được vì sao không ai tương tác](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20v%E1%BB%81%20h%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20v%C3%AC%20sao%20kh%C3%B4ng%20ai%20t%C6%B0%C6%A1ng%20t%C3%A1c.md)
 Các bài đăng trên Facebook ít người tương tác, dẫn đến ít được chia sẻ rộng rãi. Em nghĩ lý do là vì:
 - Những người đọc được chúng không đủ trải nghiệm để hiểu vấn đề em đặt ra, hoặc chỉ quan tâm khi việc kết nối nguồn lực đáp ứng được công việc kiếm tiền họ đang làm
 - Những người có quan tâm đến việc kết nối nguồn lực nói chung thì cũng đang bị cuốn vào các dự án riêng, hoặc các quan điểm, cách tiếp cận khác với em
@@ -110,6 +107,7 @@ Lợi ích khác:
 - [Thấy thong thả](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/T%C3%B2%20m%C3%B2,%20thong%20th%E1%BA%A3,%20kho%C3%A1ng%20%C4%91%E1%BA%A1t,%20bi%E1%BA%BFn%20h%C3%B3a/Th%E1%BA%A5y%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20ph%E1%BA%A3i%20g%E1%BA%A5p%20g%C3%A1p%20c%E1%BA%A3.md)
 
 Có lẽ nếu đổi sang cái điện thoại khác nhẹ hơn thì sẽ hết. Vì trước giờ không vấn đề gì, chỉ tới khi dùng điện thoại này thì mới bắt đầu đau
+
 ### Sử dụng sản phẩm sinh thái
 ### [Những người xung quanh không còn lo lắng về mình nữa](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20kh%C3%B4ng%20c%C3%B2n%20lo%20l%E1%BA%AFng%20v%E1%BB%81%20m%C3%ACnh%20n%E1%BB%AFa.md)
 - [Gia đình, bạn bè tìm hiểu về những gì mình làm](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Gia%20%C4%91%C3%ACnh,%20b%E1%BA%A1n%20b%C3%A8%20t%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20nh%E1%BB%AFng%20g%C3%AC%20m%C3%ACnh%20l%C3%A0m.md)
@@ -129,19 +127,10 @@ Có lẽ nếu đổi sang cái điện thoại khác nhẹ hơn thì sẽ hết
 - [Có người bôi thuốc hoặc đưa thuốc cho mình uống giùm](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20b%C3%B4i%20thu%E1%BB%91c%20ho%E1%BA%B7c%20%C4%91%C6%B0a%20thu%E1%BB%91c%20cho%20m%C3%ACnh%20u%E1%BB%91ng%20gi%C3%B9m.md)
 - [Hết loét dạ dày](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/H%E1%BA%BFt%20lo%C3%A9t%20d%E1%BA%A1%20d%C3%A0y.md)
 
-
-| Chẩn đoán      | Triệu chứng | Hệ quả | Giải pháp tạm thời | Vấn đề thứ cấp |
-| -------------- | ----------- | ------ | ------------------ | -------------- |
-| Loét dạ dày    |             |        |                    |                |
-|                | Đau tay     |        |                    |                |
-| Viêm da cơ địa |             |        |                    |                |
-| Gai cột sống?  |             |        |                    |                |
-
-## Nhu cầu của những người xung quanh
-| Cá nhân | Nhu cầu                                                                                                                                                  | Đóng góp |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| Mẹ      |                                                                                                                                                          |          |
-| Khoa    | kết nối các nguồn lực sẵn có liên hệ với QC để tạo ra tác động cho cộng đồng trí thức ở SG, từ đó tạo ra nguồn thu bền vững để giúp bản thân lẫn xã hội. |          |
-| Trí     |                                                                                                                                                          |          |
-| Lộc     |                                                                                                                                                          |          |
-| Thịnh   |                                                                                                                                                          |          |
+| Chẩn đoán      | Triệu chứng | Hệ quả                                                | Giải pháp tạm thời | Vấn đề thứ cấp |
+| -------------- | ----------- | ----------------------------------------------------- | ------------------ | -------------- |
+| Loét dạ dày    | Ợ nhiều     |                                                       |                    |                |
+|                | Đau tay     | Không gõ máy, cầm điện thoại được                     |                    |                |
+| Viêm da cơ địa |             | Hay gãi. Không phải đồ uống có cồn nào cũng uống được |                    |                |
+| Gai cột sống?  | Đau lưng    |                                                       |                    |                |
+|                | Gù lưng     |                                                       |                    |                |
