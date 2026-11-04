@@ -15,14 +15,15 @@ Xem thêm:: [Lời mời sử dụng nguồn lực của Nhật](../Ngu%E1%BB%93
 Nhật đang có nguy cơ bị hội chứng ống cổ tay. Có lẽ là vì cầm điện thoại hơi nhiều, mà điện thoại lại hơi nặng. Có lẽ có điện thoại mới sẽ tốt hơn, nhưng không có tiền mua.
 
 ## Không cản trở mạch suy nghĩ về chủ đề Nhật đang nghiên cứu
+Nếu công việc bạn muốn nhờ vốn đã nằm trong [các nhu cầu và kế hoạch của Nhật](../Nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/index.md), đặc biệt là [các công việc đang làm](../Nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md) thì Nhật luôn sẵn sàng. Bản thân Nhật cũng đang kiếm những người muốn làm những điều như vậy. Nếu như công việc không nằm trong các bài đó thì Nhật muốn nhận làm những thứ:
  - Không đòi hỏi phải ngắt suy nghĩ giữa chừng để làm việc khác
  - Không đòi hỏi phải nghĩ về cái khác ở cường độ cao (VD: đọc bài dài, nghĩ lắt léo). Chỉ cần dựa trên những gì đã biết và một chút động não để liên kết các ý, đặt câu hỏi là đạt yêu cầu
 
-Việc gọi điện ngắt suy nghĩ giữa chừng nên chỉ làm trong những tình huống mà việc chat không đáp ứng được (tốc độ, dễ diễn giải).
+Việc gọi điện ngắt suy nghĩ giữa chừng nên chỉ làm trong những tình huống mà việc chat không đáp ứng được (cần trao đổi nhanh chóng, dễ diễn giải).
 
-Việc thảo luận trực tiếp thỏa cả 2 yêu cầu nên Nhật ưu tiên việc làm việc này. Tuy nhiên việc di chuyển đến địa điểm đúng giờ hay làm ngắt mạch suy nghĩ (cho nên Nhật mới hay bị trễ giờ). Tuy nhiên, do gặp mặt trực tiếp vẫn có những cái lợi hơn gặp trực tuyến nên Nhật vẫn ưu tiên gặp trực tiếp hơn. Xem thêm: [Hướng dẫn thảo luận](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20th%E1%BA%A3o%20lu%E1%BA%ADn.md)
+Việc thảo luận trực tiếp thỏa cả 2 yêu cầu nên Nhật ưu tiên việc làm việc này. Tuy nhiên việc di chuyển đến địa điểm đúng giờ hay làm ngắt mạch suy nghĩ. Hệ quả của việc này là hay bị trễ giờ. Tuy nhiên, do gặp mặt trực tiếp vẫn có những cái lợi hơn gặp trực tuyến nên Nhật vẫn ưu tiên gặp trực tiếp hơn. Xem thêm: [Hướng dẫn thảo luận](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20th%E1%BA%A3o%20lu%E1%BA%ADn.md)
 
-Nếu công việc có liên hệ với chủ đề đó hoặc [Giúp những người xung quanh thoát khỏi căng thẳng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20kh%E1%BB%8Fi%20c%C4%83ng%20th%E1%BA%B3ng.md) thì có thể chấp nhận bị cản trở nhiều hơn
+Nếu công việc cần thì chiếm liên tục một hai ngày là xong dứt điểm thì vẫn ok; nếu lâu hơn thì khả năng cao là sẽ chỉ làm lúc tiện. Nếu công việc có liên hệ với chủ đề đó hoặc [Giúp những người xung quanh thoát khỏi căng thẳng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20kh%E1%BB%8Fi%20c%C4%83ng%20th%E1%BA%B3ng.md) thì có thể chấp nhận bị cản trở nhiều hơn. Nếu chỉ thảo luận thì Nhật luôn ok.
 
 Đẹp nhất là làm vào khoảng 4, 5 giờ chiều trở đi, vì thường lúc này:
 - Não hết nghĩ được gì; có muốn làm việc tiếp thì cũng không làm được
