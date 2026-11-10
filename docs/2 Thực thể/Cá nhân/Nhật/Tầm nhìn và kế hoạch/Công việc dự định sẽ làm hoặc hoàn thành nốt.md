@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2026-06-26T11:47
-updated: 2026-11-03T01:12
 description: Kế hoạch trong tương lai
+updated: 2026-11-11T01:17
 ---
 Mỗi một mảng hoạt động sẽ có 3 loại công việc chính: tìm hiểu, viết bài, xây dựng. Cái nào nếu có sự ảnh hưởng từ môi trường (có người đặt vấn đề, thuật toán mạng xã hội gợi ý, bản thân Nhật nghĩ ra ý nào đó) thì sẽ được tạm chuyển lên [Công việc đang làm](./C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md) cho tới khi hết thứ để ghi tiếp. Nếu có người cùng làm chung thì sẽ trở thành một mục riêng ở đó.
 
@@ -19,12 +19,17 @@ Viết:
 - [Hướng dẫn sử dụng nguồn lực](../C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
 
 Xây dựng:
-- [Mạng kết nối nhu cầu, nguồn lực](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20-%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
-- Hệ thống giúp đóng góp thông qua sự không tập trung (decentralized and unattended)
+- [Thành lập được những nhóm thảo luận về những chủ đề khác nhau](./Th%C3%A0nh%20l%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20nh%C3%B3m%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20nh%E1%BB%AFng%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20kh%C3%A1c%20nhau.md)
+- [Mạng kết nối nhu cầu, nguồn lực](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20-%20ngu%E1%BB%93n%20l%E1%BB%B1c.md). Hệ thống giúp đóng góp thông qua sự không tập trung (decentralized and unattended)
+- [Đánh giá được độ tác động của những dự án mình đang làm](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20v%E1%BB%81%20h%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/%C4%90%C3%A1nh%20gi%C3%A1%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%99%20t%C3%A1c%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20nh%E1%BB%AFng%20d%E1%BB%B1%20%C3%A1n%20m%C3%ACnh%20%C4%91ang%20l%C3%A0m.md). [Hiểu được vì sao không ai tương tác](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20v%E1%BB%81%20h%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20v%C3%AC%20sao%20kh%C3%B4ng%20ai%20t%C6%B0%C6%A1ng%20t%C3%A1c.md)
+	- Khảo sát những người đã từng tương tác, nhận lợi ích
 
 ## B. Sống trong thế giới tư bản 
+Tìm hiểu: 
+- Nợ, David Graeber 
+
 Viết:
-- Các vị trí và thái độ của việc giúp đỡ. Các cấp độ giúp đỡ
+- Các vị trí và thái độ của việc giúp đỡ. Các cấp độ giúp đỡ | 1
 
 Xây dựng:
 - Quỹ cộng đồng
@@ -40,6 +45,7 @@ Viết:
 - Silo thông tin
 
 Xây dựng:
+- Thúc đẩy việc sử dụng local-first
 
 ## D. Phát triển bản thân và kỹ năng sống
 Tìm hiểu: 
@@ -67,9 +73,10 @@ Viết:
 - Bản đồ các niềm tin và vị trí của mỗi người
 - Khi điều đi ngược lại niềm tin của mình tạo ra được thứ mình cần
 - Sự đối xứng trượt trong việc tạo nghĩa, quan niệm và giao tiếp
-- Cách giới thiệu ý hệ của mình một cách an toàn 
+- Cách giới thiệu ý hệ của mình một cách an toàn
 
 Xây dựng:
+- Thúc đầy dịch chuyển sang các mạng xã hội tốt hơn
 - [Vá lại các lỗ hổng trong kiến thức, niềm tin của bản thân](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/L%E1%BA%ADp%20lu%E1%BA%ADn/V%C3%A1%20l%E1%BA%A1i%20c%C3%A1c%20l%E1%BB%97%20h%E1%BB%95ng%20trong%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20ni%E1%BB%81m%20tin%20c%E1%BB%A7a%20b%E1%BA%A3n%20th%C3%A2n.md)
 - Các buổi đối thoại về các niềm tin xung đột nhau
 	- [Tổ chức các buổi thảo luận về tình bạn](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/T%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20t%C3%ACnh%20b%E1%BA%A1n.md)

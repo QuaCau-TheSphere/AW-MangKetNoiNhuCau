@@ -15,7 +15,7 @@ Xem thêm:: [Lời mời sử dụng nguồn lực của Nhật](../Ngu%E1%BB%93
 Nhật đang có nguy cơ bị hội chứng ống cổ tay. Có lẽ là vì cầm điện thoại hơi nhiều, mà điện thoại lại hơi nặng. Có lẽ có điện thoại mới sẽ tốt hơn, nhưng không có tiền mua.
 
 ## Không cản trở mạch suy nghĩ về chủ đề Nhật đang nghiên cứu
-Nếu công việc bạn muốn nhờ vốn đã nằm trong [các nhu cầu và kế hoạch của Nhật](../Nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/index.md), đặc biệt là [các công việc đang làm](../Nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md) thì Nhật luôn sẵn sàng. Bản thân Nhật cũng đang kiếm những người muốn làm những điều như vậy. Nếu như công việc không nằm trong các bài đó thì Nhật muốn nhận làm những thứ:
+Nếu công việc bạn muốn nhờ vốn đã nằm trong [các nhu cầu và kế hoạch của Nhật](../T%E1%BA%A7m%20nh%C3%ACn%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/index.md), đặc biệt là [các công việc đang làm](../T%E1%BA%A7m%20nh%C3%ACn%20v%C3%A0%20k%E1%BA%BF%20ho%E1%BA%A1ch/C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md) thì Nhật luôn sẵn sàng. Bản thân Nhật cũng đang kiếm những người muốn làm những điều như vậy. Nếu như công việc không nằm trong các bài đó thì Nhật muốn nhận làm những thứ:
  - Không đòi hỏi phải ngắt suy nghĩ giữa chừng để làm việc khác
  - Không đòi hỏi phải nghĩ về cái khác ở cường độ cao (VD: đọc bài dài, nghĩ lắt léo). Chỉ cần dựa trên những gì đã biết và một chút động não để liên kết các ý, đặt câu hỏi là đạt yêu cầu
 
