@@ -1,10 +1,11 @@
 ---
 created: 2022-10-07T01:57
-updated: 2026-11-11T01:17
+updated: 2026-11-22T15:27
 share: true
 title: Nhu cầu của Nhật
 description: Gần như tất cả hành động của Nhật đều có thể quy về việc giúp mình và mọi người (1) thoát khỏi căng thẳng và (2) trò chuyện vui vẻ và sâu sắc với những người xung quanh.
 ---
+## Tóm tắt
 Nhật tự định vị bản thân là một người bạn của mọi người và của các khái niệm. Vì vậy gần như tất cả hành động của Nhật đều có thể quy về việc làm những điều mà Nhật cho là một người bạn sẽ làm, cụ thể là giúp mình và mọi người:
 - [Thoát khỏi căng thẳng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20kh%E1%BB%8Fi%20c%C4%83ng%20th%E1%BA%B3ng.md), 
 - [Trò chuyện vui vẻ và sâu sắc với những người xung quanh](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Nhu%20c%E1%BA%A7u%20t%C3%ACnh%20c%E1%BA%A3m/Quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20%C4%91%E1%BB%9Di%20s%E1%BB%91ng%20c%E1%BB%A7a%20nhau/Tr%C3%B2%20chuy%E1%BB%87n%20vui%20v%E1%BA%BB%20v%C3%A0%20s%C3%A2u%20s%E1%BA%AFc%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh.md)
@@ -23,14 +24,17 @@ Nhật vẽ ra [Quả Cầu](../../../T%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3%20C%
 
 Xem thêm:: [Công việc đang làm](./C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md)
 
-## [🔥 Muốn có ngay nhưng đã phải dành sự tập trung cao nhất cho việc khác](../../../../9%20T%C3%A0i%20li%E1%BB%87u/Ph%C3%A2n%20lo%E1%BA%A1i%20nhu%20c%E1%BA%A7u/%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/%F0%9F%94%A5%20Mu%E1%BB%91n%20c%C3%B3%20ngay%20nh%C6%B0ng%20%C4%91%C3%A3%20ph%E1%BA%A3i%20d%C3%A0nh%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20cao%20nh%E1%BA%A5t%20cho%20vi%E1%BB%87c%20kh%C3%A1c.md)
+[Nhu cầu cá nhân](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/index.md) và [Nhu cầu sứ mạng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/index.md) tạo ra nhu cầu dự án, nhưng để nhu cầu dự án lên trước 
+
+## [Nhu cầu dự án](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/index.md)
+[🔥 Muốn có ngay nhưng đã phải dành sự tập trung cao nhất cho việc khác](../../../../9%20T%C3%A0i%20li%E1%BB%87u/Ph%C3%A2n%20lo%E1%BA%A1i%20nhu%20c%E1%BA%A7u/%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/%F0%9F%94%A5%20Mu%E1%BB%91n%20c%C3%B3%20ngay%20nh%C6%B0ng%20%C4%91%C3%A3%20ph%E1%BA%A3i%20d%C3%A0nh%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20cao%20nh%E1%BA%A5t%20cho%20vi%E1%BB%87c%20kh%C3%A1c.md)
 ### [Không bị quá tải đầu óc](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/T%C3%A0i%20nguy%C3%AAn/Kh%C3%B4ng%20b%E1%BB%8B%20qu%C3%A1%20t%E1%BA%A3i%20%C4%91%E1%BA%A7u%20%C3%B3c.md)
 Giải pháp:
 - Những người muốn giao việc cho Nhật thảo luận về những người khác hoặc nhìn vào bản nhu cầu này, hoặc 
 - Thu hút sự đóng góp của người khác. Tức là [Có trợ lý, thư ký, cộng sự, người làm cùng, nhóm hỗ trợ, ê kíp, bầu sô, người quản lý](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20tr%E1%BB%A3%20l%C3%BD,%20th%C6%B0%20k%C3%BD,%20c%E1%BB%99ng%20s%E1%BB%B1,%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B9ng,%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3,%20%C3%AA%20k%C3%ADp,%20b%E1%BA%A7u%20s%C3%B4,%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD.md) hoặc,
 - [Có hệ thống chat tốt](C%C3%B3%20h%E1%BB%87%20th%E1%BB%91ng%20chat%20t%E1%BB%91t.md)
 
-### [Thành lập được những nhóm thảo luận về những chủ đề khác nhau](./Th%C3%A0nh%20l%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20nh%C3%B3m%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20nh%E1%BB%AFng%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20kh%C3%A1c%20nhau.md)
+### [Thành lập được những nhóm thảo luận về những chủ đề khác nhau](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Th%C3%A0nh%20l%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20nh%C3%B3m%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20nh%E1%BB%AFng%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20kh%C3%A1c%20nhau.md)
 [Những chủ đề Nhật chia sẻ được](../Ngu%E1%BB%93n%20l%E1%BB%B1c/Ch%E1%BB%A7%20%C4%91%E1%BB%81%20n%C3%B3i%20chuy%E1%BB%87n.md)
 
 ### [Có trợ lý, thư ký, cộng sự, người làm cùng, nhóm hỗ trợ, ê kíp, bầu sô, người quản lý](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/C%C3%B3%20tr%E1%BB%A3%20l%C3%BD,%20th%C6%B0%20k%C3%BD,%20c%E1%BB%99ng%20s%E1%BB%B1,%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B9ng,%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3,%20%C3%AA%20k%C3%ADp,%20b%E1%BA%A7u%20s%C3%B4,%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD.md) 
@@ -46,11 +50,11 @@ Nếu có được một nhóm hỗ trợ, thì sẽ [Hiểu được nhu cầu 
 - [Có người kế tục](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20v%E1%BB%81%20h%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20k%E1%BA%BF%20t%E1%BB%A5c.md)
 - [Thông tin, truyền thông ra bên ngoài](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/Truy%E1%BB%81n%20th%C3%B4ng/Th%C3%B4ng%20tin,%20truy%E1%BB%81n%20th%C3%B4ng%20ra%20b%C3%AAn%20ngo%C3%A0i.md)
 
+
 Có lẽ đây là các yếu tố chính khiến cho những bài truyền thông về các sản phẩm Nhật làm không được lan rộng, dù Nhật tin là nó có giá trị:
 - Không tìm cách để mình có chức danh gì trông uy tín
 - Đáp ứng các nhu cầu mà họ không nghĩ là mình cần
-- Nhật nghĩ là nếu có thể thì nên tránh việc có những nếp nghĩ của một người cần tiền, dù thừa nhận là nếu muốn tiếp tục có thời gian tập trung vào những gì mình đang làm thì không thể không dùng đến tiền. Một trong những hệ quả của việc này là 
-không được viết theo cách một người cần tiền sẽ thấy cần nó, dù nếu họ thảo luận sâu thì sẽ thấy nó luôn đáp ứng được những gì họ cần theo cách mà họ không ngờ tới. 
+- Nhật nghĩ là nếu có thể thì nên tránh việc có những nếp nghĩ của một người cần tiền, dù thừa nhận là nếu muốn tiếp tục có thời gian tập trung vào những gì mình đang làm thì không thể không dùng đến tiền. Một trong những hệ quả của việc này là không được viết theo cách một người cần tiền sẽ thấy cần nó, dù nếu họ thảo luận sâu thì sẽ thấy nó luôn đáp ứng được những gì họ cần theo cách mà họ không ngờ tới. 
 
 Viết các bài phản hồi
 ### [Đánh giá được độ tác động của những dự án mình đang làm](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20v%E1%BB%81%20h%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/%C4%90%C3%A1nh%20gi%C3%A1%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%99%20t%C3%A1c%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20nh%E1%BB%AFng%20d%E1%BB%B1%20%C3%A1n%20m%C3%ACnh%20%C4%91ang%20l%C3%A0m.md). [Hiểu được vì sao không ai tương tác](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20v%E1%BB%81%20h%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20v%C3%AC%20sao%20kh%C3%B4ng%20ai%20t%C6%B0%C6%A1ng%20t%C3%A1c.md)
@@ -66,7 +70,7 @@ Em nghĩ đây là vấn đề thuộc các nhóm sau: thiếu định hướng,
 - [Biết được thêm về cuộc sống của những người quanh mình](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%AAm%20v%E1%BB%81%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%E1%BB%A7a%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20quanh%20m%C3%ACnh.md)
 - [Xây dựng mạng kết nối nhu cầu - nguồn lực](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20-%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
 	- Có người hỗ trợ thu thập, phân loại dữ liệu, xây dựng triết lý, tính năng 
-	- 
+	- [8 Kế hoạch](../../../../8%20K%E1%BA%BF%20ho%E1%BA%A1ch/index.md)
 - Tìm hiểu tại sao những người quanh mình không có nhu cầu đó
 - Khảo sát những người đã từng tương tác, nhận lợi ích
 
@@ -75,6 +79,8 @@ Em nghĩ đây là vấn đề thuộc các nhóm sau: thiếu định hướng,
 - Giả định là người Sài Gòn sẵn sàng bỏ tiền ra để tiết kiệm thời gian. Vậy có thật là họ không quan tâm tới việc kết nối nhu cầu không? Họ đâu phải là chưa trải nghiệm chuyện có những thứ muốn bỏ tiền ra cũng không có được?
 Thấy bản thân có thời gian, yên tâm rằng việc tập trung vào việc tốt cho người khác sẽ đem đến sự tốt cho mình một cách thực chất
 
+## [Nhu cầu cá nhân](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/index.md) và [Nhu cầu sứ mạng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/index.md)
+[❄️ Thỉnh thoảng sẽ khó chịu vì không được đáp ứng](../../../../9%20T%C3%A0i%20li%E1%BB%87u/Ph%C3%A2n%20lo%E1%BA%A1i%20nhu%20c%E1%BA%A7u/%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/%E2%9D%84%EF%B8%8F%20Th%E1%BB%89nh%20tho%E1%BA%A3ng%20s%E1%BA%BD%20kh%C3%B3%20ch%E1%BB%8Bu%20v%C3%AC%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng.md)
 ### [Các xung đột về niềm tin được giải quyết triệt để](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/C%C3%A1c%20xung%20%C4%91%E1%BB%99t%20v%E1%BB%81%20ni%E1%BB%81m%20tin%20%C4%91%C6%B0%E1%BB%A3c%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20tri%E1%BB%87t%20%C4%91%E1%BB%83.md)
 - Mọi người [Nâng cao sự kiên nhẫn của mình](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%A1i%20%C4%91%E1%BB%99%20s%E1%BB%91ng/N%C3%A2ng%20cao%20s%E1%BB%B1%20ki%C3%AAn%20nh%E1%BA%ABn%20c%E1%BB%A7a%20m%C3%ACnh.md), [Luôn tìm cách đặt câu hỏi trước khi đưa ra nhận xét](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/V%C3%A9t%20c%E1%BA%A1n/Lu%C3%B4n%20t%C3%ACm%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi%20tr%C6%B0%E1%BB%9Bc%20khi%20%C4%91%C6%B0a%20ra%20nh%E1%BA%ADn%20x%C3%A9t.md), [Đi đến tận cùng của sự đối thoại](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/V%C3%A9t%20c%E1%BA%A1n/%C4%90i%20%C4%91%E1%BA%BFn%20t%E1%BA%ADn%20c%C3%B9ng%20c%E1%BB%A7a%20s%E1%BB%B1%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md), [Suy nghĩ về giá trị phản tư](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/Suy%20ngh%C4%A9%20v%E1%BB%81%20gi%C3%A1%20tr%E1%BB%8B%20ph%E1%BA%A3n%20t%C6%B0.md), [Nhìn thấy được các cơ chế quyền lực đang chi phối cách nhìn của mình](Nh%C3%ACn%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A1c%20c%C6%A1%20ch%E1%BA%BF%20quy%E1%BB%81n%20l%E1%BB%B1c%20%C4%91ang%20chi%20ph%E1%BB%91i%20c%C3%A1ch%20nh%C3%ACn%20c%E1%BB%A7a%20m%C3%ACnh.md), [Suy nghĩ về việc chứng minh mình sai](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/V%C3%A9t%20c%E1%BA%A1n/Suy%20ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ch%E1%BB%A9ng%20minh%20m%C3%ACnh%20sai.md), [Thấy được sự đối xứng trong việc cảm nhận thực tại khi phê phán sự cảm nhận thực tại của người khác](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/%C4%90%E1%BB%91i%20x%E1%BB%A9ng/Th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20%C4%91%E1%BB%91i%20x%E1%BB%A9ng%20trong%20vi%E1%BB%87c%20c%E1%BA%A3m%20nh%E1%BA%ADn%20th%E1%BB%B1c%20t%E1%BA%A1i%20khi%20ph%C3%AA%20ph%C3%A1n%20s%E1%BB%B1%20c%E1%BA%A3m%20nh%E1%BA%ADn%20th%E1%BB%B1c%20t%E1%BA%A1i%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md), [Sử dụng lý trí chứ không phải cảm xúc để nói chuyện](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%91i%20tho%E1%BA%A1i/S%E1%BB%AD%20d%E1%BB%A5ng%20l%C3%BD%20tr%C3%AD%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20c%E1%BA%A3m%20x%C3%BAc%20%C4%91%E1%BB%83%20n%C3%B3i%20chuy%E1%BB%87n.md)
 - [Xây dựng diễn ngôn mới](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/X%C3%A2y%20d%E1%BB%B1ng%20di%E1%BB%85n%20ng%C3%B4n%20m%E1%BB%9Bi.md)
@@ -89,17 +95,21 @@ Thấy bản thân có thời gian, yên tâm rằng việc tập trung vào vi�
 - [Động vật không bị xích hoặc nhốt](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/%C4%90%E1%BB%99ng%20v%E1%BA%ADt%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%ADch%20ho%E1%BA%B7c%20nh%E1%BB%91t.md)
 - [Mọi người không còn ai phải tìm cách quên đi những tổn thương](M%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20c%C3%B2n%20ai%20ph%E1%BA%A3i%20t%C3%ACm%20c%C3%A1ch%20qu%C3%AAn%20%C4%91i%20nh%E1%BB%AFng%20t%E1%BB%95n%20th%C6%B0%C6%A1ng.md)
 
-## [❄️ Thỉnh thoảng sẽ khó chịu vì không được đáp ứng](../../../../9%20T%C3%A0i%20li%E1%BB%87u/Ph%C3%A2n%20lo%E1%BA%A1i%20nhu%20c%E1%BA%A7u/%C4%90%E1%BB%99%20c%E1%BA%A5p%20thi%E1%BA%BFt/%E2%9D%84%EF%B8%8F%20Th%E1%BB%89nh%20tho%E1%BA%A3ng%20s%E1%BA%BD%20kh%C3%B3%20ch%E1%BB%8Bu%20v%C3%AC%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng.md)
 Những nhu cầu sau muốn được làm trong khi vẫn được tập trung vào [Các công việc đang làm](./C%C3%B4ng%20vi%E1%BB%87c%20%C4%91ang%20l%C3%A0m.md)
 
 ### [Độc lập tài chính](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20d%E1%BB%B1%20%C3%A1n/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/K%E1%BA%BF%20to%C3%A1n/%C4%90%E1%BB%99c%20l%E1%BA%ADp%20t%C3%A0i%20ch%C3%ADnh.md), [Tự do tài chính](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/T%E1%BB%B1%20do%20t%C3%A0i%20ch%C3%ADnh.md), [Đa dạng hóa nguồn thu nhập](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/%C4%90a%20d%E1%BA%A1ng%20h%C3%B3a%20ngu%E1%BB%93n%20thu%20nh%E1%BA%ADp.md)
 - Có 1tr mỗi tháng
 - Có phương án dự phòng nếu như thu nhập hiện tại gặp trục trặc bất ngờ
-
+[Lý do chưa đi kiếm tiền](../C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/L%C3%BD%20do%20ch%C6%B0a%20%C4%91i%20ki%E1%BA%BFm%20ti%E1%BB%81n.md)
 Lý do:
 - [Xây dựng cộng đồng có chủ đích](../../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/X%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch.md)
 - [Đóng góp tiền cho những dự án có ý nghĩa](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/%C4%90%C3%B3ng%20g%C3%B3p%20ti%E1%BB%81n%20cho%20nh%E1%BB%AFng%20d%E1%BB%B1%20%C3%A1n%20c%C3%B3%20%C3%BD%20ngh%C4%A9a.md)
 - [Được tạo điều kiện để có thể tiếp tục làm những gì mình đang làm trong trường hợp gia đình không nuôi nữa](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/T%C3%A0i%20nguy%C3%AAn/%C4%90%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n%20%C4%91%E1%BB%83%20c%C3%B3%20th%E1%BB%83%20ti%E1%BA%BFp%20t%E1%BB%A5c%20l%C3%A0m%20nh%E1%BB%AFng%20g%C3%AC%20m%C3%ACnh%20%C4%91ang%20l%C3%A0m%20trong%20tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p%20gia%20%C4%91%C3%ACnh%20kh%C3%B4ng%20nu%C3%B4i%20n%E1%BB%AFa.md)
+- Làm mọi người yên tâm về mình
+	- Không phải xin tiền mẹ
+- Giúp bạn bè thoát khỏi căng thẳng tiền bạc
+- Có thêm nhân sự
+- Giúp không phải bán nhà
 
 Cách làm:
 - [Kiếm được tiền từ kiến thức và mối quan hệ của mình](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Ki%E1%BA%BFm%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BB%81n%20t%E1%BB%AB%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20m%E1%BB%91i%20quan%20h%E1%BB%87%20c%E1%BB%A7a%20m%C3%ACnh.md): làm công việc tư vấn, huấn luyện, tổ chức sự kiện, gia công giải pháp phần mềm, xây dựng cộng đồng, xây dựng quỹ tín dụng
@@ -133,10 +143,4 @@ Có lẽ nếu đổi sang cái điện thoại khác nhẹ hơn thì sẽ hết
 - [Có người bôi thuốc hoặc đưa thuốc cho mình uống giùm](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20b%C3%B4i%20thu%E1%BB%91c%20ho%E1%BA%B7c%20%C4%91%C6%B0a%20thu%E1%BB%91c%20cho%20m%C3%ACnh%20u%E1%BB%91ng%20gi%C3%B9m.md)
 - [Hết loét dạ dày](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/K%E1%BB%B9%20n%C4%83ng,%20d%E1%BB%8Bch%20v%E1%BB%A5/S%E1%BB%A9c%20kh%E1%BB%8Fe/H%E1%BA%BFt%20lo%C3%A9t%20d%E1%BA%A1%20d%C3%A0y.md)
 
-| Chẩn đoán      | Triệu chứng | Hệ quả                                                | Giải pháp tạm thời | Vấn đề thứ cấp |
-| -------------- | ----------- | ----------------------------------------------------- | ------------------ | -------------- |
-| Loét dạ dày    | Ợ nhiều     |                                                       |                    |                |
-|                | Đau tay     | Không gõ máy, cầm điện thoại được                     |                    |                |
-| Viêm da cơ địa |             | Hay gãi. Không phải đồ uống có cồn nào cũng uống được |                    |                |
-| Gai cột sống?  | Đau lưng    |                                                       |                    |                |
-|                | Gù lưng     |                                                       |                    |                |
+[Các vấn đề về sức khỏe](../Ngu%E1%BB%93n%20l%E1%BB%B1c/C%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20v%E1%BB%81%20s%E1%BB%A9c%20kh%E1%BB%8Fe.md)
