@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-13T21:40
-updated: 2026-11-04T14:24
+updated: 2026-11-22T20:48
 title: Lời mời sử dụng nguồn lực của Nhật
 description: Nếu bạn đang cần được giúp gì thì đây là những thứ mình sẵn sàng giúp nhé
 ---
@@ -24,5 +24,5 @@ Nếu như công việc không được liệt kê trong các bài đó thì Nh�
 ## Xem thêm
 - [Mục lục về Nhật](../index.md)
 - [Tiêu chí nhận công việc của Nhật](../C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/Ti%C3%AAu%20ch%C3%AD%20nh%E1%BA%ADn%20c%C3%B4ng%20vi%E1%BB%87c.md)
-- [Ý tưởng kiếm tiền từ Nhật](https://doi-thoai.deno.dev/NB.7R.1)
+- [Ý tưởng kiếm tiền từ Nhật](https://kiếmtiền.quảcầu.cc/📐Dự%20án/Giúp%20nhau%20kiếm%20tiền/Ý%20tưởng%20kiếm%20tiền%20từ%20Nhật?utm_source=Vault+A+Mạng+kết+nối+nhu+cầu+-+nguồn+lực+(Tài+nguyên)&utm_medium=Vault&utm_campaign=B2&utm_content=2+Thực+thể%2FCá+nhân%2FNhật%2FNguồn+lực%2FCác+công+việc+nhận+làm.md&utm_term=)
 - [Những cách đóng góp lại khi nhận được sự hỗ trợ](https://kiếmtiền.quảcầu.cc/📐Dự%20án/Xây%20dựng%20hệ%20thống%20kinh%20tế%20mới/Những%20cách%20đóng%20góp%20lại%20khi%20nhận%20được%20sự%20hỗ%20trợ?utm_source=Vault+A+Mạng+kết+nối+nhu+cầu+-+nguồn+lực+(Tài+nguyên)&utm_medium=Vault&utm_campaign=B2&utm_content=2+Thực+thể%2FCá+nhân%2FNhật%2FNguồn+lực%2FCác+công+việc+nhận+làm.md&utm_term=)

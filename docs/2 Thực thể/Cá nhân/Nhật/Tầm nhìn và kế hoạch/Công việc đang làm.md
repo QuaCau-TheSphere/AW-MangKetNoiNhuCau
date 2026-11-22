@@ -2,7 +2,7 @@
 share: true
 created: 2026-05-13T21:53
 title: Các công việc đang làm
-updated: 2026-11-11T01:18
+updated: 2026-11-13T22:33
 ---
 Đã xuất hiện tầm một tháng và chưa thấy sẽ ngừng lại trong vòng một tháng thì sẽ được đưa vào đây. Ngừng lại không có nghĩa là hoàn thành.
 
@@ -10,9 +10,12 @@ Những công việc nghiên cứu sẽ được dành sự tập trung cao nh�
 
 Xem thêm:: [Các công việc nhận làm](../Ngu%E1%BB%93n%20l%E1%BB%B1c/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20nh%E1%BA%ADn%20l%C3%A0m.md), [Công việc dự định sẽ làm hoặc hoàn thành nốt](./C%C3%B4ng%20vi%E1%BB%87c%20d%E1%BB%B1%20%C4%91%E1%BB%8Bnh%20s%E1%BA%BD%20l%C3%A0m%20ho%E1%BA%B7c%20ho%C3%A0n%20th%C3%A0nh%20n%E1%BB%91t.md)
 
-## Nghiên cứu pháp luật
+## Động lực nội sinh
+Nghiên cứu pháp luật
 [Lý do làm nghiên cứu](../C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/L%C3%BD%20do%20l%C3%A0m%20nghi%C3%AAn%20c%E1%BB%A9u.md)
+## Phỏng vấn những người
 
+## Những thứ làm một phần vì động lực ngoại sinh
 ## Đóng góp ý kiến, hỗ trợ xây dựng, quản lý hệ thống thông tin, kết nối nguồn lực cho các dự án có mục tiêu [chia sẻ kiến thức, kỹ năng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20g%C3%B3c%20nh%C3%ACn/Chia%20s%E1%BA%BB%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng.md) hoặc [kết nối nguồn lực](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20s%E1%BB%A9%20m%E1%BA%A1ng/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c/K%E1%BA%BFt%20n%E1%BB%91i%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
 Việc này sẽ giúp [hiểu được nhu cầu và nguồn lực xung quanh](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20nhu%20c%E1%BA%A7u%20v%C3%A0%20ngu%E1%BB%93n%20l%E1%BB%B1c%20xung%20quanh.md) một cách hiệu quả nhất, từ đó có thể:
 - [Chia sẻ các nguồn lực của mình tới những người cần nó](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/T%C3%A0i%20nguy%C3%AAn/Chia%20s%E1%BA%BB%20c%C3%A1c%20ngu%E1%BB%93n%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh%20t%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20n%C3%B3.md). Nếu có thể [kiếm được tiền từ chúng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Ki%E1%BA%BFm%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BB%81n%20t%E1%BB%AB%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20m%E1%BB%91i%20quan%20h%E1%BB%87%20c%E1%BB%A7a%20m%C3%ACnh.md) thì càng tốt
@@ -29,7 +32,7 @@ Những bên đang tham gia: [Quả Cầu](../../../T%E1%BB%95%20ch%E1%BB%A9c/Qu
 - [Hiểu được nhu cầu và nguồn lực xung quanh](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/X%C3%A3%20h%E1%BB%99i/Hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20nhu%20c%E1%BA%A7u%20v%C3%A0%20ngu%E1%BB%93n%20l%E1%BB%B1c%20xung%20quanh.md)
 
 ## [Giúp những người xung quanh thoát khỏi căng thẳng](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/Gi%C3%BAp%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20tho%C3%A1t%20kh%E1%BB%8Fi%20c%C4%83ng%20th%E1%BA%B3ng.md), để họ [được sống cuộc sống thú vị và ý nghĩa](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Th%C3%A1i%20%C4%91%E1%BB%99%20s%E1%BB%91ng/%C4%90%C6%B0%E1%BB%A3c%20s%E1%BB%91ng%20cu%E1%BB%99c%20s%E1%BB%91ng%20th%C3%BA%20v%E1%BB%8B%20v%C3%A0%20%C3%BD%20ngh%C4%A9a.md)
-Với những ai đã biết về các cách như vậy nhưng vẫn không muốn làm thì là họ chọn đau khổ vì một thứ lớn hơn. Vậy thì không còn cần phải giúp họ nữa. Nói cách khác thì chỉ giúp khi tiện. Phải cho thấy việc đó đem lại sự ổn định.
+Với những ai đã biết về các cách như vậy nhưng vẫn không muốn làm thì là họ muốn đạt được thứ đó hơn là thoát khỏi đau khổ. Vậy thì không còn cần phải giúp họ thoát khỏi đau khổ nữa. Lúc đó thì chỉ giúp nó nằm trong [Tầm nhìn và kế hoạch](./index.md), còn không thì chỉ giúp khi tiện hoặc không quá tốn thời gian, và phải minh bạch. Làm công việc của họ đỡ cực hơn. Phải cho thấy việc đó đem lại sự ổn định. Nói cách khác, chỉ những người cũng làm tương tự thì mới đáng bận, còn lại thì ko
 
 Một trong những điều thường gặp là giúp bạn bè [Thoát khỏi vòng xoáy nợ nần](../../../../1%20Nhu%20c%E1%BA%A7u/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng/Nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81n%20b%E1%BA%A1c/C%E1%BA%AFt%20n%E1%BB%A3/Tho%C3%A1t%20kh%E1%BB%8Fi%20v%C3%B2ng%20xo%C3%A1y%20n%E1%BB%A3%20n%E1%BA%A7n.md). Giải pháp gốc rễ, lâu dài thì cần: 
 - [Lập quỹ tín dụng vi mô](../../../../3%20S%E1%BA%A3n%20ph%E1%BA%A9m/B%20T%C6%B0%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%C3%A1i%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/L%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4.md)
